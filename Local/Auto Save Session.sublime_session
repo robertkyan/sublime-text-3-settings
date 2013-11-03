@@ -1,0 +1,1519 @@
+{
+	"folder_history":
+	[
+		"/Users/robedwards/Sites/edwardssecurities.com",
+		"/Users/robedwards/Sites/ore.com",
+		"/Users/robedwards/Sites/illumii/illumii-5168540",
+		"/Users/robedwards/Sites/illumii/illumii-5119890",
+		"/Users/robedwards/Sites/sibert.co.uk-shopify/sibert-online-4483733",
+		"/Users/robedwards/Sites/sibert.co.uk-shopify",
+		"/Users/robedwards/Sites/illumii",
+		"/Users/robedwards/Downloads/InspiraUKLtd-InspiraNewsletter2012",
+		"/Users/robedwards/Sites/rebellion.co.uk",
+		"/Users/robedwards/Sites/greenshieldsjcb.com",
+		"/Users/robedwards/Sites/otrsales.co.uk",
+		"/Users/robedwards/Sites/springfielddecorations.com",
+		"/Users/robedwards/Sites/egremontgroup.com",
+		"/Users/robedwards/Sites/pingsta.com",
+		"/Users/robedwards/Sites/triniti-m.com",
+		"/Users/robedwards/Sites/classpages.co.uk",
+		"/Users/robedwards/Sites/lal-schools-cms",
+		"/Users/robedwards/Sites/jcwatson.co.uk",
+		"/Users/robedwards/Sites/invensys.com",
+		"/Users/robedwards/Sites/grafham-grange.co.uk",
+		"/Users/robedwards/Sites/ggset.co.uk"
+	],
+	"last_version": 3047,
+	"last_window_id": 64,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 1064.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 375.0,
+				"selected_items":
+				[
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"INSTALL",
+						"Package Control: Install Package"
+					],
+					[
+						"list pac",
+						"Package Control: List Packages"
+					],
+					[
+						"isntall",
+						"Package Control: Install Package"
+					],
+					[
+						"pacak",
+						"Package Control: List Packages"
+					],
+					[
+						"remove p",
+						"Package Control: Remove Package"
+					],
+					[
+						"remove pa",
+						"Package Control: Remove Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"list pa",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 435.0
+			},
+			"console":
+			{
+				"height": 131.0,
+				"history":
+				[
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/robedwards/Sites/edwardssecurities.com/app/views/news/royal_mail.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/assets/stylesheets/admin/bootstrap_responsive.scss",
+				"/Users/robedwards/Sites/ore.com/app/views/products/easy_for_you.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/views/shared/_consultation_form.html.erb",
+				"/Users/robedwards/Sites/sibert.co.uk-shopify/sibert-online-4483733/snippets/aside_menu.liquid",
+				"/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application/_media_queries.scss",
+				"/Users/robedwards/Sites/ore.com/app/assets/javascripts/application/core.js",
+				"/Users/robedwards/Sites/ore.com/app/views/base/index.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/assets/javascripts/application/homepageCanvas.js",
+				"/Users/robedwards/Sites/ore.com/app/assets/javascripts/application.js",
+				"/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application/core.scss",
+				"/Users/robedwards/Sites/ore.com/config/application.rb",
+				"/Users/robedwards/Sites/ore.com/app/views/base/contact_us.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/views/support/library.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/views/solutions/index.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/views/who_for/educational_institutions.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/views/who_for/retail_banks.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/views/about_us/index.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/controllers/base_controller.rb",
+				"/Users/robedwards/Sites/ore.com/config/routes.rb",
+				"/Users/robedwards/Sites/ore.com/app/views/who_for/brokers_spread_betting.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/views/products/easy_for_clients.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/controllers/who_for_controller.rb",
+				"/Users/robedwards/Sites/ore.com/app/views/support/faq.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application/_magnific.scss",
+				"/Users/robedwards/Sites/ore.com/app/controllers/solutions_controller.rb",
+				"/Users/robedwards/Sites/ore.com/app/controllers/support_controller.rb",
+				"/Users/robedwards/Sites/ore.com/app/assets/javascripts/application/magnific.js",
+				"/Users/robedwards/Sites/ore.com/app/assets/images/bg_solutions_level_3.png",
+				"/Users/robedwards/Sites/ore.com/app/helpers/application_helper.rb",
+				"/Users/robedwards/Sites/ore.com/app/views/who_for/index.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application/_reset.scss",
+				"/Users/robedwards/Sites/ore.com/app/assets/javascripts/application/grid.js",
+				"/Users/robedwards/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/robedwards/Sites/ore.com/app/controllers/products_controller.rb",
+				"/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application.css",
+				"/Users/robedwards/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/robedwards/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+				"/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application/_colorbox.scss",
+				"/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application/mobile.scss",
+				"/Users/robedwards/Sites/ggset.co.uk/public/client/css/override.css",
+				"/Users/robedwards/Sites/invensys.com/app/assets/stylesheets/application/core.scss",
+				"/Users/robedwards/Sites/invensys.com/app/assets/stylesheets/application/core.css",
+				"/Users/robedwards/Library/Caches/Cleanup At Startup/Transmit/08E68FF8-6EC1-4DF2-9EC1-888038B449F6/main.php",
+				"/Users/robedwards/Library/Caches/Cleanup At Startup/Transmit/87859044-8597-48DC-8D54-6531D9A4C705/index.php",
+				"/Users/robedwards/Sites/egremontgroup.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/subscantech.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/invensys.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/otrsales.co.uk/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/classpages.co.uk/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/lal-schools-cms/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/lal-schools-cms/vendor/gems/browsercms-3.3.3/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/lal-schools-cms/vendor/gems/browsercms-3.3.3/app/views/layouts/cms/application.html.erb",
+				"/Users/robedwards/Sites/multiven.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/classlists.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/webmeetguildford.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/edwardssecurities.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/beckandco.co.uk/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/connect.rokebyschool.co.uk/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/fishneedwater.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/lawingov.org.uk/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/jukebox/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/stash-fork/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/stash/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/county-concierge.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/SoulPad/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/greenshieldsjcb.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/rebellion.co.uk/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/springfielddecorations.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/Users/robedwards/Sites/invensys.com/Gemfile",
+				"/Users/robedwards/Sites/invensys.com/.ruby-version",
+				"/Users/robedwards/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/CHANGELOG"
+			],
+			"find":
+			{
+				"height": 37.0
+			},
+			"find_in_files":
+			{
+				"height": 95.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"pdf",
+					".col",
+					"royal_mail",
+					"Who for",
+					"\"><%=",
+					"h2",
+					"desktop",
+					"1024",
+					"mq-tablet-landscape",
+					"desktop-",
+					".content {",
+					"slide_1",
+					".content {",
+					"col_1-3",
+					"slide_1",
+					"max-width: 570",
+					"block_mod",
+					"home_gallery ",
+					"h1",
+					"<h1>Products",
+					";\n",
+					"for",
+					"h2",
+					"'#', 'Learn more'",
+					"h3",
+					"link_to '#', Learn more",
+					"// P",
+					":telephone",
+					"telephone",
+					":email",
+					"aside_menu",
+					"800",
+					"570px",
+					"include",
+					"tablet-land",
+					"main-nav",
+					"height: ",
+					"150px",
+					"#header",
+					"font-weight: 500",
+					"500",
+					"font-weight: 500;",
+					"$brandon",
+					".content",
+					"<%= link_to 'Brokers/Spread betting', who_for_path %>",
+					":after {",
+					"main-nav",
+					"docked",
+					"2",
+					"5",
+					"height",
+					"\n      ",
+					"menu",
+					"main-nav",
+					"800p",
+					".content {",
+					"padding",
+					"padding:",
+					"1024",
+					"width",
+					"find",
+					"this",
+					"$this",
+					"interval",
+					"37%",
+					"isplay: block; width: 70px; height: 70px; ",
+					"background-image:",
+					"gallerify",
+					"postslide",
+					"fitWidth",
+					".btn",
+					"font_freight",
+					"<attr class=\"required\">*</attr>",
+					"h3",
+					"consultation_form",
+					".cols_",
+					"6%",
+					"figu",
+					"h1",
+					"teal",
+					"cols_",
+					"<ul>",
+					"checklist",
+					"h1",
+					";\n",
+					".btn",
+					"h1",
+					"h2",
+					"h1",
+					"li",
+					"h2",
+					"<h2>",
+					"<p>",
+					"<%= image_tag",
+					":class",
+					".on",
+					"')",
+					"content:",
+					".highlight",
+					"cols",
+					".cols {",
+					"cols",
+					"col_1-2",
+					"solutions",
+					"green",
+					"darken",
+					"2",
+					"inlineBox",
+					"lightbox",
+					":enquiry",
+					"highlight",
+					".highlight",
+					".cols {",
+					"green",
+					"img {",
+					"media",
+					"midlight",
+					">",
+					"learn_more",
+					"margin-bottom: 40px;",
+					"E0E0E0",
+					"section",
+					"desaturate",
+					"lighten",
+					"h3",
+					"0",
+					"2%;",
+					"green"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"font-weight: 600",
+					"font-weight: 600;",
+					"$source_sans",
+					"<%= link_to 'CDX & FX Brokers', who_for_path %>",
+					"margin-bottom: 50px;"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"menu_visible": true,
+			"replace":
+			{
+				"height": 66.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"media",
+						"app/assets/stylesheets/application/_media_queries.scss"
+					],
+					[
+						"respos",
+						"app/assets/stylesheets/admin/bootstrap_responsive.scss"
+					],
+					[
+						"core.scs",
+						"app/assets/stylesheets/application/core.scss"
+					],
+					[
+						"core.scss",
+						"app/assets/stylesheets/application/core.scss"
+					],
+					[
+						"consult",
+						"app/views/shared/_consultation_form.html.erb"
+					],
+					[
+						"core.js",
+						"app/assets/javascripts/application/core.js"
+					],
+					[
+						"home",
+						"app/assets/javascripts/application/homepageCanvas.js"
+					],
+					[
+						"baseindex",
+						"app/views/base/index.html.erb"
+					],
+					[
+						"application",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"whofor",
+						"app/controllers/who_for_controller.rb"
+					],
+					[
+						"routes",
+						"config/routes.rb"
+					],
+					[
+						"applcai",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"applicait",
+						"config/application.rb"
+					],
+					[
+						"layou",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"contact",
+						"app/views/base/contact_us.html.erb"
+					],
+					[
+						"controllersbase",
+						"app/controllers/base_controller.rb"
+					],
+					[
+						"solutionsind",
+						"app/views/solutions/index.html.erb"
+					],
+					[
+						"applicat",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"application_",
+						"app/helpers/application_helper.rb"
+					],
+					[
+						"core.",
+						"app/assets/javascripts/application/core.js"
+					],
+					[
+						"core.s",
+						"app/assets/javascripts/application/core.js"
+					],
+					[
+						"reset",
+						"app/assets/stylesheets/application/_reset.scss"
+					],
+					[
+						"cor",
+						"app/assets/stylesheets/application/core.scss"
+					],
+					[
+						"route",
+						"config/routes.rb"
+					],
+					[
+						"layout",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"index",
+						"app/views/about_us/index.html.erb"
+					],
+					[
+						"overri",
+						"public/client/css/override.css"
+					],
+					[
+						"core",
+						"app/assets/stylesheets/application/core.scss"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 284.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1650.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/robedwards/Sites/ore.com/app/views/base/index.html.erb",
+					"settings":
+					{
+						"buffer_size": 2484,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/robedwards/Sites/ore.com/app/views/base/contact_us.html.erb",
+					"settings":
+					{
+						"buffer_size": 1467,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/robedwards/Sites/ore.com/app/views/layouts/application.html.erb",
+					"settings":
+					{
+						"buffer_size": 3252,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/robedwards/Sites/ore.com/app/views/products/easy_for_you.html.erb",
+					"settings":
+					{
+						"buffer_size": 2450,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/robedwards/Sites/ore.com/app/views/who_for/retail_banks.html.erb",
+					"settings":
+					{
+						"buffer_size": 1937,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "Searching 277 files for \"Who for\"\n\n/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application/core.scss:\n  891  }\n  892  \n  893: // Who for\n  894  \n  895  html.who_for {\n\n/Users/robedwards/Sites/ore.com/app/views/layouts/application.html.erb:\n   35                <li id=\"nav_products\"><%= link_to 'Products', products_path %></li>\n   36                <li id=\"nav_solutions\"><%= link_to 'Solutions', solutions_path %></li>\n   37:               <li id=\"nav_who_for\"><%= link_to 'Who for?', who_for_path %></li>\n   38                <li id=\"nav_about_us\"><%= link_to 'About us', about_us_path %></li>\n   39                <li id=\"nav_support\"><%= link_to 'Support', support_path %></li>\n   ..\n   68            <li><%= link_to 'Products', products_path %></li>\n   69            <li><%= link_to 'Solutions', solutions_path %></li>\n   70:           <li><%= link_to 'Who for', who_for_path %></li>\n   71          </ul>\n   72          <ul>\n\n/Users/robedwards/Sites/ore.com/app/views/products/easy_for_you.html.erb:\n   50      <h3>Learn more about how your </br >company could benefit</h3>\n   51      <p class=\"btn\">\n   52:       <%= link_to 'Who for?', who_for_path %>\n   53      </p>\n   54    </div>\n\n/Users/robedwards/Sites/ore.com/app/views/who_for/_who_for_masthead.html.erb:\n    2    <div class=\"content\">\n    3      <div class=\"col_1-2\">\n    4:         <h1>Who for?</h1>\n    5          <p>Options are incredibly versatile. ORE helps you get the most out of them.</p>\n    6      </div>\n\n/Users/robedwards/Sites/ore.com/log/development.log:\n 2313      54:             <li><%= link_to 'Product', products_path %></li>\n 2314      55:             <li><%= link_to 'Solutions', solutions_path %></li>\n 2315:     56:             <li><%= link_to 'Who for', who_for_path %></li>\n 2316      57:           </ul>\n 2317      58:         </div>\n ....\n 2334      54:             <li><%= link_to 'Product', products_path %></li>\n 2335      55:             <li><%= link_to 'Solutions', solutions_path %></li>\n 2336:     56:             <li><%= link_to 'Who for', who_for_path %></li>\n 2337      57:           </ul>\n 2338      58:         </div>\n ....\n 2355      54:             <li><%= link_to 'Product', products_path %></li>\n 2356      55:             <li><%= link_to 'Solutions', solutions_path %></li>\n 2357:     56:             <li><%= link_to 'Who for', who_for_path %></li>\n 2358      57:           </ul>\n 2359      58:         </div>\n ....\n 2376      54:             <li><%= link_to 'Product', products_path %></li>\n 2377      55:             <li><%= link_to 'Solutions', solutions_path %></li>\n 2378:     56:             <li><%= link_to 'Who for', who_for_path %></li>\n 2379      57:           </ul>\n 2380      58:         </div>\n ....\n 61476                <li>';@output_buffer.append=( link_to 'Products', products_path );@output_buffer.safe_append='</li>\n 61477                <li>';@output_buffer.append=( link_to 'Solutions', solutions_path );@output_buffer.safe_append='</li>\n 61478:               <li>';@output_buffer.append=( link_to 'Who for', who_for_path );@output_buffer.safe_append='</li>\n 61479                <li>';@output_buffer.append=( link_to 'About us', about_us_path );@output_buffer.safe_append='</li>\n 61480                <li>';@output_buffer.append=( link_to 'Support', support_path );@output_buffer.safe_append='</li>\n .....\n 61508            <li>';@output_buffer.append=( link_to 'Products', products_path );@output_buffer.safe_append='</li>\n 61509            <li>';@output_buffer.append=( link_to 'Solutions', solutions_path );@output_buffer.safe_append='</li>\n 61510:           <li>';@output_buffer.append=( link_to 'Who for', who_for_path );@output_buffer.safe_append='</li>\n 61511          </ul>\n 61512          <ul>\n .....\n 61514            <li>';@output_buffer.append=( link_to 'Products', products_path );@output_buffer.safe_append='</li>\n 61515            <li>';@output_buffer.append=( link_to 'Solutions', solutions_path );@output_buffer.safe_append='</li>\n 61516:           <li>';@output_buffer.append=( link_to 'Who for', who_for_path );@output_buffer.safe_append='</li>\n 61517          </ul>\n 61518        </div>\n\n~/Sites/ore.com/tmp/cache/assets/development/sass/e2bad801ad43489ff53ab8af805c9f5adffade74/core.scssc:\n    <binary>\n\n14 matches across 6 files\n",
+					"settings":
+					{
+						"buffer_size": 4295,
+						"line_ending": "Unix",
+						"name": "Find Results",
+						"scratch": true
+					}
+				},
+				{
+					"file": "/Users/robedwards/Sites/ore.com/app/assets/javascripts/application.js",
+					"settings":
+					{
+						"buffer_size": 766,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application/core.scss",
+					"settings":
+					{
+						"buffer_size": 23386,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/robedwards/Sites/ore.com/app/views/support/library.html.erb",
+					"settings":
+					{
+						"buffer_size": 1489,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application/_media_queries.scss",
+					"settings":
+					{
+						"buffer_size": 4209,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 375.0,
+				"selected_items":
+				[
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"INSTALL",
+						"Package Control: Install Package"
+					],
+					[
+						"list pac",
+						"Package Control: List Packages"
+					],
+					[
+						"isntall",
+						"Package Control: Install Package"
+					],
+					[
+						"pacak",
+						"Package Control: List Packages"
+					],
+					[
+						"remove p",
+						"Package Control: Remove Package"
+					],
+					[
+						"remove pa",
+						"Package Control: Remove Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"list pa",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 435.0
+			},
+			"console":
+			{
+				"height": 131.0,
+				"history":
+				[
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application/_media_queries.scss",
+				"/Users/robedwards/Sites/ore.com/app/assets/stylesheets/admin/bootstrap_responsive.scss",
+				"/Users/robedwards/Sites/ore.com/app/views/products/easy_for_you.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/views/shared/_consultation_form.html.erb",
+				"/Users/robedwards/Sites/sibert.co.uk-shopify/sibert-online-4483733/snippets/aside_menu.liquid",
+				"/Users/robedwards/Sites/ore.com/app/assets/javascripts/application/core.js",
+				"/Users/robedwards/Sites/ore.com/app/views/base/index.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/assets/javascripts/application/homepageCanvas.js",
+				"/Users/robedwards/Sites/ore.com/app/assets/javascripts/application.js",
+				"/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application/core.scss",
+				"/Users/robedwards/Sites/ore.com/config/application.rb",
+				"/Users/robedwards/Sites/ore.com/app/views/base/contact_us.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/views/support/library.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/views/solutions/index.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/views/who_for/educational_institutions.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/views/who_for/retail_banks.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/views/about_us/index.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/controllers/base_controller.rb",
+				"/Users/robedwards/Sites/ore.com/config/routes.rb",
+				"/Users/robedwards/Sites/ore.com/app/views/who_for/brokers_spread_betting.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/views/products/easy_for_clients.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/controllers/who_for_controller.rb",
+				"/Users/robedwards/Sites/ore.com/app/views/support/faq.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application/_magnific.scss",
+				"/Users/robedwards/Sites/ore.com/app/controllers/solutions_controller.rb",
+				"/Users/robedwards/Sites/ore.com/app/controllers/support_controller.rb",
+				"/Users/robedwards/Sites/ore.com/app/assets/javascripts/application/magnific.js",
+				"/Users/robedwards/Sites/ore.com/app/assets/images/bg_solutions_level_3.png",
+				"/Users/robedwards/Sites/ore.com/app/helpers/application_helper.rb",
+				"/Users/robedwards/Sites/ore.com/app/views/who_for/index.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application/_reset.scss",
+				"/Users/robedwards/Sites/ore.com/app/assets/javascripts/application/grid.js",
+				"/Users/robedwards/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/robedwards/Sites/ore.com/app/controllers/products_controller.rb",
+				"/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application.css",
+				"/Users/robedwards/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/robedwards/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+				"/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application/_colorbox.scss",
+				"/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application/mobile.scss",
+				"/Users/robedwards/Sites/ggset.co.uk/public/client/css/override.css",
+				"/Users/robedwards/Sites/invensys.com/app/assets/stylesheets/application/core.scss",
+				"/Users/robedwards/Sites/invensys.com/app/assets/stylesheets/application/core.css",
+				"/Users/robedwards/Library/Caches/Cleanup At Startup/Transmit/08E68FF8-6EC1-4DF2-9EC1-888038B449F6/main.php",
+				"/Users/robedwards/Library/Caches/Cleanup At Startup/Transmit/87859044-8597-48DC-8D54-6531D9A4C705/index.php",
+				"/Users/robedwards/Sites/egremontgroup.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/subscantech.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/invensys.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/otrsales.co.uk/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/classpages.co.uk/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/lal-schools-cms/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/lal-schools-cms/vendor/gems/browsercms-3.3.3/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/lal-schools-cms/vendor/gems/browsercms-3.3.3/app/views/layouts/cms/application.html.erb",
+				"/Users/robedwards/Sites/multiven.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/classlists.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/webmeetguildford.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/edwardssecurities.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/beckandco.co.uk/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/connect.rokebyschool.co.uk/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/fishneedwater.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/lawingov.org.uk/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/jukebox/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/stash-fork/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/stash/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/county-concierge.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/SoulPad/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/greenshieldsjcb.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/rebellion.co.uk/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/springfielddecorations.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/Users/robedwards/Sites/invensys.com/Gemfile",
+				"/Users/robedwards/Sites/invensys.com/.ruby-version",
+				"/Users/robedwards/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/CHANGELOG"
+			],
+			"find":
+			{
+				"height": 37.0
+			},
+			"find_in_files":
+			{
+				"height": 95.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"home_Gallery",
+					"home_galler",
+					"slide_1",
+					"landscape",
+					":company_name",
+					":contact_name",
+					"name",
+					"min-height",
+					"Who for",
+					"\"><%=",
+					"h2",
+					"desktop",
+					"1024",
+					"mq-tablet-landscape",
+					"desktop-",
+					".content {",
+					"slide_1",
+					".content {",
+					"col_1-3",
+					"slide_1",
+					"max-width: 570",
+					"block_mod",
+					"home_gallery ",
+					"h1",
+					"<h1>Products",
+					";\n",
+					"for",
+					"h2",
+					"'#', 'Learn more'",
+					"h3",
+					"link_to '#', Learn more",
+					"// P",
+					":telephone",
+					"telephone",
+					":email",
+					"aside_menu",
+					"800",
+					"570px",
+					"include",
+					"tablet-land",
+					"main-nav",
+					"height: ",
+					"150px",
+					"#header",
+					"font-weight: 500",
+					"500",
+					"font-weight: 500;",
+					"$brandon",
+					".content",
+					"<%= link_to 'Brokers/Spread betting', who_for_path %>",
+					":after {",
+					"main-nav",
+					"docked",
+					"2",
+					"5",
+					"height",
+					"\n      ",
+					"menu",
+					"main-nav",
+					"800p",
+					".content {",
+					"padding",
+					"padding:",
+					"1024",
+					"width",
+					"find",
+					"this",
+					"$this",
+					"interval",
+					"37%",
+					"isplay: block; width: 70px; height: 70px; ",
+					"background-image:",
+					"gallerify",
+					"postslide",
+					"fitWidth",
+					".btn",
+					"font_freight",
+					"<attr class=\"required\">*</attr>",
+					"h3",
+					"consultation_form",
+					".cols_",
+					"6%",
+					"figu",
+					"h1",
+					"teal",
+					"cols_",
+					"<ul>",
+					"checklist",
+					"h1",
+					";\n",
+					".btn",
+					"h1",
+					"h2",
+					"h1",
+					"li",
+					"h2",
+					"<h2>",
+					"<p>",
+					"<%= image_tag",
+					":class",
+					".on",
+					"')",
+					"content:",
+					".highlight",
+					"cols",
+					".cols {",
+					"cols",
+					"col_1-2",
+					"solutions",
+					"green",
+					"darken",
+					"2",
+					"inlineBox",
+					"lightbox",
+					":enquiry",
+					"highlight",
+					".highlight",
+					".cols {",
+					"green",
+					"img {",
+					"media",
+					"midlight",
+					">",
+					"learn_more",
+					"margin-bottom: 40px;",
+					"E0E0E0",
+					"section",
+					"desaturate"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"font-weight: 600",
+					"font-weight: 600;",
+					"$source_sans",
+					"<%= link_to 'CDX & FX Brokers', who_for_path %>",
+					"margin-bottom: 50px;"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"follow_symlinks": true,
+					"path": "/Users/robedwards/Sites/ore.com"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 7,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/robedwards/Sites/ore.com/app/views/base/index.html.erb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2484,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2101,
+										2101
+									],
+									[
+										2443,
+										2443
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 79.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/robedwards/Sites/ore.com/app/views/base/contact_us.html.erb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1467,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										636,
+										636
+									],
+									[
+										700,
+										700
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/robedwards/Sites/ore.com/app/views/layouts/application.html.erb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3252,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										543,
+										543
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/Users/robedwards/Sites/ore.com/app/views/products/easy_for_you.html.erb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2450,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2422,
+										2422
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/Users/robedwards/Sites/ore.com/app/views/who_for/retail_banks.html.erb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1937,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1469,
+										1469
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4295,
+								"regions":
+								{
+									"match":
+									{
+										"flags": 112,
+										"regions":
+										[
+											[
+												140,
+												147
+											],
+											[
+												487,
+												494
+											],
+											[
+												870,
+												877
+											],
+											[
+												1144,
+												1151
+											],
+											[
+												1365,
+												1372
+											],
+											[
+												1746,
+												1753
+											],
+											[
+												2043,
+												2050
+											],
+											[
+												2340,
+												2347
+											],
+											[
+												2637,
+												2644
+											],
+											[
+												3042,
+												3049
+											],
+											[
+												3645,
+												3652
+											],
+											[
+												4049,
+												4056
+											]
+										],
+										"scope": ""
+									}
+								},
+								"selection":
+								[
+									[
+										155,
+										155
+									]
+								],
+								"settings":
+								{
+									"detect_indentation": false,
+									"line_numbers": false,
+									"output_tag": 1,
+									"result_base_dir": "",
+									"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+									"result_line_regex": "^ +([0-9]+):",
+									"scroll_past_end": true,
+									"syntax": "Packages/Default/Find Results.hidden-tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/Users/robedwards/Sites/ore.com/app/assets/javascripts/application.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 766,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										656,
+										656
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application/core.scss",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 23386,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										23386,
+										23386
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 18978.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/Users/robedwards/Sites/ore.com/app/views/support/library.html.erb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1489,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										513,
+										515
+									],
+									[
+										525,
+										527
+									],
+									[
+										752,
+										754
+									],
+									[
+										769,
+										771
+									],
+									[
+										1028,
+										1030
+									],
+									[
+										1054,
+										1056
+									],
+									[
+										1276,
+										1278
+									],
+									[
+										1294,
+										1296
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application/_media_queries.scss",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4209,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3614,
+										3557
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1583.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"position": "420 176 1650 1086 0 0 2560 1418 ",
+			"project": "",
+			"replace":
+			{
+				"height": 66.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"media",
+						"app/assets/stylesheets/application/_media_queries.scss"
+					],
+					[
+						"core.scss",
+						"app/assets/stylesheets/application/core.scss"
+					],
+					[
+						"applica",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"respos",
+						"app/assets/stylesheets/admin/bootstrap_responsive.scss"
+					],
+					[
+						"core.scs",
+						"app/assets/stylesheets/application/core.scss"
+					],
+					[
+						"consult",
+						"app/views/shared/_consultation_form.html.erb"
+					],
+					[
+						"core.js",
+						"app/assets/javascripts/application/core.js"
+					],
+					[
+						"home",
+						"app/assets/javascripts/application/homepageCanvas.js"
+					],
+					[
+						"baseindex",
+						"app/views/base/index.html.erb"
+					],
+					[
+						"application",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"whofor",
+						"app/controllers/who_for_controller.rb"
+					],
+					[
+						"routes",
+						"config/routes.rb"
+					],
+					[
+						"applcai",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"applicait",
+						"config/application.rb"
+					],
+					[
+						"layou",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"contact",
+						"app/views/base/contact_us.html.erb"
+					],
+					[
+						"controllersbase",
+						"app/controllers/base_controller.rb"
+					],
+					[
+						"solutionsind",
+						"app/views/solutions/index.html.erb"
+					],
+					[
+						"applicat",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"application_",
+						"app/helpers/application_helper.rb"
+					],
+					[
+						"core.",
+						"app/assets/javascripts/application/core.js"
+					],
+					[
+						"core.s",
+						"app/assets/javascripts/application/core.js"
+					],
+					[
+						"reset",
+						"app/assets/stylesheets/application/_reset.scss"
+					],
+					[
+						"cor",
+						"app/assets/stylesheets/application/core.scss"
+					],
+					[
+						"route",
+						"config/routes.rb"
+					],
+					[
+						"layout",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"index",
+						"app/views/about_us/index.html.erb"
+					],
+					[
+						"overri",
+						"public/client/css/override.css"
+					],
+					[
+						"core",
+						"app/assets/stylesheets/application/core.scss"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 284.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 63,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/Users/robedwards/Sites/Sublime text projects/egremont.sublime-workspace"
+		]
+	}
+}

@@ -1,0 +1,2257 @@
+{
+	"folder_history":
+	[
+		"/Users/robedwards/Sites/illumii",
+		"/Users/robedwards/Sites/sibert.co.uk-shopify",
+		"/Users/robedwards/Downloads/InspiraUKLtd-InspiraNewsletter2012",
+		"/Users/robedwards/Sites/ore.com",
+		"/Users/robedwards/Sites/rebellion.co.uk",
+		"/Users/robedwards/Sites/greenshieldsjcb.com",
+		"/Users/robedwards/Sites/otrsales.co.uk",
+		"/Users/robedwards/Sites/springfielddecorations.com",
+		"/Users/robedwards/Sites/egremontgroup.com",
+		"/Users/robedwards/Sites/pingsta.com",
+		"/Users/robedwards/Sites/triniti-m.com",
+		"/Users/robedwards/Sites/classpages.co.uk",
+		"/Users/robedwards/Sites/lal-schools-cms",
+		"/Users/robedwards/Sites/jcwatson.co.uk",
+		"/Users/robedwards/Sites/invensys.com",
+		"/Users/robedwards/Sites/grafham-grange.co.uk",
+		"/Users/robedwards/Sites/ggset.co.uk"
+	],
+	"last_version": 3047,
+	"last_window_id": 55,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 1064.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 375.0,
+				"selected_items":
+				[
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"INSTALL",
+						"Package Control: Install Package"
+					],
+					[
+						"list pac",
+						"Package Control: List Packages"
+					],
+					[
+						"isntall",
+						"Package Control: Install Package"
+					],
+					[
+						"pacak",
+						"Package Control: List Packages"
+					],
+					[
+						"remove p",
+						"Package Control: Remove Package"
+					],
+					[
+						"remove pa",
+						"Package Control: Remove Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"list pa",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 435.0
+			},
+			"console":
+			{
+				"height": 131.0,
+				"history":
+				[
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application/_media_queries.scss",
+				"/Users/robedwards/Sites/ore.com/app/assets/javascripts/application/core.js",
+				"/Users/robedwards/Sites/ore.com/app/views/base/index.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/assets/javascripts/application/homepageCanvas.js",
+				"/Users/robedwards/Sites/ore.com/app/assets/javascripts/application.js",
+				"/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application/core.scss",
+				"/Users/robedwards/Sites/ore.com/config/application.rb",
+				"/Users/robedwards/Sites/ore.com/app/views/base/contact_us.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/views/support/library.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/views/shared/_consultation_form.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/views/solutions/index.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/views/who_for/educational_institutions.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/views/who_for/retail_banks.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/views/about_us/index.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/controllers/base_controller.rb",
+				"/Users/robedwards/Sites/ore.com/config/routes.rb",
+				"/Users/robedwards/Sites/ore.com/app/views/who_for/brokers_spread_betting.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/views/products/easy_for_clients.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/views/products/easy_for_you.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/controllers/who_for_controller.rb",
+				"/Users/robedwards/Sites/ore.com/app/views/support/faq.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application/_magnific.scss",
+				"/Users/robedwards/Sites/ore.com/app/controllers/solutions_controller.rb",
+				"/Users/robedwards/Sites/ore.com/app/controllers/support_controller.rb",
+				"/Users/robedwards/Sites/ore.com/app/assets/javascripts/application/magnific.js",
+				"/Users/robedwards/Sites/ore.com/app/assets/images/bg_solutions_level_3.png",
+				"/Users/robedwards/Sites/ore.com/app/helpers/application_helper.rb",
+				"/Users/robedwards/Sites/ore.com/app/views/who_for/index.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application/_reset.scss",
+				"/Users/robedwards/Sites/ore.com/app/assets/javascripts/application/grid.js",
+				"/Users/robedwards/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/robedwards/Sites/ore.com/app/controllers/products_controller.rb",
+				"/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application.css",
+				"/Users/robedwards/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/robedwards/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+				"/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application/_colorbox.scss",
+				"/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application/mobile.scss",
+				"/Users/robedwards/Sites/ggset.co.uk/public/client/css/override.css",
+				"/Users/robedwards/Sites/invensys.com/app/assets/stylesheets/application/core.scss",
+				"/Users/robedwards/Sites/invensys.com/app/assets/stylesheets/application/core.css",
+				"/Users/robedwards/Library/Caches/Cleanup At Startup/Transmit/08E68FF8-6EC1-4DF2-9EC1-888038B449F6/main.php",
+				"/Users/robedwards/Library/Caches/Cleanup At Startup/Transmit/87859044-8597-48DC-8D54-6531D9A4C705/index.php",
+				"/Users/robedwards/Sites/egremontgroup.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/subscantech.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/invensys.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/otrsales.co.uk/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/classpages.co.uk/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/lal-schools-cms/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/lal-schools-cms/vendor/gems/browsercms-3.3.3/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/lal-schools-cms/vendor/gems/browsercms-3.3.3/app/views/layouts/cms/application.html.erb",
+				"/Users/robedwards/Sites/multiven.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/classlists.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/webmeetguildford.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/edwardssecurities.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/beckandco.co.uk/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/connect.rokebyschool.co.uk/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/fishneedwater.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/lawingov.org.uk/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/jukebox/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/stash-fork/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/stash/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/county-concierge.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/SoulPad/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/greenshieldsjcb.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/rebellion.co.uk/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/springfielddecorations.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/Users/robedwards/Sites/invensys.com/Gemfile",
+				"/Users/robedwards/Sites/invensys.com/.ruby-version",
+				"/Users/robedwards/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/CHANGELOG"
+			],
+			"find":
+			{
+				"height": 37.0
+			},
+			"find_in_files":
+			{
+				"height": 95.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"800",
+					"570px",
+					"include",
+					"tablet-land",
+					"main-nav",
+					"height: ",
+					"150px",
+					"#header",
+					"font-weight: 500",
+					"500",
+					"font-weight: 500;",
+					"$brandon",
+					".content",
+					"<%= link_to 'Brokers/Spread betting', who_for_path %>",
+					":after {",
+					"main-nav",
+					"docked",
+					"2",
+					"5",
+					"height",
+					"\n      ",
+					"menu",
+					"main-nav",
+					"800p",
+					".content {",
+					"padding",
+					"padding:",
+					"1024",
+					"width",
+					"find",
+					"this",
+					"$this",
+					"interval",
+					"37%",
+					"isplay: block; width: 70px; height: 70px; ",
+					"background-image:",
+					"gallerify",
+					"postslide",
+					"fitWidth",
+					".btn",
+					"font_freight",
+					"<attr class=\"required\">*</attr>",
+					"h3",
+					"consultation_form",
+					".cols_",
+					"6%",
+					"figu",
+					"h1",
+					"teal",
+					"cols_",
+					"<ul>",
+					"checklist",
+					"h1",
+					";\n",
+					".btn",
+					"h1",
+					"h2",
+					"h1",
+					"li",
+					"h2",
+					"<h2>",
+					"<p>",
+					"<%= image_tag",
+					":class",
+					".on",
+					"')",
+					"content:",
+					".highlight",
+					"cols",
+					".cols {",
+					"cols",
+					"col_1-2",
+					"solutions",
+					"green",
+					"darken",
+					"2",
+					"inlineBox",
+					"lightbox",
+					":enquiry",
+					"highlight",
+					".highlight",
+					".cols {",
+					"green",
+					"img {",
+					"media",
+					"midlight",
+					">",
+					"learn_more",
+					"margin-bottom: 40px;",
+					"E0E0E0",
+					"section",
+					"desaturate",
+					"lighten",
+					"h3",
+					"0",
+					"2%;",
+					"green",
+					">.highlight {",
+					"  >.highlight {\n    background: darken($green, 30%)\n  }",
+					"cols_2",
+					".cols {",
+					"h2, h3, a {",
+					">.highlight {",
+					">.highlight",
+					">.highlight {",
+					">.highlight {\n    background: darken($green, 30%)\n  }",
+					"h2, h3",
+					" h3",
+					"h3",
+					"  <div>\n      <p clas",
+					"</div>\n    <p class",
+					".block_mod_",
+					".block",
+					"class=\"col_1-3",
+					"</p>",
+					"<h3>",
+					"\">",
+					"\"></div>",
+					"ss=\"col_1-3",
+					"1-3\"",
+					"1-3\">",
+					"nav",
+					"a",
+					"sub-nav",
+					"+",
+					"42px",
+					"48px",
+					"42px"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"font-weight: 600",
+					"font-weight: 600;",
+					"$source_sans",
+					"<%= link_to 'CDX & FX Brokers', who_for_path %>",
+					"margin-bottom: 50px;"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"menu_visible": true,
+			"replace":
+			{
+				"height": 66.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"core.js",
+						"app/assets/javascripts/application/core.js"
+					],
+					[
+						"home",
+						"app/assets/javascripts/application/homepageCanvas.js"
+					],
+					[
+						"baseindex",
+						"app/views/base/index.html.erb"
+					],
+					[
+						"media",
+						"app/assets/stylesheets/application/_media_queries.scss"
+					],
+					[
+						"core.scs",
+						"app/assets/stylesheets/application/core.scss"
+					],
+					[
+						"application",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"whofor",
+						"app/controllers/who_for_controller.rb"
+					],
+					[
+						"routes",
+						"config/routes.rb"
+					],
+					[
+						"core.scss",
+						"app/assets/stylesheets/application/core.scss"
+					],
+					[
+						"applcai",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"applicait",
+						"config/application.rb"
+					],
+					[
+						"layou",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"contact",
+						"app/views/base/contact_us.html.erb"
+					],
+					[
+						"controllersbase",
+						"app/controllers/base_controller.rb"
+					],
+					[
+						"solutionsind",
+						"app/views/solutions/index.html.erb"
+					],
+					[
+						"applicat",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"application_",
+						"app/helpers/application_helper.rb"
+					],
+					[
+						"core.",
+						"app/assets/javascripts/application/core.js"
+					],
+					[
+						"core.s",
+						"app/assets/javascripts/application/core.js"
+					],
+					[
+						"reset",
+						"app/assets/stylesheets/application/_reset.scss"
+					],
+					[
+						"cor",
+						"app/assets/stylesheets/application/core.scss"
+					],
+					[
+						"route",
+						"config/routes.rb"
+					],
+					[
+						"layout",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"index",
+						"app/views/about_us/index.html.erb"
+					],
+					[
+						"overri",
+						"public/client/css/override.css"
+					],
+					[
+						"core",
+						"app/assets/stylesheets/application/core.scss"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 284.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1650.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/robedwards/Sites/illumii/illumii-5119890/templates/index.liquid",
+					"settings":
+					{
+						"buffer_size": 7855,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 375.0,
+				"selected_items":
+				[
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"INSTALL",
+						"Package Control: Install Package"
+					],
+					[
+						"list pac",
+						"Package Control: List Packages"
+					],
+					[
+						"isntall",
+						"Package Control: Install Package"
+					],
+					[
+						"pacak",
+						"Package Control: List Packages"
+					],
+					[
+						"remove p",
+						"Package Control: Remove Package"
+					],
+					[
+						"remove pa",
+						"Package Control: Remove Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"list pa",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 435.0
+			},
+			"console":
+			{
+				"height": 131.0,
+				"history":
+				[
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application/_media_queries.scss",
+				"/Users/robedwards/Sites/ore.com/app/assets/javascripts/application/core.js",
+				"/Users/robedwards/Sites/ore.com/app/views/base/index.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/assets/javascripts/application/homepageCanvas.js",
+				"/Users/robedwards/Sites/ore.com/app/assets/javascripts/application.js",
+				"/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application/core.scss",
+				"/Users/robedwards/Sites/ore.com/config/application.rb",
+				"/Users/robedwards/Sites/ore.com/app/views/base/contact_us.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/views/support/library.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/views/shared/_consultation_form.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/views/solutions/index.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/views/who_for/educational_institutions.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/views/who_for/retail_banks.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/views/about_us/index.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/controllers/base_controller.rb",
+				"/Users/robedwards/Sites/ore.com/config/routes.rb",
+				"/Users/robedwards/Sites/ore.com/app/views/who_for/brokers_spread_betting.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/views/products/easy_for_clients.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/views/products/easy_for_you.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/controllers/who_for_controller.rb",
+				"/Users/robedwards/Sites/ore.com/app/views/support/faq.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application/_magnific.scss",
+				"/Users/robedwards/Sites/ore.com/app/controllers/solutions_controller.rb",
+				"/Users/robedwards/Sites/ore.com/app/controllers/support_controller.rb",
+				"/Users/robedwards/Sites/ore.com/app/assets/javascripts/application/magnific.js",
+				"/Users/robedwards/Sites/ore.com/app/assets/images/bg_solutions_level_3.png",
+				"/Users/robedwards/Sites/ore.com/app/helpers/application_helper.rb",
+				"/Users/robedwards/Sites/ore.com/app/views/who_for/index.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application/_reset.scss",
+				"/Users/robedwards/Sites/ore.com/app/assets/javascripts/application/grid.js",
+				"/Users/robedwards/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/robedwards/Sites/ore.com/app/controllers/products_controller.rb",
+				"/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application.css",
+				"/Users/robedwards/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/robedwards/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+				"/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application/_colorbox.scss",
+				"/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application/mobile.scss",
+				"/Users/robedwards/Sites/ggset.co.uk/public/client/css/override.css",
+				"/Users/robedwards/Sites/invensys.com/app/assets/stylesheets/application/core.scss",
+				"/Users/robedwards/Sites/invensys.com/app/assets/stylesheets/application/core.css",
+				"/Users/robedwards/Library/Caches/Cleanup At Startup/Transmit/08E68FF8-6EC1-4DF2-9EC1-888038B449F6/main.php",
+				"/Users/robedwards/Library/Caches/Cleanup At Startup/Transmit/87859044-8597-48DC-8D54-6531D9A4C705/index.php",
+				"/Users/robedwards/Sites/egremontgroup.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/subscantech.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/invensys.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/otrsales.co.uk/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/classpages.co.uk/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/lal-schools-cms/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/lal-schools-cms/vendor/gems/browsercms-3.3.3/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/lal-schools-cms/vendor/gems/browsercms-3.3.3/app/views/layouts/cms/application.html.erb",
+				"/Users/robedwards/Sites/multiven.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/classlists.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/webmeetguildford.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/edwardssecurities.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/beckandco.co.uk/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/connect.rokebyschool.co.uk/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/fishneedwater.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/lawingov.org.uk/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/jukebox/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/stash-fork/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/stash/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/county-concierge.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/SoulPad/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/greenshieldsjcb.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/rebellion.co.uk/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/springfielddecorations.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/Users/robedwards/Sites/invensys.com/Gemfile",
+				"/Users/robedwards/Sites/invensys.com/.ruby-version",
+				"/Users/robedwards/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/CHANGELOG"
+			],
+			"find":
+			{
+				"height": 37.0
+			},
+			"find_in_files":
+			{
+				"height": 95.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"800",
+					"570px",
+					"include",
+					"tablet-land",
+					"main-nav",
+					"height: ",
+					"150px",
+					"#header",
+					"font-weight: 500",
+					"500",
+					"font-weight: 500;",
+					"$brandon",
+					".content",
+					"<%= link_to 'Brokers/Spread betting', who_for_path %>",
+					":after {",
+					"main-nav",
+					"docked",
+					"2",
+					"5",
+					"height",
+					"\n      ",
+					"menu",
+					"main-nav",
+					"800p",
+					".content {",
+					"padding",
+					"padding:",
+					"1024",
+					"width",
+					"find",
+					"this",
+					"$this",
+					"interval",
+					"37%",
+					"isplay: block; width: 70px; height: 70px; ",
+					"background-image:",
+					"gallerify",
+					"postslide",
+					"fitWidth",
+					".btn",
+					"font_freight",
+					"<attr class=\"required\">*</attr>",
+					"h3",
+					"consultation_form",
+					".cols_",
+					"6%",
+					"figu",
+					"h1",
+					"teal",
+					"cols_",
+					"<ul>",
+					"checklist",
+					"h1",
+					";\n",
+					".btn",
+					"h1",
+					"h2",
+					"h1",
+					"li",
+					"h2",
+					"<h2>",
+					"<p>",
+					"<%= image_tag",
+					":class",
+					".on",
+					"')",
+					"content:",
+					".highlight",
+					"cols",
+					".cols {",
+					"cols",
+					"col_1-2",
+					"solutions",
+					"green",
+					"darken",
+					"2",
+					"inlineBox",
+					"lightbox",
+					":enquiry",
+					"highlight",
+					".highlight",
+					".cols {",
+					"green",
+					"img {",
+					"media",
+					"midlight",
+					">",
+					"learn_more",
+					"margin-bottom: 40px;",
+					"E0E0E0",
+					"section",
+					"desaturate",
+					"lighten",
+					"h3",
+					"0",
+					"2%;",
+					"green",
+					">.highlight {",
+					"  >.highlight {\n    background: darken($green, 30%)\n  }",
+					"cols_2",
+					".cols {",
+					"h2, h3, a {",
+					">.highlight {",
+					">.highlight",
+					">.highlight {",
+					">.highlight {\n    background: darken($green, 30%)\n  }",
+					"h2, h3",
+					" h3",
+					"h3",
+					"  <div>\n      <p clas",
+					"</div>\n    <p class",
+					".block_mod_",
+					".block",
+					"class=\"col_1-3",
+					"</p>",
+					"<h3>",
+					"\">",
+					"\"></div>",
+					"ss=\"col_1-3",
+					"1-3\"",
+					"1-3\">",
+					"nav",
+					"a",
+					"sub-nav",
+					"+",
+					"42px",
+					"48px",
+					"42px"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"font-weight: 600",
+					"font-weight: 600;",
+					"$source_sans",
+					"<%= link_to 'CDX & FX Brokers', who_for_path %>",
+					"margin-bottom: 50px;"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"follow_symlinks": true,
+					"path": "/Users/robedwards/Sites/illumii"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/robedwards/Sites/illumii/illumii-5119890/templates/index.liquid",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 7855,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Liquid/Syntaxes/HTML Liquid.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"position": "293 175 1650 1086 0 0 2560 1418 ",
+			"project": "",
+			"replace":
+			{
+				"height": 66.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"core.js",
+						"app/assets/javascripts/application/core.js"
+					],
+					[
+						"home",
+						"app/assets/javascripts/application/homepageCanvas.js"
+					],
+					[
+						"baseindex",
+						"app/views/base/index.html.erb"
+					],
+					[
+						"media",
+						"app/assets/stylesheets/application/_media_queries.scss"
+					],
+					[
+						"core.scs",
+						"app/assets/stylesheets/application/core.scss"
+					],
+					[
+						"application",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"whofor",
+						"app/controllers/who_for_controller.rb"
+					],
+					[
+						"routes",
+						"config/routes.rb"
+					],
+					[
+						"core.scss",
+						"app/assets/stylesheets/application/core.scss"
+					],
+					[
+						"applcai",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"applicait",
+						"config/application.rb"
+					],
+					[
+						"layou",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"contact",
+						"app/views/base/contact_us.html.erb"
+					],
+					[
+						"controllersbase",
+						"app/controllers/base_controller.rb"
+					],
+					[
+						"solutionsind",
+						"app/views/solutions/index.html.erb"
+					],
+					[
+						"applicat",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"application_",
+						"app/helpers/application_helper.rb"
+					],
+					[
+						"core.",
+						"app/assets/javascripts/application/core.js"
+					],
+					[
+						"core.s",
+						"app/assets/javascripts/application/core.js"
+					],
+					[
+						"reset",
+						"app/assets/stylesheets/application/_reset.scss"
+					],
+					[
+						"cor",
+						"app/assets/stylesheets/application/core.scss"
+					],
+					[
+						"route",
+						"config/routes.rb"
+					],
+					[
+						"layout",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"index",
+						"app/views/about_us/index.html.erb"
+					],
+					[
+						"overri",
+						"public/client/css/override.css"
+					],
+					[
+						"core",
+						"app/assets/stylesheets/application/core.scss"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 284.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 53,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/robedwards/Sites/sibert.co.uk-shopify/sibert-online-4483733/templates/collection.liquid",
+					"settings":
+					{
+						"buffer_size": 2563,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "Searching 39 files for \"aside_menu\"\n\n/Users/robedwards/Sites/sibert.co.uk-shopify/sibert-online-4483733/templates/collection.liquid:\n   76  \n   77  \n   78: 	{% include 'aside_menu' %}\n   79  </div>\n\n1 match in 1 file\n",
+					"settings":
+					{
+						"buffer_size": 217,
+						"line_ending": "Unix",
+						"name": "Find Results",
+						"scratch": true
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 375.0,
+				"selected_items":
+				[
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"INSTALL",
+						"Package Control: Install Package"
+					],
+					[
+						"list pac",
+						"Package Control: List Packages"
+					],
+					[
+						"isntall",
+						"Package Control: Install Package"
+					],
+					[
+						"pacak",
+						"Package Control: List Packages"
+					],
+					[
+						"remove p",
+						"Package Control: Remove Package"
+					],
+					[
+						"remove pa",
+						"Package Control: Remove Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"list pa",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 435.0
+			},
+			"console":
+			{
+				"height": 131.0,
+				"history":
+				[
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/robedwards/Sites/sibert.co.uk-shopify/sibert-online-4483733/snippets/aside_menu.liquid",
+				"/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application/_media_queries.scss",
+				"/Users/robedwards/Sites/ore.com/app/assets/javascripts/application/core.js",
+				"/Users/robedwards/Sites/ore.com/app/views/base/index.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/assets/javascripts/application/homepageCanvas.js",
+				"/Users/robedwards/Sites/ore.com/app/assets/javascripts/application.js",
+				"/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application/core.scss",
+				"/Users/robedwards/Sites/ore.com/config/application.rb",
+				"/Users/robedwards/Sites/ore.com/app/views/base/contact_us.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/views/support/library.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/views/shared/_consultation_form.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/views/solutions/index.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/views/who_for/educational_institutions.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/views/who_for/retail_banks.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/views/about_us/index.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/controllers/base_controller.rb",
+				"/Users/robedwards/Sites/ore.com/config/routes.rb",
+				"/Users/robedwards/Sites/ore.com/app/views/who_for/brokers_spread_betting.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/views/products/easy_for_clients.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/views/products/easy_for_you.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/controllers/who_for_controller.rb",
+				"/Users/robedwards/Sites/ore.com/app/views/support/faq.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application/_magnific.scss",
+				"/Users/robedwards/Sites/ore.com/app/controllers/solutions_controller.rb",
+				"/Users/robedwards/Sites/ore.com/app/controllers/support_controller.rb",
+				"/Users/robedwards/Sites/ore.com/app/assets/javascripts/application/magnific.js",
+				"/Users/robedwards/Sites/ore.com/app/assets/images/bg_solutions_level_3.png",
+				"/Users/robedwards/Sites/ore.com/app/helpers/application_helper.rb",
+				"/Users/robedwards/Sites/ore.com/app/views/who_for/index.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application/_reset.scss",
+				"/Users/robedwards/Sites/ore.com/app/assets/javascripts/application/grid.js",
+				"/Users/robedwards/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/robedwards/Sites/ore.com/app/controllers/products_controller.rb",
+				"/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application.css",
+				"/Users/robedwards/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/robedwards/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+				"/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application/_colorbox.scss",
+				"/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application/mobile.scss",
+				"/Users/robedwards/Sites/ggset.co.uk/public/client/css/override.css",
+				"/Users/robedwards/Sites/invensys.com/app/assets/stylesheets/application/core.scss",
+				"/Users/robedwards/Sites/invensys.com/app/assets/stylesheets/application/core.css",
+				"/Users/robedwards/Library/Caches/Cleanup At Startup/Transmit/08E68FF8-6EC1-4DF2-9EC1-888038B449F6/main.php",
+				"/Users/robedwards/Library/Caches/Cleanup At Startup/Transmit/87859044-8597-48DC-8D54-6531D9A4C705/index.php",
+				"/Users/robedwards/Sites/egremontgroup.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/subscantech.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/invensys.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/otrsales.co.uk/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/classpages.co.uk/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/lal-schools-cms/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/lal-schools-cms/vendor/gems/browsercms-3.3.3/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/lal-schools-cms/vendor/gems/browsercms-3.3.3/app/views/layouts/cms/application.html.erb",
+				"/Users/robedwards/Sites/multiven.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/classlists.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/webmeetguildford.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/edwardssecurities.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/beckandco.co.uk/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/connect.rokebyschool.co.uk/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/fishneedwater.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/lawingov.org.uk/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/jukebox/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/stash-fork/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/stash/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/county-concierge.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/SoulPad/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/greenshieldsjcb.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/rebellion.co.uk/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/springfielddecorations.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/Users/robedwards/Sites/invensys.com/Gemfile",
+				"/Users/robedwards/Sites/invensys.com/.ruby-version",
+				"/Users/robedwards/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/CHANGELOG"
+			],
+			"find":
+			{
+				"height": 25.0
+			},
+			"find_in_files":
+			{
+				"height": 95.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"aside_menu",
+					"800",
+					"570px",
+					"include",
+					"tablet-land",
+					"main-nav",
+					"height: ",
+					"150px",
+					"#header",
+					"font-weight: 500",
+					"500",
+					"font-weight: 500;",
+					"$brandon",
+					".content",
+					"<%= link_to 'Brokers/Spread betting', who_for_path %>",
+					":after {",
+					"main-nav",
+					"docked",
+					"2",
+					"5",
+					"height",
+					"\n      ",
+					"menu",
+					"main-nav",
+					"800p",
+					".content {",
+					"padding",
+					"padding:",
+					"1024",
+					"width",
+					"find",
+					"this",
+					"$this",
+					"interval",
+					"37%",
+					"isplay: block; width: 70px; height: 70px; ",
+					"background-image:",
+					"gallerify",
+					"postslide",
+					"fitWidth",
+					".btn",
+					"font_freight",
+					"<attr class=\"required\">*</attr>",
+					"h3",
+					"consultation_form",
+					".cols_",
+					"6%",
+					"figu",
+					"h1",
+					"teal",
+					"cols_",
+					"<ul>",
+					"checklist",
+					"h1",
+					";\n",
+					".btn",
+					"h1",
+					"h2",
+					"h1",
+					"li",
+					"h2",
+					"<h2>",
+					"<p>",
+					"<%= image_tag",
+					":class",
+					".on",
+					"')",
+					"content:",
+					".highlight",
+					"cols",
+					".cols {",
+					"cols",
+					"col_1-2",
+					"solutions",
+					"green",
+					"darken",
+					"2",
+					"inlineBox",
+					"lightbox",
+					":enquiry",
+					"highlight",
+					".highlight",
+					".cols {",
+					"green",
+					"img {",
+					"media",
+					"midlight",
+					">",
+					"learn_more",
+					"margin-bottom: 40px;",
+					"E0E0E0",
+					"section",
+					"desaturate",
+					"lighten",
+					"h3",
+					"0",
+					"2%;",
+					"green",
+					">.highlight {",
+					"  >.highlight {\n    background: darken($green, 30%)\n  }",
+					"cols_2",
+					".cols {",
+					"h2, h3, a {",
+					">.highlight {",
+					">.highlight",
+					">.highlight {",
+					">.highlight {\n    background: darken($green, 30%)\n  }",
+					"h2, h3",
+					" h3",
+					"h3",
+					"  <div>\n      <p clas",
+					"</div>\n    <p class",
+					".block_mod_",
+					".block",
+					"class=\"col_1-3",
+					"</p>",
+					"<h3>",
+					"\">",
+					"\"></div>",
+					"ss=\"col_1-3",
+					"1-3\"",
+					"1-3\">",
+					"nav",
+					"a",
+					"sub-nav",
+					"+",
+					"42px",
+					"48px"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"font-weight: 600",
+					"font-weight: 600;",
+					"$source_sans",
+					"<%= link_to 'CDX & FX Brokers', who_for_path %>",
+					"margin-bottom: 50px;"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"follow_symlinks": true,
+					"path": "/Users/robedwards/Sites/sibert.co.uk-shopify"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/robedwards/Sites/sibert.co.uk-shopify/sibert-online-4483733/templates/collection.liquid",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2563,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2556,
+										2556
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Liquid/Syntaxes/HTML Liquid.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 330.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 217,
+								"regions":
+								{
+									"match":
+									{
+										"flags": 112,
+										"regions":
+										[
+											[
+												169,
+												179
+											]
+										],
+										"scope": ""
+									}
+								},
+								"selection":
+								[
+									[
+										174,
+										174
+									]
+								],
+								"settings":
+								{
+									"detect_indentation": false,
+									"line_numbers": false,
+									"output_tag": 1,
+									"result_base_dir": "",
+									"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+									"result_line_regex": "^ +([0-9]+):",
+									"scroll_past_end": true,
+									"syntax": "Packages/Default/Find Results.hidden-tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"position": "721 300 1650 1086 0 0 2560 1418 ",
+			"project": "",
+			"replace":
+			{
+				"height": 66.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"core.js",
+						"app/assets/javascripts/application/core.js"
+					],
+					[
+						"home",
+						"app/assets/javascripts/application/homepageCanvas.js"
+					],
+					[
+						"baseindex",
+						"app/views/base/index.html.erb"
+					],
+					[
+						"media",
+						"app/assets/stylesheets/application/_media_queries.scss"
+					],
+					[
+						"core.scs",
+						"app/assets/stylesheets/application/core.scss"
+					],
+					[
+						"application",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"whofor",
+						"app/controllers/who_for_controller.rb"
+					],
+					[
+						"routes",
+						"config/routes.rb"
+					],
+					[
+						"core.scss",
+						"app/assets/stylesheets/application/core.scss"
+					],
+					[
+						"applcai",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"applicait",
+						"config/application.rb"
+					],
+					[
+						"layou",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"contact",
+						"app/views/base/contact_us.html.erb"
+					],
+					[
+						"controllersbase",
+						"app/controllers/base_controller.rb"
+					],
+					[
+						"solutionsind",
+						"app/views/solutions/index.html.erb"
+					],
+					[
+						"applicat",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"application_",
+						"app/helpers/application_helper.rb"
+					],
+					[
+						"core.",
+						"app/assets/javascripts/application/core.js"
+					],
+					[
+						"core.s",
+						"app/assets/javascripts/application/core.js"
+					],
+					[
+						"reset",
+						"app/assets/stylesheets/application/_reset.scss"
+					],
+					[
+						"cor",
+						"app/assets/stylesheets/application/core.scss"
+					],
+					[
+						"route",
+						"config/routes.rb"
+					],
+					[
+						"layout",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"index",
+						"app/views/about_us/index.html.erb"
+					],
+					[
+						"overri",
+						"public/client/css/override.css"
+					],
+					[
+						"core",
+						"app/assets/stylesheets/application/core.scss"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 284.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 54,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/robedwards/Sites/illumii/illumii-5119890/snippets/aside_menu.liquid",
+					"settings":
+					{
+						"buffer_size": 1144,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/robedwards/Sites/illumii/illumii-5119890/templates/collection.liquid",
+					"settings":
+					{
+						"buffer_size": 3106,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 375.0,
+				"selected_items":
+				[
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"INSTALL",
+						"Package Control: Install Package"
+					],
+					[
+						"list pac",
+						"Package Control: List Packages"
+					],
+					[
+						"isntall",
+						"Package Control: Install Package"
+					],
+					[
+						"pacak",
+						"Package Control: List Packages"
+					],
+					[
+						"remove p",
+						"Package Control: Remove Package"
+					],
+					[
+						"remove pa",
+						"Package Control: Remove Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"list pa",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 435.0
+			},
+			"console":
+			{
+				"height": 131.0,
+				"history":
+				[
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application/_media_queries.scss",
+				"/Users/robedwards/Sites/ore.com/app/assets/javascripts/application/core.js",
+				"/Users/robedwards/Sites/ore.com/app/views/base/index.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/assets/javascripts/application/homepageCanvas.js",
+				"/Users/robedwards/Sites/ore.com/app/assets/javascripts/application.js",
+				"/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application/core.scss",
+				"/Users/robedwards/Sites/ore.com/config/application.rb",
+				"/Users/robedwards/Sites/ore.com/app/views/base/contact_us.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/views/support/library.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/views/shared/_consultation_form.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/views/solutions/index.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/views/who_for/educational_institutions.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/views/who_for/retail_banks.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/views/about_us/index.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/controllers/base_controller.rb",
+				"/Users/robedwards/Sites/ore.com/config/routes.rb",
+				"/Users/robedwards/Sites/ore.com/app/views/who_for/brokers_spread_betting.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/views/products/easy_for_clients.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/views/products/easy_for_you.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/controllers/who_for_controller.rb",
+				"/Users/robedwards/Sites/ore.com/app/views/support/faq.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application/_magnific.scss",
+				"/Users/robedwards/Sites/ore.com/app/controllers/solutions_controller.rb",
+				"/Users/robedwards/Sites/ore.com/app/controllers/support_controller.rb",
+				"/Users/robedwards/Sites/ore.com/app/assets/javascripts/application/magnific.js",
+				"/Users/robedwards/Sites/ore.com/app/assets/images/bg_solutions_level_3.png",
+				"/Users/robedwards/Sites/ore.com/app/helpers/application_helper.rb",
+				"/Users/robedwards/Sites/ore.com/app/views/who_for/index.html.erb",
+				"/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application/_reset.scss",
+				"/Users/robedwards/Sites/ore.com/app/assets/javascripts/application/grid.js",
+				"/Users/robedwards/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/robedwards/Sites/ore.com/app/controllers/products_controller.rb",
+				"/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application.css",
+				"/Users/robedwards/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/robedwards/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+				"/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application/_colorbox.scss",
+				"/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application/mobile.scss",
+				"/Users/robedwards/Sites/ggset.co.uk/public/client/css/override.css",
+				"/Users/robedwards/Sites/invensys.com/app/assets/stylesheets/application/core.scss",
+				"/Users/robedwards/Sites/invensys.com/app/assets/stylesheets/application/core.css",
+				"/Users/robedwards/Library/Caches/Cleanup At Startup/Transmit/08E68FF8-6EC1-4DF2-9EC1-888038B449F6/main.php",
+				"/Users/robedwards/Library/Caches/Cleanup At Startup/Transmit/87859044-8597-48DC-8D54-6531D9A4C705/index.php",
+				"/Users/robedwards/Sites/egremontgroup.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/subscantech.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/invensys.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/otrsales.co.uk/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/classpages.co.uk/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/lal-schools-cms/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/lal-schools-cms/vendor/gems/browsercms-3.3.3/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/lal-schools-cms/vendor/gems/browsercms-3.3.3/app/views/layouts/cms/application.html.erb",
+				"/Users/robedwards/Sites/multiven.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/classlists.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/webmeetguildford.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/edwardssecurities.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/beckandco.co.uk/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/connect.rokebyschool.co.uk/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/fishneedwater.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/lawingov.org.uk/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/jukebox/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/stash-fork/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/stash/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/county-concierge.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/SoulPad/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/greenshieldsjcb.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/rebellion.co.uk/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/springfielddecorations.com/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/Users/robedwards/Sites/invensys.com/Gemfile",
+				"/Users/robedwards/Sites/invensys.com/.ruby-version",
+				"/Users/robedwards/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/CHANGELOG"
+			],
+			"find":
+			{
+				"height": 37.0
+			},
+			"find_in_files":
+			{
+				"height": 95.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"assi",
+					"800",
+					"570px",
+					"include",
+					"tablet-land",
+					"main-nav",
+					"height: ",
+					"150px",
+					"#header",
+					"font-weight: 500",
+					"500",
+					"font-weight: 500;",
+					"$brandon",
+					".content",
+					"<%= link_to 'Brokers/Spread betting', who_for_path %>",
+					":after {",
+					"main-nav",
+					"docked",
+					"2",
+					"5",
+					"height",
+					"\n      ",
+					"menu",
+					"main-nav",
+					"800p",
+					".content {",
+					"padding",
+					"padding:",
+					"1024",
+					"width",
+					"find",
+					"this",
+					"$this",
+					"interval",
+					"37%",
+					"isplay: block; width: 70px; height: 70px; ",
+					"background-image:",
+					"gallerify",
+					"postslide",
+					"fitWidth",
+					".btn",
+					"font_freight",
+					"<attr class=\"required\">*</attr>",
+					"h3",
+					"consultation_form",
+					".cols_",
+					"6%",
+					"figu",
+					"h1",
+					"teal",
+					"cols_",
+					"<ul>",
+					"checklist",
+					"h1",
+					";\n",
+					".btn",
+					"h1",
+					"h2",
+					"h1",
+					"li",
+					"h2",
+					"<h2>",
+					"<p>",
+					"<%= image_tag",
+					":class",
+					".on",
+					"')",
+					"content:",
+					".highlight",
+					"cols",
+					".cols {",
+					"cols",
+					"col_1-2",
+					"solutions",
+					"green",
+					"darken",
+					"2",
+					"inlineBox",
+					"lightbox",
+					":enquiry",
+					"highlight",
+					".highlight",
+					".cols {",
+					"green",
+					"img {",
+					"media",
+					"midlight",
+					">",
+					"learn_more",
+					"margin-bottom: 40px;",
+					"E0E0E0",
+					"section",
+					"desaturate",
+					"lighten",
+					"h3",
+					"0",
+					"2%;",
+					"green",
+					">.highlight {",
+					"  >.highlight {\n    background: darken($green, 30%)\n  }",
+					"cols_2",
+					".cols {",
+					"h2, h3, a {",
+					">.highlight {",
+					">.highlight",
+					">.highlight {",
+					">.highlight {\n    background: darken($green, 30%)\n  }",
+					"h2, h3",
+					" h3",
+					"h3",
+					"  <div>\n      <p clas",
+					"</div>\n    <p class",
+					".block_mod_",
+					".block",
+					"class=\"col_1-3",
+					"</p>",
+					"<h3>",
+					"\">",
+					"\"></div>",
+					"ss=\"col_1-3",
+					"1-3\"",
+					"1-3\">",
+					"nav",
+					"a",
+					"sub-nav",
+					"+",
+					"42px",
+					"48px"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"font-weight: 600",
+					"font-weight: 600;",
+					"$source_sans",
+					"<%= link_to 'CDX & FX Brokers', who_for_path %>",
+					"margin-bottom: 50px;"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"follow_symlinks": true,
+					"path": "/Users/robedwards/Sites/illumii"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/robedwards/Sites/illumii/illumii-5119890/snippets/aside_menu.liquid",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1144,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										499,
+										499
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Liquid/Syntaxes/HTML Liquid.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/robedwards/Sites/illumii/illumii-5119890/templates/collection.liquid",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3106,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3096,
+										3096
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Liquid/Syntaxes/HTML Liquid.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 527.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"position": "455 142 1650 1086 0 0 2560 1418 ",
+			"project": "",
+			"replace":
+			{
+				"height": 66.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"core.js",
+						"app/assets/javascripts/application/core.js"
+					],
+					[
+						"home",
+						"app/assets/javascripts/application/homepageCanvas.js"
+					],
+					[
+						"baseindex",
+						"app/views/base/index.html.erb"
+					],
+					[
+						"media",
+						"app/assets/stylesheets/application/_media_queries.scss"
+					],
+					[
+						"core.scs",
+						"app/assets/stylesheets/application/core.scss"
+					],
+					[
+						"application",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"whofor",
+						"app/controllers/who_for_controller.rb"
+					],
+					[
+						"routes",
+						"config/routes.rb"
+					],
+					[
+						"core.scss",
+						"app/assets/stylesheets/application/core.scss"
+					],
+					[
+						"applcai",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"applicait",
+						"config/application.rb"
+					],
+					[
+						"layou",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"contact",
+						"app/views/base/contact_us.html.erb"
+					],
+					[
+						"controllersbase",
+						"app/controllers/base_controller.rb"
+					],
+					[
+						"solutionsind",
+						"app/views/solutions/index.html.erb"
+					],
+					[
+						"applicat",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"application_",
+						"app/helpers/application_helper.rb"
+					],
+					[
+						"core.",
+						"app/assets/javascripts/application/core.js"
+					],
+					[
+						"core.s",
+						"app/assets/javascripts/application/core.js"
+					],
+					[
+						"reset",
+						"app/assets/stylesheets/application/_reset.scss"
+					],
+					[
+						"cor",
+						"app/assets/stylesheets/application/core.scss"
+					],
+					[
+						"route",
+						"config/routes.rb"
+					],
+					[
+						"layout",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"index",
+						"app/views/about_us/index.html.erb"
+					],
+					[
+						"overri",
+						"public/client/css/override.css"
+					],
+					[
+						"core",
+						"app/assets/stylesheets/application/core.scss"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 284.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 55,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/Users/robedwards/Sites/Sublime text projects/egremont.sublime-workspace"
+		]
+	}
+}

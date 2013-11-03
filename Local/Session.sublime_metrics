@@ -1,0 +1,37 @@
+{
+	"licensed": true,
+	"packages":
+	[
+		"AdvancedNewFile",
+		"Emmet",
+		"Liquid",
+		"Package Control",
+		"Sass",
+		"SideBarEnhancements",
+		"AdvancedNewFile",
+		"Emmet",
+		"Liquid",
+		"Package Control",
+		"Sass",
+		"AdvancedNewFile",
+		"Emmet",
+		"Liquid",
+		"Package Control",
+		"Sass",
+		"SideBarEnhancements",
+		"AdvancedNewFile",
+		"Emmet",
+		"Liquid",
+		"Package Control",
+		"Sass",
+		"SideBarEnhancements"
+	],
+	"startup_sec": 0.605402,
+	"syntax":
+	{
+		"HTML Liquid": 2,
+		"Plain text": 2,
+		"Ruby": 3
+	},
+	"time": 1383142313
+}
