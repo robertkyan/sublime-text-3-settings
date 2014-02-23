@@ -18,5 +18,8 @@
   // Navigating between tabs
 
   { "keys": ["super+alt+ctrl+left"], "command": "prev_view" },
-  { "keys": ["super+alt+ctrl+right"], "command": "next_view" }
+  { "keys": ["super+alt+ctrl+right"], "command": "next_view" },
+
+  // Switching 2 selections
+  { "keys": ["super+alt+a"], "command": "permute_selection", "args": {"operation": "reverse"} }
 ]

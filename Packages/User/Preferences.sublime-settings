@@ -19,5 +19,26 @@
 	"theme": "Soda Light.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": false,
-	"word_separators": "./\\()\"',.;<>~!@#$%^&*|+=[]{}`~?"
+	"word_separators": "./\\()\"',.;<>~!@#$%^&*|+=[]{}`~?",
+
+	////////////////////////////
+	//// Sublimall settings ////
+	////////////////////////////
+	"api_root": "http://sublimall.org",
+	"api_upload_url": "/api/upload/",
+	"api_retrieve_url": "/api/retrieve/",
+
+	///////////////////////
+	//// User settings ////
+	///////////////////////
+	"email": "robedwardo@gmail.com",
+	"api_key": "6a46abd13dffcb41fdd39c775bd7756c34194fab",
+	// Set true if you want to exclude packages managed by Package Control
+	"exclude_from_package_control": false,
+	// Set false if you don't want to encrypt your configuration
+	"encrypt": true,
+	// Upload timeout in seconds
+	"http_upload_timeout": 60,
+	// 7zip binary path (Sublimall will try to find it itself)
+	"7za_path": "/usr/local/Cellar/p7zip/9.20.1"
 }

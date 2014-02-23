@@ -1,37 +1,35 @@
 {
-	"licensed": true,
 	"packages":
 	[
 		"AdvancedNewFile",
 		"Emmet",
+		"jQuery",
 		"Liquid",
 		"Package Control",
 		"Sass",
 		"SideBarEnhancements",
+		"Text Pastry",
 		"AdvancedNewFile",
 		"Emmet",
-		"Liquid",
-		"Package Control",
-		"Sass",
-		"AdvancedNewFile",
-		"Emmet",
+		"jQuery",
 		"Liquid",
 		"Package Control",
 		"Sass",
 		"SideBarEnhancements",
+		"Text Pastry",
 		"AdvancedNewFile",
 		"Emmet",
+		"jQuery",
 		"Liquid",
 		"Package Control",
 		"Sass",
-		"SideBarEnhancements"
+		"SideBarEnhancements",
+		"Sublimall",
+		"Text Pastry"
 	],
-	"startup_sec": 0.605402,
 	"syntax":
 	{
-		"HTML Liquid": 2,
-		"Plain text": 2,
-		"Ruby": 3
+		"JSON": 4
 	},
-	"time": 1383142313
+	"time": 1392545511
 }

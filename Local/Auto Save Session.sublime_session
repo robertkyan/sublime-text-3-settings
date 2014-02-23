@@ -1,34 +1,78 @@
 {
 	"folder_history":
 	[
-		"/Users/robedwards/Sites/edwardssecurities.com",
 		"/Users/robedwards/Sites/ore.com",
 		"/Users/robedwards/Sites/illumii/illumii-5168540",
-		"/Users/robedwards/Sites/illumii/illumii-5119890",
-		"/Users/robedwards/Sites/sibert.co.uk-shopify/sibert-online-4483733",
-		"/Users/robedwards/Sites/sibert.co.uk-shopify",
-		"/Users/robedwards/Sites/illumii",
-		"/Users/robedwards/Downloads/InspiraUKLtd-InspiraNewsletter2012",
+		"/Users/robedwards/Sites/kyanmedia-com",
+		"/Users/robedwards/Sites/workplaceconcepts.co.uk",
 		"/Users/robedwards/Sites/rebellion.co.uk",
-		"/Users/robedwards/Sites/greenshieldsjcb.com",
+		"/Users/robedwards/Sites/homecountiescarers.co.uk",
+		"/Users/robedwards/Sites/homes2Insure.com",
+		"/Users/robedwards/Sites/ritazza.sspweblive.com",
 		"/Users/robedwards/Sites/otrsales.co.uk",
-		"/Users/robedwards/Sites/springfielddecorations.com",
-		"/Users/robedwards/Sites/egremontgroup.com",
-		"/Users/robedwards/Sites/pingsta.com",
 		"/Users/robedwards/Sites/triniti-m.com",
-		"/Users/robedwards/Sites/classpages.co.uk",
-		"/Users/robedwards/Sites/lal-schools-cms",
-		"/Users/robedwards/Sites/jcwatson.co.uk",
-		"/Users/robedwards/Sites/invensys.com",
+		"/Users/robedwards/Sites/springfielddecorations.com",
+		"/Users/robedwards/Sites/webexpoguildford",
+		"/Users/robedwards/Sites/marketing.blueskyeducation.co.uk",
+		"/Users/robedwards/Sites/rvonm.co.uk",
+		"/Users/robedwards/Sites/greenshieldsjcb.com",
+		"/Users/robedwards/Sites/offsetpackaging.co.uk",
+		"/Users/robedwards/Sites/surreylawsociety.org.uk",
+		"/Users/robedwards/Sites/acquireservices.com",
+		"/Users/robedwards/Sites/rokeby-2009",
+		"/Users/robedwards/Sites/wxg-holding-page",
+		"/Users/robedwards/Sites/egremontgroup.com",
+		"/Users/robedwards/Sites/sls-services",
+		"/Users/robedwards/Sites/ore.com/config",
+		"/Users/robedwards/Sites/lawingov.org.uk",
+		"/Users/robedwards/Downloads/webexpoguildford-wxg-2014",
+		"/Volumes/Public/Production/RVM",
+		"/Users/robedwards/Downloads/GridLoadingEffects",
+		"/Users/robedwards/Sites/airworks.uk.com",
+		"/Users/robedwards/Sites/county-concierge.com",
+		"/Volumes/Public/Production/Ritazza",
+		"/Users/robedwards/Sites/becomeuk.com",
+		"/Users/robedwards/Sites/new-stonehaven-adviser",
+		"/Users/robedwards/Sites/pippamann.com",
+		"/Users/robedwards/Sites/ggset.co.uk",
+		"/Users/robedwards/Sites/stdominicsschool.org.uk",
+		"/Users/robedwards/Sites/stonehaven-uk.com",
+		"/Users/robedwards/Desktop/ritazza.sspweblive.com",
+		"/Users/robedwards/Sites/sibert.co.uk-shopify",
+		"/Users/robedwards/Sites/illumii_static_build",
+		"/Users/robedwards/Sites/sibert.co.uk-shopify/sibert-online-4483733",
+		"/Users/robedwards/Downloads/Minimal",
 		"/Users/robedwards/Sites/grafham-grange.co.uk",
-		"/Users/robedwards/Sites/ggset.co.uk"
+		"/Users/robedwards/Sites/brantridge-school.co.uk",
+		"/Users/robedwards/Desktop/calendar",
+		"/Users/robedwards/Sites/app.foodtradedirect.co.uk",
+		"/Volumes/Public/Production/Kyan/Movember 2013 email",
+		"/Users/robedwards/Desktop/paatle_advent",
+		"/Users/robedwards/.ssh",
+		"/Users/robedwards/Sites/storagebase.com",
+		"/Users/robedwards/Sites/wildfire-cms",
+		"/Users/robedwards/Sites/invensys.com",
+		"/Users/robedwards/Sites/hand-i.co.uk",
+		"/Users/robedwards/Sites/InsideKnowledge",
+		"/Users/robedwards",
+		"/Users/robedwards/Sites/jcwatson.co.uk",
+		"/Users/robedwards/Sites/dress2kill.com",
+		"/Users/robedwards/Sites/bisley.com",
+		"/Users/robedwards/Sites/lal-schools-cms",
+		"/Users/robedwards/Sites/edwardssecurities.com",
+		"/Users/robedwards/.Trash/illumii-5168540",
+		"/Users/robedwards/Sites/illumii",
+		"/Users/robedwards/Sites/illumii/illumii-5119890",
+		"/Users/robedwards/Downloads/InspiraUKLtd-InspiraNewsletter2012",
+		"/Users/robedwards/Sites/pingsta.com",
+		"/Users/robedwards/Sites/classpages.co.uk"
 	],
-	"last_version": 3047,
-	"last_window_id": 64,
+	"last_version": 3059,
+	"last_window_id": 568,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 1064.0,
+		"new_window_height": 1327.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -40,15 +84,79 @@
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 375.0,
+				"height": 93.0,
 				"selected_items":
 				[
 					[
-						"packa",
-						"Package Control: Install Package"
+						"sublima",
+						"Sublimall: Upload"
+					],
+					[
+						"sublimal",
+						"Sublimall: Retrieve"
+					],
+					[
+						"subli",
+						"Sublimall: Upload"
+					],
+					[
+						"subl",
+						"Sublimall: Upload"
+					],
+					[
+						"sublim",
+						"Sublimall: Retrieve"
 					],
 					[
 						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"jsh",
+						"JSHint"
+					],
+					[
+						"pack in",
+						"Package Control: Install Package"
+					],
+					[
+						"pac re",
+						"Package Control: Remove Package"
+					],
+					[
+						"pack list",
+						"Package Control: List Packages"
+					],
+					[
+						"js",
+						"JSHint"
+					],
+					[
+						"jshin",
+						"JSHint"
+					],
+					[
+						"paclkage",
+						"Package Control: Remove Package"
+					],
+					[
+						"jshint",
+						"JSHint"
+					],
+					[
+						"js ",
+						"JSHint"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"lit packa",
+						"Package Control: List Packages"
+					],
+					[
+						"packa",
 						"Package Control: Install Package"
 					],
 					[
@@ -80,10 +188,6 @@
 						"Package Control: List Packages"
 					],
 					[
-						"package",
-						"Package Control: List Packages"
-					],
-					[
 						"list pa",
 						"Package Control: List Packages"
 					]
@@ -109,80 +213,134 @@
 			},
 			"file_history":
 			[
-				"/Users/robedwards/Sites/edwardssecurities.com/app/views/news/royal_mail.html.erb",
-				"/Users/robedwards/Sites/ore.com/app/assets/stylesheets/admin/bootstrap_responsive.scss",
-				"/Users/robedwards/Sites/ore.com/app/views/products/easy_for_you.html.erb",
-				"/Users/robedwards/Sites/ore.com/app/views/shared/_consultation_form.html.erb",
-				"/Users/robedwards/Sites/sibert.co.uk-shopify/sibert-online-4483733/snippets/aside_menu.liquid",
-				"/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application/_media_queries.scss",
-				"/Users/robedwards/Sites/ore.com/app/assets/javascripts/application/core.js",
-				"/Users/robedwards/Sites/ore.com/app/views/base/index.html.erb",
-				"/Users/robedwards/Sites/ore.com/app/assets/javascripts/application/homepageCanvas.js",
-				"/Users/robedwards/Sites/ore.com/app/assets/javascripts/application.js",
-				"/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application/core.scss",
-				"/Users/robedwards/Sites/ore.com/config/application.rb",
-				"/Users/robedwards/Sites/ore.com/app/views/base/contact_us.html.erb",
-				"/Users/robedwards/Sites/ore.com/app/views/layouts/application.html.erb",
-				"/Users/robedwards/Sites/ore.com/app/views/support/library.html.erb",
-				"/Users/robedwards/Sites/ore.com/app/views/solutions/index.html.erb",
-				"/Users/robedwards/Sites/ore.com/app/views/who_for/educational_institutions.html.erb",
-				"/Users/robedwards/Sites/ore.com/app/views/who_for/retail_banks.html.erb",
-				"/Users/robedwards/Sites/ore.com/app/views/about_us/index.html.erb",
-				"/Users/robedwards/Sites/ore.com/app/controllers/base_controller.rb",
-				"/Users/robedwards/Sites/ore.com/config/routes.rb",
-				"/Users/robedwards/Sites/ore.com/app/views/who_for/brokers_spread_betting.html.erb",
-				"/Users/robedwards/Sites/ore.com/app/views/products/easy_for_clients.html.erb",
-				"/Users/robedwards/Sites/ore.com/app/controllers/who_for_controller.rb",
-				"/Users/robedwards/Sites/ore.com/app/views/support/faq.html.erb",
-				"/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application/_magnific.scss",
-				"/Users/robedwards/Sites/ore.com/app/controllers/solutions_controller.rb",
-				"/Users/robedwards/Sites/ore.com/app/controllers/support_controller.rb",
-				"/Users/robedwards/Sites/ore.com/app/assets/javascripts/application/magnific.js",
-				"/Users/robedwards/Sites/ore.com/app/assets/images/bg_solutions_level_3.png",
-				"/Users/robedwards/Sites/ore.com/app/helpers/application_helper.rb",
-				"/Users/robedwards/Sites/ore.com/app/views/who_for/index.html.erb",
-				"/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application/_reset.scss",
-				"/Users/robedwards/Sites/ore.com/app/assets/javascripts/application/grid.js",
+				"/Users/robedwards/Sites/webexpoguildford/tmp/letter_opener/1390321198_e63af9d/rich.html",
+				"/Users/robedwards/Sites/webexpoguildford/config/initializers/secret_token.rb",
+				"/Users/robedwards/Sites/webexpoguildford/app/views/base/thank_you.html.erb",
+				"/Users/robedwards/Sites/webexpoguildford/app/assets/stylesheets/_magnific.scss",
+				"/Users/robedwards/Sites/webexpoguildford/app/mailers/contact_us.rb",
+				"/Users/robedwards/Sites/webexpoguildford/app/assets/javascripts/magnific.js",
+				"/Users/robedwards/Sites/webexpoguildford/index.php",
+				"/Users/robedwards/Sites/webexpoguildford/js/application.js",
+				"/Users/robedwards/Sites/webexpoguildford/tmp/cache/assets/development/sprockets/c15880929bcf38ea2493751d48995621",
+				"/Users/robedwards/Sites/webexpoguildford/app/assets/stylesheets/core.scss",
+				"/Users/robedwards/Sites/webexpoguildford/app/assets/javascripts/core.js",
+				"/Users/robedwards/Sites/webexpoguildford/tmp/cache/assets/development/sass/e525fedc30186e42853d91fd1414c2973ff3cd3d/_magnific.scssc",
+				"/Users/robedwards/Sites/webexpoguildford/app/views/base/index.html.erb",
+				"/Users/robedwards/Sites/webexpoguildford/app/views/layouts/application.html.erb",
 				"/Users/robedwards/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/Users/robedwards/Sites/ore.com/app/controllers/products_controller.rb",
-				"/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application.css",
-				"/Users/robedwards/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
-				"/Users/robedwards/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
-				"/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application/_colorbox.scss",
-				"/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application/mobile.scss",
-				"/Users/robedwards/Sites/ggset.co.uk/public/client/css/override.css",
-				"/Users/robedwards/Sites/invensys.com/app/assets/stylesheets/application/core.scss",
-				"/Users/robedwards/Sites/invensys.com/app/assets/stylesheets/application/core.css",
-				"/Users/robedwards/Library/Caches/Cleanup At Startup/Transmit/08E68FF8-6EC1-4DF2-9EC1-888038B449F6/main.php",
-				"/Users/robedwards/Library/Caches/Cleanup At Startup/Transmit/87859044-8597-48DC-8D54-6531D9A4C705/index.php",
-				"/Users/robedwards/Sites/egremontgroup.com/app/views/layouts/application.html.erb",
-				"/Users/robedwards/Sites/subscantech.com/app/views/layouts/application.html.erb",
-				"/Users/robedwards/Sites/invensys.com/app/views/layouts/application.html.erb",
-				"/Users/robedwards/Sites/otrsales.co.uk/app/views/layouts/application.html.erb",
-				"/Users/robedwards/Sites/classpages.co.uk/app/views/layouts/application.html.erb",
-				"/Users/robedwards/Sites/lal-schools-cms/app/views/layouts/application.html.erb",
-				"/Users/robedwards/Sites/lal-schools-cms/vendor/gems/browsercms-3.3.3/app/views/layouts/application.html.erb",
-				"/Users/robedwards/Sites/lal-schools-cms/vendor/gems/browsercms-3.3.3/app/views/layouts/cms/application.html.erb",
-				"/Users/robedwards/Sites/multiven.com/app/views/layouts/application.html.erb",
-				"/Users/robedwards/Sites/classlists.com/app/views/layouts/application.html.erb",
-				"/Users/robedwards/Sites/webmeetguildford.com/app/views/layouts/application.html.erb",
-				"/Users/robedwards/Sites/edwardssecurities.com/app/views/layouts/application.html.erb",
-				"/Users/robedwards/Sites/beckandco.co.uk/app/views/layouts/application.html.erb",
-				"/Users/robedwards/Sites/connect.rokebyschool.co.uk/app/views/layouts/application.html.erb",
-				"/Users/robedwards/Sites/fishneedwater.com/app/views/layouts/application.html.erb",
-				"/Users/robedwards/Sites/lawingov.org.uk/app/views/layouts/application.html.erb",
-				"/Users/robedwards/Sites/jukebox/app/views/layouts/application.html.erb",
-				"/Users/robedwards/Sites/stash-fork/app/views/layouts/application.html.erb",
-				"/Users/robedwards/Sites/stash/app/views/layouts/application.html.erb",
-				"/Users/robedwards/Sites/county-concierge.com/app/views/layouts/application.html.erb",
-				"/Users/robedwards/Sites/SoulPad/app/views/layouts/application.html.erb",
-				"/Users/robedwards/Sites/greenshieldsjcb.com/app/views/layouts/application.html.erb",
-				"/Users/robedwards/Sites/rebellion.co.uk/app/views/layouts/application.html.erb",
-				"/Users/robedwards/Sites/springfielddecorations.com/app/views/layouts/application.html.erb",
 				"/Users/robedwards/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-				"/Users/robedwards/Sites/invensys.com/Gemfile",
-				"/Users/robedwards/Sites/invensys.com/.ruby-version",
-				"/Users/robedwards/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/CHANGELOG"
+				"/Users/robedwards/Sites/webexpoguildford/app/assets/javascripts/easing.js",
+				"/Users/robedwards/Sites/webexpoguildford/config/initializers/inflections.rb",
+				"/Users/robedwards/Sites/webexpoguildford/test/controllers/base_controller_test.rb",
+				"/Users/robedwards/Sites/webexpoguildford/app/controllers/application_controller.rb",
+				"/Users/robedwards/Sites/webexpoguildford/config/initializers/filter_parameter_logging.rb",
+				"/Users/robedwards/Sites/webexpoguildford/app/assets/javascripts/application.js",
+				"/Users/robedwards/Sites/webexpoguildford/app/assets/javascripts/scrollTo.js",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/views/base/about_us.html.erb",
+				"/Users/robedwards/Sites/rvonm.co.uk/public/assets/application-b2bccdc65c6ea3eb1098662831defd50.css",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/views/knowledge/a_practical_approach_to_completion.html.erb",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/views/knowledge/high_maintenance.html.erb",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/helpers/knowledge_helper.rb",
+				"/Users/robedwards/Sites/rvonm.co.uk/config/initializers/wrap_parameters.rb",
+				"/Users/robedwards/Sites/illumii/illumii-5168540/templates/customers/account.liquid",
+				"/Users/robedwards/Sites/illumii/illumii-5168540/templates/customers/register.liquid",
+				"/Users/robedwards/Sites/illumii/illumii-5168540/templates/customers/addresses.liquid",
+				"/Users/robedwards/Sites/illumii/illumii-5168540/templates/customers/order.liquid",
+				"/Users/robedwards/Sites/illumii/illumii-5168540/snippets/collection-grid-item.liquid",
+				"/Users/robedwards/Sites/illumii/illumii-5168540/snippets/product-grid-item.liquid",
+				"/Users/robedwards/Sites/illumii/illumii-5168540/assets/style.css.liquid",
+				"/Users/robedwards/Sites/illumii/illumii-5168540/templates/product.liquid",
+				"/Users/robedwards/Sites/illumii/illumii-5168540/snippets/collection-listing.liquid",
+				"/Users/robedwards/Sites/illumii/illumii-5168540/assets/core.js",
+				"/Users/robedwards/Sites/illumii/illumii-5168540/templates/collection.liquid",
+				"/Users/robedwards/Sites/illumii/illumii-5168540/config/settings_data.json",
+				"/Users/robedwards/Sites/illumii/illumii-5168540/config/settings.html",
+				"/Users/robedwards/Sites/marketing.blueskyeducation.co.uk/app/uploaders/redactor_rails_document_uploader.rb",
+				"/Users/robedwards/Sites/marketing.blueskyeducation.co.uk/app/uploaders/real_story_document_uploader.rb",
+				"/Users/robedwards/Sites/marketing.blueskyeducation.co.uk/README.md",
+				"/Users/robedwards/Sites/marketing.blueskyeducation.co.uk/config/routes.rb",
+				"/Users/robedwards/Sites/marketing.blueskyeducation.co.uk/app/assets/javascripts/application/core.js",
+				"/Users/robedwards/Sites/marketing.blueskyeducation.co.uk/app/views/base/about.html.erb",
+				"/Users/robedwards/Sites/marketing.blueskyeducation.co.uk/app/views/base/our_partners.html.erb",
+				"/Users/robedwards/Sites/marketing.blueskyeducation.co.uk/app/views/benefits/index.html.erb",
+				"/Users/robedwards/Sites/marketing.blueskyeducation.co.uk/app/views/benefits/individuals.html.erb",
+				"/Users/robedwards/Sites/marketing.blueskyeducation.co.uk/app/views/benefits/school_leaders.html.erb",
+				"/Users/robedwards/Sites/marketing.blueskyeducation.co.uk/app/views/benefits/middle_leaders.html.erb",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/assets/javascripts/application/core.js",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/views/base/contact.html.erb",
+				"/Users/robedwards/Sites/rvonm.co.uk/lib/canonical_redirect.rb",
+				"/Users/robedwards/Sites/webexpoguildford/.env",
+				"/Users/robedwards/Sites/webexpoguildford/app/assets/images/cross.svg",
+				"/Users/robedwards/Sites/webexpoguildford/README.rdoc",
+				"/Users/robedwards/Sites/webexpoguildford/config/routes.rb",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/views/knowledge/do_you_need_a_project_manager.html.erb",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/helpers/application_helper.rb",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/controllers/services_controller.rb",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/controllers/knowledge_controller.rb",
+				"/Users/robedwards/Sites/rvonm.co.uk/config/routes.rb",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/views/base/index.html.erb",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/views/knowledge/deconstructing_the_team.html.erb",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/views/partials/_meta.html.erb",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/controllers/base_controller.rb",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/views/base/terms_of_use.html.erb",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/assets/stylesheets/application/core.scss",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/views/knowledge/index.html.erb",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/views/services/index.html.erb",
+				"/Users/robedwards/Sites/rvonm.co.uk/README.md",
+				"/Users/robedwards/Sites/rvonm.co.uk/config/deploy/production.rb",
+				"/Users/robedwards/Sites/rvonm.co.uk/config/vhosts/production.vhost.conf.erb",
+				"/Users/robedwards/Sites/rvonm.co.uk/tmp/cache/assets/production/sass/d4be23e6b2197351c78a2daa380454fb28c6828c/_reset.scssc",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/views/base/cookies.html.erb",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/views/base/privacy_policy.html.erb",
+				"/Users/robedwards/Sites/workplaceconcepts.co.uk/app/controllers/base_controller.rb",
+				"/Users/robedwards/Sites/workplaceconcepts.co.uk/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/workplaceconcepts.co.uk/app/assets/stylesheets/admin/redactor_iframe.scss",
+				"/Users/robedwards/Sites/workplaceconcepts.co.uk/app/assets/stylesheets/admin/application.scss",
+				"/Users/robedwards/Sites/workplaceconcepts.co.uk/app/assets/stylesheets/admin/bootstrap.scss",
+				"/Users/robedwards/Sites/workplaceconcepts.co.uk/config/database.yml.sample",
+				"/Users/robedwards/Sites/workplaceconcepts.co.uk/.env",
+				"/Users/robedwards/Sites/workplaceconcepts.co.uk/config/initializers/mime_types.rb",
+				"/Users/robedwards/Sites/workplaceconcepts.co.uk/tmp/cache/assets/development/sass/04b654ee507b96207856324d5ffbb7d2fe3314d7/redactor-custom.scssc",
+				"/Users/robedwards/Sites/workplaceconcepts.co.uk/app/assets/javascripts/application/core.js",
+				"/Users/robedwards/Sites/surreylawsociety.org.uk/includes/include_about_subnav.php",
+				"/Users/robedwards/Sites/surreylawsociety.org.uk/includes/include_about_sidebar.php",
+				"/Users/robedwards/Sites/surreylawsociety.org.uk/admin/functions/Swift-4.1.5/lib/classes/Swift/ByteStream/ArrayByteStream.php",
+				"/Users/robedwards/Sites/surreylawsociety.org.uk/accessibility.php",
+				"/Users/robedwards/Sites/workplaceconcepts.co.uk/app/views/layouts/_footer.html.erb",
+				"/Users/robedwards/Sites/workplaceconcepts.co.uk/config/initializers/filter_parameter_logging.rb",
+				"/Users/robedwards/Sites/workplaceconcepts.co.uk/app/assets/javascripts/admin.js",
+				"/Users/robedwards/Sites/workplaceconcepts.co.uk/app/assets/javascripts/cost-planning.js",
+				"/Users/robedwards/Sites/workplaceconcepts.co.uk/app/assets/javascripts/application/jquery.magnific-popup.min.js",
+				"/Users/robedwards/Sites/workplaceconcepts.co.uk/app/helpers/application_helper.rb",
+				"/Users/robedwards/Sites/workplaceconcepts.co.uk/log/.keep",
+				"/Users/robedwards/Sites/workplaceconcepts.co.uk/config/application.rb",
+				"/Users/robedwards/Sites/workplaceconcepts.co.uk/app/controllers/application_controller.rb",
+				"/Users/robedwards/Sites/workplaceconcepts.co.uk/app/controllers/our_services_controller.rb",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/views/knowledge/the_fundamentals_of_project_delivery.html.erb",
+				"/Users/robedwards/Sites/rvonm.co.uk/tmp/cache/assets/production/sprockets/f7cbd26ba1d28d48de824f0e94586655",
+				"/Users/robedwards/Sites/webexpoguildford/config/environments/development.rb",
+				"/Users/robedwards/Sites/webexpoguildford/Procfile",
+				"/Users/robedwards/Sites/webexpoguildford/config/database.yml",
+				"/Users/robedwards/Sites/webexpoguildford/config/boot.rb",
+				"/Users/robedwards/Sites/webexpoguildford/config/application.rb",
+				"/Users/robedwards/Sites/webexpoguildford/config.ru",
+				"/Users/robedwards/Sites/webexpoguildford/tmp/letter_opener/1390319690_1217d6e/rich.html",
+				"/Users/robedwards/Sites/webexpoguildford/app/views/contact_us/contact_us.html.erb",
+				"/Users/robedwards/Sites/webexpoguildford/config/unicorn.rb",
+				"/Users/robedwards/Sites/webexpoguildford/Gemfile",
+				"/Users/robedwards/Sites/webexpoguildford/app/controllers/base_controller.rb",
+				"/Users/robedwards/Sites/webexpoguildford/config/environment.rb",
+				"/Users/robedwards/Sites/webexpoguildford/config/initializers/backtrace_silencers.rb",
+				"/Users/robedwards/Sites/webexpoguildford/config/initializers/mime_types.rb",
+				"/Users/robedwards/Sites/webexpoguildford/vendor/assets/javascripts/.keep",
+				"/Users/robedwards/Sites/webexpoguildford/Gemfile.lock",
+				"/Users/robedwards/Sites/webexpoguildford/css/_reset.scss",
+				"/Users/robedwards/Sites/webexpoguildford/app/assets/stylesheets/_reset.scss",
+				"/Users/robedwards/Sites/webexpoguildford/.gitignore",
+				"/Users/robedwards/Sites/rokeby-2009/includes/include_nav.php",
+				"/Users/robedwards/Sites/rokeby-2009/index.php",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/mailers/.gitkeep"
 			],
 			"find":
 			{
@@ -201,134 +359,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"pdf",
-					".col",
-					"royal_mail",
-					"Who for",
-					"\"><%=",
-					"h2",
-					"desktop",
-					"1024",
-					"mq-tablet-landscape",
-					"desktop-",
-					".content {",
-					"slide_1",
-					".content {",
-					"col_1-3",
-					"slide_1",
-					"max-width: 570",
-					"block_mod",
-					"home_gallery ",
-					"h1",
-					"<h1>Products",
-					";\n",
-					"for",
-					"h2",
-					"'#', 'Learn more'",
-					"h3",
-					"link_to '#', Learn more",
-					"// P",
-					":telephone",
-					"telephone",
-					":email",
-					"aside_menu",
-					"800",
-					"570px",
-					"include",
-					"tablet-land",
-					"main-nav",
-					"height: ",
-					"150px",
-					"#header",
-					"font-weight: 500",
-					"500",
-					"font-weight: 500;",
-					"$brandon",
-					".content",
-					"<%= link_to 'Brokers/Spread betting', who_for_path %>",
-					":after {",
-					"main-nav",
-					"docked",
-					"2",
-					"5",
+					"dock",
+					"dock()",
+					"dock",
+					"#jeader {",
+					"footer_Bar",
+					"last_year",
+					"images/",
+					"marker",
+					"option",
+					"setoption",
+					"layer",
+					"domListen",
+					"Start",
+					"location",
+					"offset",
+					"map",
+					"#map",
+					"map",
+					"sponsors",
+					"main {",
 					"height",
-					"\n      ",
-					"menu",
+					".",
+					"sponsors",
+					"fill=\"#FFED00\"",
+					"fill=\"#FFF02A\" ",
+					"fill:",
+					"#location",
+					"#speakers",
+					"start",
+					": ",
+					"#location",
+					"intro",
 					"main-nav",
-					"800p",
-					".content {",
-					"padding",
-					"padding:",
-					"1024",
-					"width",
-					"find",
-					"this",
-					"$this",
-					"interval",
-					"37%",
-					"isplay: block; width: 70px; height: 70px; ",
-					"background-image:",
-					"gallerify",
-					"postslide",
-					"fitWidth",
-					".btn",
-					"font_freight",
-					"<attr class=\"required\">*</attr>",
-					"h3",
-					"consultation_form",
-					".cols_",
-					"6%",
-					"figu",
-					"h1",
-					"teal",
-					"cols_",
-					"<ul>",
-					"checklist",
-					"h1",
-					";\n",
-					".btn",
-					"h1",
-					"h2",
-					"h1",
-					"li",
-					"h2",
-					"<h2>",
-					"<p>",
-					"<%= image_tag",
-					":class",
-					".on",
-					"')",
-					"content:",
-					".highlight",
-					"cols",
-					".cols {",
-					"cols",
-					"col_1-2",
-					"solutions",
-					"green",
-					"darken",
-					"2",
-					"inlineBox",
-					"lightbox",
-					":enquiry",
-					"highlight",
-					".highlight",
-					".cols {",
-					"green",
-					"img {",
-					"media",
-					"midlight",
-					">",
-					"learn_more",
-					"margin-bottom: 40px;",
-					"E0E0E0",
-					"section",
-					"desaturate",
-					"lighten",
-					"h3",
+					"Start",
+					".cross {",
+					"Start",
+					".main-nav",
+					"main-nav",
+					"STart",
+					"role-call",
+					"#location ",
+					"speakers",
+					"speakers {",
+					"main {",
+					"margin-top: 4%;",
+					"margin-top: 4",
+					"margin-top:",
+					"margin-top;",
+					"#schedule",
+					"speaker_details",
+					"btn alt\"",
+					"_nav",
+					"speaker",
+					"speaker_nav",
+					"24",
+					".close {",
+					"mfp-close",
+					"20px",
+					"header {",
+					"main-nav",
+					"color",
+					"color 500ms ease 500ms;",
+					"border",
+					"all",
+					"location_active",
+					"5",
+					"last_year",
+					"main-nav",
+					"500",
+					"transition",
+					"2(n)",
+					"svg {",
+					"border-bottom:",
+					"svg",
+					"50ms",
+					"delay",
+					"transition",
+					"speakers_active",
+					"location_active",
+					"background-color",
 					"0",
-					"2%;",
-					"green"
+					"1s",
+					"out",
+					"transition",
+					"header",
+					"on Hicks",
+					"jon_hicks",
+					"Peter Cooper",
+					"robinwhittleton",
+					"speakerDeta",
+					"();\n",
+					"h2",
+					".on",
+					"showPanels",
+					"#speakers",
+					"#intro",
+					"display: none;",
+					"speakers",
+					"main-nav",
+					"location",
+					"#header",
+					"svg",
+					"#header {",
+					"200 200",
+					"location_active",
+					"_active",
+					"_acive",
+					"#speakers",
+					"#sponsors",
+					"#location",
+					"<h3>Break</h3>\n          <p>Proof in the prototype</p>",
+					"on",
+					"margin-top: 5%",
+					".btn {",
+					"div",
+					".btn",
+					"design",
+					"#loca",
+					"location",
+					"role-call",
+					"uppercase",
+					"role-call",
+					"thrott",
+					"thro",
+					"1px solid",
+					"_active",
+					"sliding",
+					"subMenuItems"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -336,6 +494,26 @@
 				"regex": false,
 				"replace_history":
 				[
+					"footer_bar",
+					"margin-top: 4%",
+					"200",
+					" ",
+					"$black",
+					"#introduction_contact",
+					"",
+					"_",
+					"$grey",
+					"#CCC",
+					"helvetica",
+					"gill_sans",
+					"E+PLC100",
+					"E+PLC400",
+					"who_for_business_schools_path",
+					"\" %></h1>",
+					"<h1><%= page_heading \"",
+					"\" %></h1>",
+					"<h1><%= page_heading \"",
+					"href=\"#arrange_consultation\" class=\"inlineFormBox\">",
 					"font-weight: 600",
 					"font-weight: 600;",
 					"$source_sans",
@@ -350,16 +528,24 @@
 			},
 			"incremental_find":
 			{
-				"height": 23.0
+				"height": 25.0
 			},
 			"input":
 			{
 				"height": 35.0
 			},
 			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 114.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
 			"replace":
 			{
-				"height": 66.0
+				"height": 46.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -368,116 +554,516 @@
 				"selected_items":
 				[
 					[
-						"media",
-						"app/assets/stylesheets/application/_media_queries.scss"
-					],
-					[
-						"respos",
-						"app/assets/stylesheets/admin/bootstrap_responsive.scss"
+						"core.js",
+						"app/assets/javascripts/application/core.js"
 					],
 					[
 						"core.scs",
-						"app/assets/stylesheets/application/core.scss"
+						"app/assets/stylesheets/core.scss"
+					],
+					[
+						"core.sc",
+						"app/assets/stylesheets/core.scss"
+					],
+					[
+						"cores",
+						"app/assets/stylesheets/core.scss"
+					],
+					[
+						"magnific",
+						"app/assets/stylesheets/_magnific.scss"
+					],
+					[
+						"applica",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"about",
+						"app/views/base/about_us.html.erb"
+					],
+					[
+						"collect",
+						"templates/collection.liquid"
+					],
+					[
+						"collectiongri",
+						"snippets/collection-grid-item.liquid"
+					],
+					[
+						"prod",
+						"templates/product.liquid"
+					],
+					[
+						".css",
+						"assets/style.css.liquid"
+					],
+					[
+						"see",
+						"db/seeds.rb"
+					],
+					[
+						"relat",
+						"snippets/related-products.liquid"
+					],
+					[
+						"css",
+						"assets/style.css.liquid"
 					],
 					[
 						"core.scss",
 						"app/assets/stylesheets/application/core.scss"
 					],
 					[
-						"consult",
-						"app/views/shared/_consultation_form.html.erb"
-					],
-					[
-						"core.js",
-						"app/assets/javascripts/application/core.js"
-					],
-					[
-						"home",
-						"app/assets/javascripts/application/homepageCanvas.js"
-					],
-					[
-						"baseindex",
-						"app/views/base/index.html.erb"
-					],
-					[
-						"application",
-						"app/views/layouts/application.html.erb"
-					],
-					[
-						"whofor",
-						"app/controllers/who_for_controller.rb"
-					],
-					[
 						"routes",
 						"config/routes.rb"
 					],
 					[
-						"applcai",
-						"app/views/layouts/application.html.erb"
-					],
-					[
-						"applicait",
-						"config/application.rb"
-					],
-					[
-						"layou",
-						"app/views/layouts/application.html.erb"
-					],
-					[
-						"contact",
-						"app/views/base/contact_us.html.erb"
-					],
-					[
-						"controllersbase",
-						"app/controllers/base_controller.rb"
-					],
-					[
-						"solutionsind",
-						"app/views/solutions/index.html.erb"
-					],
-					[
-						"applicat",
-						"app/views/layouts/application.html.erb"
-					],
-					[
-						"application_",
-						"app/helpers/application_helper.rb"
-					],
-					[
-						"core.",
-						"app/assets/javascripts/application/core.js"
-					],
-					[
-						"core.s",
-						"app/assets/javascripts/application/core.js"
+						"404",
+						"public/404.html"
 					],
 					[
 						"reset",
-						"app/assets/stylesheets/application/_reset.scss"
-					],
-					[
-						"cor",
-						"app/assets/stylesheets/application/core.scss"
+						"app/assets/stylesheets/_reset.scss"
 					],
 					[
 						"route",
 						"config/routes.rb"
 					],
 					[
+						"baseindex",
+						"app/views/base/index.html.erb"
+					],
+					[
+						"appli",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"core",
+						"app/assets/javascripts/application/core.js"
+					],
+					[
+						"appl",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"css.",
+						"assets/style.css.liquid"
+					],
+					[
+						"core.",
+						"app/assets/javascripts/application/core.js"
+					],
+					[
+						"applca",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"cores.",
+						"app/assets/stylesheets/core.scss"
+					],
+					[
+						"product",
+						"config/environments/production.rb"
+					],
+					[
+						"envi",
+						"config/environments/development.rb"
+					],
+					[
+						"rout",
+						"config/routes.rb"
+					],
+					[
+						"gem",
+						"Gemfile"
+					],
+					[
+						"rou",
+						"config/routes.rb"
+					],
+					[
+						"index",
+						"index.php"
+					],
+					[
+						"mailer",
+						"app/mailers/contact_us.rb"
+					],
+					[
+						".scss",
+						"css/styles.scss"
+					],
+					[
+						"related",
+						"snippets/related-products.liquid"
+					],
+					[
+						".js",
+						"assets/core.js"
+					],
+					[
+						"product-gri",
+						"snippets/product-grid-item.liquid"
+					],
+					[
+						"rese",
+						"css/_reset.scss"
+					],
+					[
+						"magni",
+						"public/client/css/_magnific.scss"
+					],
+					[
+						"contact",
+						"app/views/base/contact.html.erb"
+					],
+					[
+						"knowledge",
+						"app/views/knowledge/deconstructing_the_team.html.erb"
+					],
+					[
+						"appviewin",
+						"app/views/base/index.html.erb"
+					],
+					[
+						"core.j",
+						"app/assets/javascripts/application/core.js"
+					],
+					[
+						"advan",
+						"app/views/why_us/advantages.html.erb"
+					],
+					[
+						"layoutsap",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"careercore.scs",
+						"public/careers/css/core.scss"
+					],
+					[
+						"careerscor",
+						"public/careers/css/core.css"
+					],
+					[
+						"environ",
+						"config/environment.rb"
+					],
+					[
+						"careeer",
+						"public/careers/css/core.scss"
+					],
+					[
+						"environem",
+						"config/environment.rb"
+					],
+					[
+						"mag",
+						"app/assets/stylesheets/application/_magnific.scss"
+					],
+					[
+						"co",
+						"app/assets/javascripts/application/core.js"
+					],
+					[
+						"services",
+						"app/views/services/index.html.erb"
+					],
+					[
+						"applicat",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"magnif",
+						"app/assets/stylesheets/application/_magnific.scss"
+					],
+					[
+						"develo",
+						"config/environments/development.rb"
+					],
+					[
+						"devel",
+						"log/development.log"
+					],
+					[
+						"applicationhel",
+						"app/helpers/application_helper.rb"
+					],
+					[
+						"application",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"applicaitonhelp",
+						"app/helpers/application_helper.rb"
+					],
+					[
+						"base",
+						"app/controllers/base_controller.rb"
+					],
+					[
+						"gemf",
+						"Gemfile"
+					],
+					[
+						"experie",
+						"app/views/why_us/experience.html.erb"
+					],
+					[
+						"project",
+						"app/views/our_services/project_management.html.erb"
+					],
+					[
+						"client",
+						"application/client/views/client_template.php"
+					],
+					[
+						"bloom",
+						"app/views/portfolio/bloomfield_terrace.html.erb"
+					],
+					[
+						"design",
+						"app/views/our_services/design_services.html.erb"
+					],
+					[
+						"costplann",
+						"app/views/our_services/cost_planning.html.erb"
+					],
+					[
+						"not_found",
+						"application/client/views/main/not_found.php"
+					],
+					[
+						"index.php",
+						"public/index.php"
+					],
+					[
+						"client_templa",
+						"application/client/views/client_template.php"
+					],
+					[
+						"res",
+						"css/_reset.scss"
+					],
+					[
+						"head",
+						"partials/header.php"
+					],
+					[
+						"common.s",
+						"css/_common.scss"
+					],
+					[
+						"layoutshead",
+						"app/views/layouts/_header.html.erb"
+					],
+					[
+						"databas",
+						"config/database.yml.example"
+					],
+					[
+						"unic",
+						"config/unicorn.rb"
+					],
+					[
+						"homepag",
+						"app/assets/javascripts/application/homepageCanvas.js"
+					],
+					[
+						"datatable",
+						"app/assets/javascripts/admin/dataTables/config.js"
+					],
+					[
+						"faqs",
+						"app/views/admin/faqs/_form.html.erb"
+					],
+					[
+						"brea",
+						"snippets/breadcrumb.liquid"
+					],
+					[
+						"produc",
+						"templates/product.liquid"
+					],
+					[
+						"cooki",
+						"app/views/base/cookie_policy.html.erb"
+					],
+					[
+						"orion",
+						"app/views/portfolio/orion_house.html.erb"
+					],
+					[
+						"lay",
+						"layout/theme.liquid"
+					],
+					[
+						"cor",
+						"assets/core.js"
+					],
+					[
+						"footer",
+						"includes/include_footer.php"
+					],
+					[
+						"admissionsregist",
+						"admissions/registration.php"
+					],
+					[
+						"product_view",
+						"app/views/base/product_view.html.erb"
+					],
+					[
+						"contac",
+						"application/client/views/main/contact_us.php"
+					],
+					[
+						"templa",
+						"application/client/views/template.php"
+					],
+					[
+						"template",
+						"application/client/views/template.php"
+					],
+					[
+						"over",
+						"public/client/css/override.css"
+					],
+					[
+						"theme",
+						"layout/theme.liquid"
+					],
+					[
+						"layo",
+						"layout/theme.liquid"
+					],
+					[
+						"extracurriculartrip",
+						"extra_curricular/trips.php"
+					],
+					[
+						"admissi",
+						"admissions/index.php"
+					],
+					[
+						"scss",
+						"app/assets/stylesheets/application/application.scss"
+					],
+					[
+						"rotues",
+						"config/routes.rb"
+					],
+					[
+						"devleopmen",
+						"config/environments/development.rb"
+					],
+					[
+						"developme",
+						"config/environments/development.rb"
+					],
+					[
+						"baseindx",
+						"app/views/base/index.html.erb"
+					],
+					[
+						"basecontro",
+						"app/controllers/base_controller.rb"
+					],
+					[
+						"rotue",
+						"config/routes.rb"
+					],
+					[
+						"jointo",
+						"app/views/shared/_join_today.html.erb"
+					],
+					[
+						"cor.",
+						"public/client/css/core.css"
+					],
+					[
+						"searchindex",
+						"app/views/search/index.html.erb"
+					],
+					[
+						".en",
+						".env"
+					],
+					[
+						"seed",
+						"db/seeds.rb"
+					],
+					[
+						"header",
+						"includes/include_header.php"
+					],
+					[
+						"faq",
+						"app/views/support/faq.html.erb"
+					],
+					[
+						"index.html",
+						"app/views/index/index.html.erb"
+					],
+					[
+						"moz",
+						"app/assets/javascripts/application/modernizr.js"
+					],
+					[
+						"erms",
+						"app/views/base/terms_and_conditions.html.erb"
+					],
+					[
+						"errorsnot",
+						"app/views/errors/not_found.html.erb"
+					],
+					[
+						"applicatio",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"errors",
+						"app/controllers/errors_controller.rb"
+					],
+					[
+						"thank",
+						"app/views/base/thank_you.html.erb"
+					],
+					[
+						"solutions",
+						"app/views/solutions/index.html.erb"
+					],
+					[
+						"moderniz",
+						"app/assets/javascripts/application/modernizr.js"
+					],
+					[
+						"terms",
+						"app/views/base/terms_and_conditions.html.erb"
+					],
+					[
+						"",
+						"app/assets/stylesheets/application/_magnific.scss"
+					],
+					[
+						"applicationhelp",
+						"app/helpers/application_helper.rb"
+					],
+					[
+						"applicaitoncontro",
+						"app/controllers/application_controller.rb"
+					],
+					[
 						"layout",
 						"app/views/layouts/application.html.erb"
 					],
 					[
-						"index",
-						"app/views/about_us/index.html.erb"
+						"core.cs",
+						"public/client/css/core.css"
 					],
 					[
-						"overri",
-						"public/client/css/override.css"
-					],
-					[
-						"core",
-						"app/assets/stylesheets/application/core.scss"
+						"grid.scs",
+						"app/assets/stylesheets/admin/bootstrap/_grid.scss"
 					]
 				],
 				"width": 0.0
@@ -498,17 +1084,17 @@
 				],
 				"width": 0.0
 			},
-			"show_minimap": true,
+			"show_minimap": false,
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 284.0,
+			"side_bar_width": 288.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 1650.0
+		"new_window_width": 2558.0
 	},
 	"windows":
 	[
@@ -522,100 +1108,90 @@
 			"buffers":
 			[
 				{
-					"file": "/Users/robedwards/Sites/ore.com/app/views/base/index.html.erb",
+					"file": "/Users/robedwards/Sites/webexpoguildford/app/assets/images/sponsor_kyan.svg",
 					"settings":
 					{
-						"buffer_size": 2484,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/robedwards/Sites/ore.com/app/views/base/contact_us.html.erb",
-					"settings":
-					{
-						"buffer_size": 1467,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/robedwards/Sites/ore.com/app/views/layouts/application.html.erb",
-					"settings":
-					{
-						"buffer_size": 3252,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/robedwards/Sites/ore.com/app/views/products/easy_for_you.html.erb",
-					"settings":
-					{
-						"buffer_size": 2450,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/robedwards/Sites/ore.com/app/views/who_for/retail_banks.html.erb",
-					"settings":
-					{
-						"buffer_size": 1937,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"contents": "Searching 277 files for \"Who for\"\n\n/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application/core.scss:\n  891  }\n  892  \n  893: // Who for\n  894  \n  895  html.who_for {\n\n/Users/robedwards/Sites/ore.com/app/views/layouts/application.html.erb:\n   35                <li id=\"nav_products\"><%= link_to 'Products', products_path %></li>\n   36                <li id=\"nav_solutions\"><%= link_to 'Solutions', solutions_path %></li>\n   37:               <li id=\"nav_who_for\"><%= link_to 'Who for?', who_for_path %></li>\n   38                <li id=\"nav_about_us\"><%= link_to 'About us', about_us_path %></li>\n   39                <li id=\"nav_support\"><%= link_to 'Support', support_path %></li>\n   ..\n   68            <li><%= link_to 'Products', products_path %></li>\n   69            <li><%= link_to 'Solutions', solutions_path %></li>\n   70:           <li><%= link_to 'Who for', who_for_path %></li>\n   71          </ul>\n   72          <ul>\n\n/Users/robedwards/Sites/ore.com/app/views/products/easy_for_you.html.erb:\n   50      <h3>Learn more about how your </br >company could benefit</h3>\n   51      <p class=\"btn\">\n   52:       <%= link_to 'Who for?', who_for_path %>\n   53      </p>\n   54    </div>\n\n/Users/robedwards/Sites/ore.com/app/views/who_for/_who_for_masthead.html.erb:\n    2    <div class=\"content\">\n    3      <div class=\"col_1-2\">\n    4:         <h1>Who for?</h1>\n    5          <p>Options are incredibly versatile. ORE helps you get the most out of them.</p>\n    6      </div>\n\n/Users/robedwards/Sites/ore.com/log/development.log:\n 2313      54:             <li><%= link_to 'Product', products_path %></li>\n 2314      55:             <li><%= link_to 'Solutions', solutions_path %></li>\n 2315:     56:             <li><%= link_to 'Who for', who_for_path %></li>\n 2316      57:           </ul>\n 2317      58:         </div>\n ....\n 2334      54:             <li><%= link_to 'Product', products_path %></li>\n 2335      55:             <li><%= link_to 'Solutions', solutions_path %></li>\n 2336:     56:             <li><%= link_to 'Who for', who_for_path %></li>\n 2337      57:           </ul>\n 2338      58:         </div>\n ....\n 2355      54:             <li><%= link_to 'Product', products_path %></li>\n 2356      55:             <li><%= link_to 'Solutions', solutions_path %></li>\n 2357:     56:             <li><%= link_to 'Who for', who_for_path %></li>\n 2358      57:           </ul>\n 2359      58:         </div>\n ....\n 2376      54:             <li><%= link_to 'Product', products_path %></li>\n 2377      55:             <li><%= link_to 'Solutions', solutions_path %></li>\n 2378:     56:             <li><%= link_to 'Who for', who_for_path %></li>\n 2379      57:           </ul>\n 2380      58:         </div>\n ....\n 61476                <li>';@output_buffer.append=( link_to 'Products', products_path );@output_buffer.safe_append='</li>\n 61477                <li>';@output_buffer.append=( link_to 'Solutions', solutions_path );@output_buffer.safe_append='</li>\n 61478:               <li>';@output_buffer.append=( link_to 'Who for', who_for_path );@output_buffer.safe_append='</li>\n 61479                <li>';@output_buffer.append=( link_to 'About us', about_us_path );@output_buffer.safe_append='</li>\n 61480                <li>';@output_buffer.append=( link_to 'Support', support_path );@output_buffer.safe_append='</li>\n .....\n 61508            <li>';@output_buffer.append=( link_to 'Products', products_path );@output_buffer.safe_append='</li>\n 61509            <li>';@output_buffer.append=( link_to 'Solutions', solutions_path );@output_buffer.safe_append='</li>\n 61510:           <li>';@output_buffer.append=( link_to 'Who for', who_for_path );@output_buffer.safe_append='</li>\n 61511          </ul>\n 61512          <ul>\n .....\n 61514            <li>';@output_buffer.append=( link_to 'Products', products_path );@output_buffer.safe_append='</li>\n 61515            <li>';@output_buffer.append=( link_to 'Solutions', solutions_path );@output_buffer.safe_append='</li>\n 61516:           <li>';@output_buffer.append=( link_to 'Who for', who_for_path );@output_buffer.safe_append='</li>\n 61517          </ul>\n 61518        </div>\n\n~/Sites/ore.com/tmp/cache/assets/development/sass/e2bad801ad43489ff53ab8af805c9f5adffade74/core.scssc:\n    <binary>\n\n14 matches across 6 files\n",
-					"settings":
-					{
-						"buffer_size": 4295,
-						"line_ending": "Unix",
-						"name": "Find Results",
-						"scratch": true
-					}
-				},
-				{
-					"file": "/Users/robedwards/Sites/ore.com/app/assets/javascripts/application.js",
-					"settings":
-					{
-						"buffer_size": 766,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application/core.scss",
-					"settings":
-					{
-						"buffer_size": 23386,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/robedwards/Sites/ore.com/app/views/support/library.html.erb",
-					"settings":
-					{
-						"buffer_size": 1489,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application/_media_queries.scss",
-					"settings":
-					{
-						"buffer_size": 4209,
-						"line_ending": "Unix"
+						"buffer_size": 1808,
+						"line_ending": "Windows"
 					}
 				}
 			],
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 375.0,
+				"height": 93.0,
 				"selected_items":
 				[
 					[
-						"packa",
-						"Package Control: Install Package"
+						"sublima",
+						"Sublimall: Upload"
+					],
+					[
+						"sublimal",
+						"Sublimall: Retrieve"
+					],
+					[
+						"subli",
+						"Sublimall: Upload"
+					],
+					[
+						"subl",
+						"Sublimall: Upload"
+					],
+					[
+						"sublim",
+						"Sublimall: Retrieve"
 					],
 					[
 						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"jsh",
+						"JSHint"
+					],
+					[
+						"pack in",
+						"Package Control: Install Package"
+					],
+					[
+						"pac re",
+						"Package Control: Remove Package"
+					],
+					[
+						"pack list",
+						"Package Control: List Packages"
+					],
+					[
+						"js",
+						"JSHint"
+					],
+					[
+						"jshin",
+						"JSHint"
+					],
+					[
+						"paclkage",
+						"Package Control: Remove Package"
+					],
+					[
+						"jshint",
+						"JSHint"
+					],
+					[
+						"js ",
+						"JSHint"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"lit packa",
+						"Package Control: List Packages"
+					],
+					[
+						"packa",
 						"Package Control: Install Package"
 					],
 					[
@@ -647,10 +1223,6 @@
 						"Package Control: List Packages"
 					],
 					[
-						"package",
-						"Package Control: List Packages"
-					],
-					[
 						"list pa",
 						"Package Control: List Packages"
 					]
@@ -676,83 +1248,138 @@
 			},
 			"file_history":
 			[
-				"/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application/_media_queries.scss",
-				"/Users/robedwards/Sites/ore.com/app/assets/stylesheets/admin/bootstrap_responsive.scss",
-				"/Users/robedwards/Sites/ore.com/app/views/products/easy_for_you.html.erb",
-				"/Users/robedwards/Sites/ore.com/app/views/shared/_consultation_form.html.erb",
-				"/Users/robedwards/Sites/sibert.co.uk-shopify/sibert-online-4483733/snippets/aside_menu.liquid",
-				"/Users/robedwards/Sites/ore.com/app/assets/javascripts/application/core.js",
-				"/Users/robedwards/Sites/ore.com/app/views/base/index.html.erb",
-				"/Users/robedwards/Sites/ore.com/app/assets/javascripts/application/homepageCanvas.js",
-				"/Users/robedwards/Sites/ore.com/app/assets/javascripts/application.js",
-				"/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application/core.scss",
-				"/Users/robedwards/Sites/ore.com/config/application.rb",
-				"/Users/robedwards/Sites/ore.com/app/views/base/contact_us.html.erb",
-				"/Users/robedwards/Sites/ore.com/app/views/layouts/application.html.erb",
-				"/Users/robedwards/Sites/ore.com/app/views/support/library.html.erb",
-				"/Users/robedwards/Sites/ore.com/app/views/solutions/index.html.erb",
-				"/Users/robedwards/Sites/ore.com/app/views/who_for/educational_institutions.html.erb",
-				"/Users/robedwards/Sites/ore.com/app/views/who_for/retail_banks.html.erb",
-				"/Users/robedwards/Sites/ore.com/app/views/about_us/index.html.erb",
-				"/Users/robedwards/Sites/ore.com/app/controllers/base_controller.rb",
-				"/Users/robedwards/Sites/ore.com/config/routes.rb",
-				"/Users/robedwards/Sites/ore.com/app/views/who_for/brokers_spread_betting.html.erb",
-				"/Users/robedwards/Sites/ore.com/app/views/products/easy_for_clients.html.erb",
-				"/Users/robedwards/Sites/ore.com/app/controllers/who_for_controller.rb",
-				"/Users/robedwards/Sites/ore.com/app/views/support/faq.html.erb",
-				"/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application/_magnific.scss",
-				"/Users/robedwards/Sites/ore.com/app/controllers/solutions_controller.rb",
-				"/Users/robedwards/Sites/ore.com/app/controllers/support_controller.rb",
-				"/Users/robedwards/Sites/ore.com/app/assets/javascripts/application/magnific.js",
-				"/Users/robedwards/Sites/ore.com/app/assets/images/bg_solutions_level_3.png",
-				"/Users/robedwards/Sites/ore.com/app/helpers/application_helper.rb",
-				"/Users/robedwards/Sites/ore.com/app/views/who_for/index.html.erb",
-				"/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application/_reset.scss",
-				"/Users/robedwards/Sites/ore.com/app/assets/javascripts/application/grid.js",
+				"/Users/robedwards/Sites/webexpoguildford/app/assets/javascripts/core.js",
+				"/Users/robedwards/Sites/webexpoguildford/app/assets/stylesheets/core.scss",
+				"/Users/robedwards/Sites/webexpoguildford/tmp/cache/assets/development/sass/e525fedc30186e42853d91fd1414c2973ff3cd3d/_magnific.scssc",
+				"/Users/robedwards/Sites/webexpoguildford/app/assets/stylesheets/_magnific.scss",
+				"/Users/robedwards/Sites/webexpoguildford/app/assets/javascripts/magnific.js",
+				"/Users/robedwards/Sites/webexpoguildford/app/mailers/contact_us.rb",
+				"/Users/robedwards/Sites/webexpoguildford/app/views/base/index.html.erb",
+				"/Users/robedwards/Sites/webexpoguildford/app/views/layouts/application.html.erb",
 				"/Users/robedwards/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/Users/robedwards/Sites/ore.com/app/controllers/products_controller.rb",
-				"/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application.css",
-				"/Users/robedwards/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
-				"/Users/robedwards/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
-				"/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application/_colorbox.scss",
-				"/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application/mobile.scss",
-				"/Users/robedwards/Sites/ggset.co.uk/public/client/css/override.css",
-				"/Users/robedwards/Sites/invensys.com/app/assets/stylesheets/application/core.scss",
-				"/Users/robedwards/Sites/invensys.com/app/assets/stylesheets/application/core.css",
-				"/Users/robedwards/Library/Caches/Cleanup At Startup/Transmit/08E68FF8-6EC1-4DF2-9EC1-888038B449F6/main.php",
-				"/Users/robedwards/Library/Caches/Cleanup At Startup/Transmit/87859044-8597-48DC-8D54-6531D9A4C705/index.php",
-				"/Users/robedwards/Sites/egremontgroup.com/app/views/layouts/application.html.erb",
-				"/Users/robedwards/Sites/subscantech.com/app/views/layouts/application.html.erb",
-				"/Users/robedwards/Sites/invensys.com/app/views/layouts/application.html.erb",
-				"/Users/robedwards/Sites/otrsales.co.uk/app/views/layouts/application.html.erb",
-				"/Users/robedwards/Sites/classpages.co.uk/app/views/layouts/application.html.erb",
-				"/Users/robedwards/Sites/lal-schools-cms/app/views/layouts/application.html.erb",
-				"/Users/robedwards/Sites/lal-schools-cms/vendor/gems/browsercms-3.3.3/app/views/layouts/application.html.erb",
-				"/Users/robedwards/Sites/lal-schools-cms/vendor/gems/browsercms-3.3.3/app/views/layouts/cms/application.html.erb",
-				"/Users/robedwards/Sites/multiven.com/app/views/layouts/application.html.erb",
-				"/Users/robedwards/Sites/classlists.com/app/views/layouts/application.html.erb",
-				"/Users/robedwards/Sites/webmeetguildford.com/app/views/layouts/application.html.erb",
-				"/Users/robedwards/Sites/edwardssecurities.com/app/views/layouts/application.html.erb",
-				"/Users/robedwards/Sites/beckandco.co.uk/app/views/layouts/application.html.erb",
-				"/Users/robedwards/Sites/connect.rokebyschool.co.uk/app/views/layouts/application.html.erb",
-				"/Users/robedwards/Sites/fishneedwater.com/app/views/layouts/application.html.erb",
-				"/Users/robedwards/Sites/lawingov.org.uk/app/views/layouts/application.html.erb",
-				"/Users/robedwards/Sites/jukebox/app/views/layouts/application.html.erb",
-				"/Users/robedwards/Sites/stash-fork/app/views/layouts/application.html.erb",
-				"/Users/robedwards/Sites/stash/app/views/layouts/application.html.erb",
-				"/Users/robedwards/Sites/county-concierge.com/app/views/layouts/application.html.erb",
-				"/Users/robedwards/Sites/SoulPad/app/views/layouts/application.html.erb",
-				"/Users/robedwards/Sites/greenshieldsjcb.com/app/views/layouts/application.html.erb",
-				"/Users/robedwards/Sites/rebellion.co.uk/app/views/layouts/application.html.erb",
-				"/Users/robedwards/Sites/springfielddecorations.com/app/views/layouts/application.html.erb",
 				"/Users/robedwards/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-				"/Users/robedwards/Sites/invensys.com/Gemfile",
-				"/Users/robedwards/Sites/invensys.com/.ruby-version",
-				"/Users/robedwards/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/CHANGELOG"
+				"/Users/robedwards/Sites/webexpoguildford/app/assets/javascripts/easing.js",
+				"/Users/robedwards/Sites/webexpoguildford/config/initializers/inflections.rb",
+				"/Users/robedwards/Sites/webexpoguildford/test/controllers/base_controller_test.rb",
+				"/Users/robedwards/Sites/webexpoguildford/app/controllers/application_controller.rb",
+				"/Users/robedwards/Sites/webexpoguildford/config/initializers/filter_parameter_logging.rb",
+				"/Users/robedwards/Sites/webexpoguildford/app/assets/javascripts/application.js",
+				"/Users/robedwards/Sites/webexpoguildford/app/assets/javascripts/scrollTo.js",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/views/base/about_us.html.erb",
+				"/Users/robedwards/Sites/rvonm.co.uk/public/assets/application-b2bccdc65c6ea3eb1098662831defd50.css",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/views/knowledge/a_practical_approach_to_completion.html.erb",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/views/knowledge/high_maintenance.html.erb",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/helpers/knowledge_helper.rb",
+				"/Users/robedwards/Sites/rvonm.co.uk/config/initializers/wrap_parameters.rb",
+				"/Users/robedwards/Sites/illumii/illumii-5168540/templates/customers/account.liquid",
+				"/Users/robedwards/Sites/illumii/illumii-5168540/templates/customers/register.liquid",
+				"/Users/robedwards/Sites/illumii/illumii-5168540/templates/customers/addresses.liquid",
+				"/Users/robedwards/Sites/illumii/illumii-5168540/templates/customers/order.liquid",
+				"/Users/robedwards/Sites/illumii/illumii-5168540/snippets/collection-grid-item.liquid",
+				"/Users/robedwards/Sites/illumii/illumii-5168540/snippets/product-grid-item.liquid",
+				"/Users/robedwards/Sites/illumii/illumii-5168540/assets/style.css.liquid",
+				"/Users/robedwards/Sites/illumii/illumii-5168540/templates/product.liquid",
+				"/Users/robedwards/Sites/illumii/illumii-5168540/snippets/collection-listing.liquid",
+				"/Users/robedwards/Sites/illumii/illumii-5168540/assets/core.js",
+				"/Users/robedwards/Sites/illumii/illumii-5168540/templates/collection.liquid",
+				"/Users/robedwards/Sites/illumii/illumii-5168540/config/settings_data.json",
+				"/Users/robedwards/Sites/illumii/illumii-5168540/config/settings.html",
+				"/Users/robedwards/Sites/marketing.blueskyeducation.co.uk/app/uploaders/redactor_rails_document_uploader.rb",
+				"/Users/robedwards/Sites/marketing.blueskyeducation.co.uk/app/uploaders/real_story_document_uploader.rb",
+				"/Users/robedwards/Sites/marketing.blueskyeducation.co.uk/README.md",
+				"/Users/robedwards/Sites/marketing.blueskyeducation.co.uk/config/routes.rb",
+				"/Users/robedwards/Sites/marketing.blueskyeducation.co.uk/app/assets/javascripts/application/core.js",
+				"/Users/robedwards/Sites/marketing.blueskyeducation.co.uk/app/views/base/about.html.erb",
+				"/Users/robedwards/Sites/marketing.blueskyeducation.co.uk/app/views/base/our_partners.html.erb",
+				"/Users/robedwards/Sites/marketing.blueskyeducation.co.uk/app/views/benefits/index.html.erb",
+				"/Users/robedwards/Sites/marketing.blueskyeducation.co.uk/app/views/benefits/individuals.html.erb",
+				"/Users/robedwards/Sites/marketing.blueskyeducation.co.uk/app/views/benefits/school_leaders.html.erb",
+				"/Users/robedwards/Sites/marketing.blueskyeducation.co.uk/app/views/benefits/middle_leaders.html.erb",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/assets/javascripts/application/core.js",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/views/base/contact.html.erb",
+				"/Users/robedwards/Sites/rvonm.co.uk/lib/canonical_redirect.rb",
+				"/Users/robedwards/Sites/webexpoguildford/.env",
+				"/Users/robedwards/Sites/webexpoguildford/app/assets/images/cross.svg",
+				"/Users/robedwards/Sites/webexpoguildford/README.rdoc",
+				"/Users/robedwards/Sites/webexpoguildford/config/routes.rb",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/views/knowledge/do_you_need_a_project_manager.html.erb",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/helpers/application_helper.rb",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/controllers/services_controller.rb",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/controllers/knowledge_controller.rb",
+				"/Users/robedwards/Sites/rvonm.co.uk/config/routes.rb",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/views/base/index.html.erb",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/views/knowledge/deconstructing_the_team.html.erb",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/views/partials/_meta.html.erb",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/controllers/base_controller.rb",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/views/base/terms_of_use.html.erb",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/assets/stylesheets/application/core.scss",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/views/knowledge/index.html.erb",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/views/services/index.html.erb",
+				"/Users/robedwards/Sites/rvonm.co.uk/README.md",
+				"/Users/robedwards/Sites/rvonm.co.uk/config/deploy/production.rb",
+				"/Users/robedwards/Sites/rvonm.co.uk/config/vhosts/production.vhost.conf.erb",
+				"/Users/robedwards/Sites/rvonm.co.uk/tmp/cache/assets/production/sass/d4be23e6b2197351c78a2daa380454fb28c6828c/_reset.scssc",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/views/base/cookies.html.erb",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/views/base/privacy_policy.html.erb",
+				"/Users/robedwards/Sites/workplaceconcepts.co.uk/app/controllers/base_controller.rb",
+				"/Users/robedwards/Sites/workplaceconcepts.co.uk/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/workplaceconcepts.co.uk/app/assets/stylesheets/admin/redactor_iframe.scss",
+				"/Users/robedwards/Sites/workplaceconcepts.co.uk/app/assets/stylesheets/admin/application.scss",
+				"/Users/robedwards/Sites/workplaceconcepts.co.uk/app/assets/stylesheets/admin/bootstrap.scss",
+				"/Users/robedwards/Sites/workplaceconcepts.co.uk/config/database.yml.sample",
+				"/Users/robedwards/Sites/workplaceconcepts.co.uk/.env",
+				"/Users/robedwards/Sites/workplaceconcepts.co.uk/config/initializers/mime_types.rb",
+				"/Users/robedwards/Sites/workplaceconcepts.co.uk/tmp/cache/assets/development/sass/04b654ee507b96207856324d5ffbb7d2fe3314d7/redactor-custom.scssc",
+				"/Users/robedwards/Sites/workplaceconcepts.co.uk/app/assets/javascripts/application/core.js",
+				"/Users/robedwards/Sites/surreylawsociety.org.uk/includes/include_about_subnav.php",
+				"/Users/robedwards/Sites/surreylawsociety.org.uk/includes/include_about_sidebar.php",
+				"/Users/robedwards/Sites/surreylawsociety.org.uk/admin/functions/Swift-4.1.5/lib/classes/Swift/ByteStream/ArrayByteStream.php",
+				"/Users/robedwards/Sites/surreylawsociety.org.uk/accessibility.php",
+				"/Users/robedwards/Sites/workplaceconcepts.co.uk/app/views/layouts/_footer.html.erb",
+				"/Users/robedwards/Sites/workplaceconcepts.co.uk/config/initializers/filter_parameter_logging.rb",
+				"/Users/robedwards/Sites/workplaceconcepts.co.uk/app/assets/javascripts/admin.js",
+				"/Users/robedwards/Sites/workplaceconcepts.co.uk/app/assets/javascripts/cost-planning.js",
+				"/Users/robedwards/Sites/workplaceconcepts.co.uk/app/assets/javascripts/application/jquery.magnific-popup.min.js",
+				"/Users/robedwards/Sites/workplaceconcepts.co.uk/app/helpers/application_helper.rb",
+				"/Users/robedwards/Sites/workplaceconcepts.co.uk/log/.keep",
+				"/Users/robedwards/Sites/workplaceconcepts.co.uk/config/application.rb",
+				"/Users/robedwards/Sites/workplaceconcepts.co.uk/app/controllers/application_controller.rb",
+				"/Users/robedwards/Sites/workplaceconcepts.co.uk/app/controllers/our_services_controller.rb",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/views/knowledge/the_fundamentals_of_project_delivery.html.erb",
+				"/Users/robedwards/Sites/rvonm.co.uk/tmp/cache/assets/production/sprockets/f7cbd26ba1d28d48de824f0e94586655",
+				"/Users/robedwards/Sites/webexpoguildford/config/environments/development.rb",
+				"/Users/robedwards/Sites/webexpoguildford/Procfile",
+				"/Users/robedwards/Sites/webexpoguildford/config/database.yml",
+				"/Users/robedwards/Sites/webexpoguildford/config/boot.rb",
+				"/Users/robedwards/Sites/webexpoguildford/config/application.rb",
+				"/Users/robedwards/Sites/webexpoguildford/config.ru",
+				"/Users/robedwards/Sites/webexpoguildford/tmp/letter_opener/1390319690_1217d6e/rich.html",
+				"/Users/robedwards/Sites/webexpoguildford/app/views/contact_us/contact_us.html.erb",
+				"/Users/robedwards/Sites/webexpoguildford/config/unicorn.rb",
+				"/Users/robedwards/Sites/webexpoguildford/Gemfile",
+				"/Users/robedwards/Sites/webexpoguildford/app/controllers/base_controller.rb",
+				"/Users/robedwards/Sites/webexpoguildford/app/views/base/thank_you.html.erb",
+				"/Users/robedwards/Sites/webexpoguildford/config/environment.rb",
+				"/Users/robedwards/Sites/webexpoguildford/config/initializers/backtrace_silencers.rb",
+				"/Users/robedwards/Sites/webexpoguildford/config/initializers/mime_types.rb",
+				"/Users/robedwards/Sites/webexpoguildford/vendor/assets/javascripts/.keep",
+				"/Users/robedwards/Sites/webexpoguildford/Gemfile.lock",
+				"/Users/robedwards/Sites/webexpoguildford/css/_reset.scss",
+				"/Users/robedwards/Sites/webexpoguildford/app/assets/stylesheets/_reset.scss",
+				"/Users/robedwards/Sites/webexpoguildford/.gitignore",
+				"/Users/robedwards/Sites/rokeby-2009/includes/include_nav.php",
+				"/Users/robedwards/Sites/rokeby-2009/index.php",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/mailers/.gitkeep",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/assets/javascripts/application/magnific.js",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/assets/stylesheets/application/_magnific.scss",
+				"/Users/robedwards/Sites/webexpoguildford/js/application.js",
+				"/Users/robedwards/Sites/illumii/illumii-5168540/templates/page.contact.liquid",
+				"/Users/robedwards/Sites/webexpoguildford/.sass-cache/b35509c7fbb8747319236a026946a46e5b462a24/styles.scssc"
 			],
 			"find":
 			{
-				"height": 37.0
+				"height": 25.0
 			},
 			"find_in_files":
 			{
@@ -767,134 +1394,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"home_Gallery",
-					"home_galler",
-					"slide_1",
-					"landscape",
-					":company_name",
-					":contact_name",
-					"name",
-					"min-height",
-					"Who for",
-					"\"><%=",
-					"h2",
-					"desktop",
-					"1024",
-					"mq-tablet-landscape",
-					"desktop-",
-					".content {",
-					"slide_1",
-					".content {",
-					"col_1-3",
-					"slide_1",
-					"max-width: 570",
-					"block_mod",
-					"home_gallery ",
-					"h1",
-					"<h1>Products",
-					";\n",
-					"for",
-					"h2",
-					"'#', 'Learn more'",
-					"h3",
-					"link_to '#', Learn more",
-					"// P",
-					":telephone",
-					"telephone",
-					":email",
-					"aside_menu",
-					"800",
-					"570px",
-					"include",
-					"tablet-land",
+					"#location",
+					"#speakers",
+					"start",
+					": ",
+					"#location",
+					"intro",
 					"main-nav",
-					"height: ",
-					"150px",
-					"#header",
-					"font-weight: 500",
-					"500",
-					"font-weight: 500;",
-					"$brandon",
-					".content",
-					"<%= link_to 'Brokers/Spread betting', who_for_path %>",
-					":after {",
+					"Start",
+					".cross {",
+					"Start",
+					".main-nav",
 					"main-nav",
-					"docked",
-					"2",
+					"STart",
+					"role-call",
+					"#location ",
+					"speakers",
+					"speakers {",
+					"main {",
+					"margin-top: 4%;",
+					"margin-top: 4",
+					"margin-top:",
+					"margin-top;",
+					"#schedule",
+					"speaker_details",
+					"btn alt\"",
+					"_nav",
+					"speaker",
+					"speaker_nav",
+					"24",
+					".close {",
+					"mfp-close",
+					"20px",
+					"header {",
+					"main-nav",
+					"color",
+					"color 500ms ease 500ms;",
+					"border",
+					"all",
+					"location_active",
 					"5",
-					"height",
-					"\n      ",
-					"menu",
+					"last_year",
 					"main-nav",
-					"800p",
-					".content {",
-					"padding",
-					"padding:",
-					"1024",
-					"width",
-					"find",
-					"this",
-					"$this",
-					"interval",
-					"37%",
-					"isplay: block; width: 70px; height: 70px; ",
-					"background-image:",
-					"gallerify",
-					"postslide",
-					"fitWidth",
-					".btn",
-					"font_freight",
-					"<attr class=\"required\">*</attr>",
-					"h3",
-					"consultation_form",
-					".cols_",
-					"6%",
-					"figu",
-					"h1",
-					"teal",
-					"cols_",
-					"<ul>",
-					"checklist",
-					"h1",
-					";\n",
-					".btn",
-					"h1",
+					"500",
+					"transition",
+					"2(n)",
+					"svg {",
+					"border-bottom:",
+					"svg",
+					"50ms",
+					"delay",
+					"transition",
+					"speakers_active",
+					"location_active",
+					"background-color",
+					"0",
+					"1s",
+					"out",
+					"transition",
+					"header",
+					"on Hicks",
+					"jon_hicks",
+					"Peter Cooper",
+					"robinwhittleton",
+					"speakerDeta",
+					"();\n",
 					"h2",
-					"h1",
-					"li",
-					"h2",
-					"<h2>",
-					"<p>",
-					"<%= image_tag",
-					":class",
 					".on",
-					"')",
-					"content:",
-					".highlight",
-					"cols",
-					".cols {",
-					"cols",
-					"col_1-2",
-					"solutions",
-					"green",
-					"darken",
-					"2",
-					"inlineBox",
-					"lightbox",
-					":enquiry",
-					"highlight",
-					".highlight",
-					".cols {",
-					"green",
-					"img {",
-					"media",
-					"midlight",
-					">",
-					"learn_more",
-					"margin-bottom: 40px;",
-					"E0E0E0",
-					"section",
-					"desaturate"
+					"showPanels",
+					"#speakers",
+					"#intro",
+					"display: none;",
+					"speakers",
+					"main-nav",
+					"location",
+					"#header",
+					"svg",
+					"#header {",
+					"200 200",
+					"location_active",
+					"_active",
+					"_acive",
+					"#speakers",
+					"#sponsors",
+					"#location",
+					"<h3>Break</h3>\n          <p>Proof in the prototype</p>",
+					"on",
+					"margin-top: 5%",
+					".btn {",
+					"div",
+					".btn",
+					"design",
+					"#loca",
+					"location",
+					"role-call",
+					"uppercase",
+					"role-call",
+					"thrott",
+					"thro",
+					"1px solid",
+					"_active",
+					"sliding",
+					"subMenuItems",
+					"info",
+					"role-call",
+					"schedule",
+					"1",
+					"border",
+					"_active",
+					"spons",
+					".logo",
+					".logo {",
+					"sponsors",
+					"intro {",
+					"#location",
+					"z-index",
+					"main-nav {",
+					"-moz-transform",
+					"div",
+					"background-size",
+					"#sponsors",
+					"30",
+					"main h2",
+					"intro",
+					"8",
+					"0%);",
+					"0%",
+					"800p",
+					"-800px"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -902,6 +1529,25 @@
 				"regex": false,
 				"replace_history":
 				[
+					"margin-top: 4%",
+					"200",
+					" ",
+					"$black",
+					"#introduction_contact",
+					"",
+					"_",
+					"$grey",
+					"#CCC",
+					"helvetica",
+					"gill_sans",
+					"E+PLC100",
+					"E+PLC400",
+					"who_for_business_schools_path",
+					"\" %></h1>",
+					"<h1><%= page_heading \"",
+					"\" %></h1>",
+					"<h1><%= page_heading \"",
+					"href=\"#arrange_consultation\" class=\"inlineFormBox\">",
 					"font-weight: 600",
 					"font-weight: 600;",
 					"$source_sans",
@@ -914,402 +1560,39 @@
 				"whole_word": false,
 				"wrap": true
 			},
-			"folders":
-			[
-				{
-					"follow_symlinks": true,
-					"path": "/Users/robedwards/Sites/ore.com"
-				}
-			],
 			"groups":
 			[
 				{
-					"selected": 7,
+					"selected": 0,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/Users/robedwards/Sites/ore.com/app/views/base/index.html.erb",
+							"file": "/Users/robedwards/Sites/webexpoguildford/app/assets/images/sponsor_kyan.svg",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 2484,
+								"buffer_size": 1808,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										2101,
-										2101
-									],
-									[
-										2443,
-										2443
+										1807,
+										233
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 79.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/Users/robedwards/Sites/ore.com/app/views/base/contact_us.html.erb",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1467,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										636,
-										636
-									],
-									[
-										700,
-										700
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/Users/robedwards/Sites/ore.com/app/views/layouts/application.html.erb",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 3252,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										543,
-										543
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/Users/robedwards/Sites/ore.com/app/views/products/easy_for_you.html.erb",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 2450,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										2422,
-										2422
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 1.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/Users/robedwards/Sites/ore.com/app/views/who_for/retail_banks.html.erb",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1937,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1469,
-										1469
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 4295,
-								"regions":
-								{
-									"match":
-									{
-										"flags": 112,
-										"regions":
-										[
-											[
-												140,
-												147
-											],
-											[
-												487,
-												494
-											],
-											[
-												870,
-												877
-											],
-											[
-												1144,
-												1151
-											],
-											[
-												1365,
-												1372
-											],
-											[
-												1746,
-												1753
-											],
-											[
-												2043,
-												2050
-											],
-											[
-												2340,
-												2347
-											],
-											[
-												2637,
-												2644
-											],
-											[
-												3042,
-												3049
-											],
-											[
-												3645,
-												3652
-											],
-											[
-												4049,
-												4056
-											]
-										],
-										"scope": ""
-									}
-								},
-								"selection":
-								[
-									[
-										155,
-										155
-									]
-								],
-								"settings":
-								{
-									"detect_indentation": false,
-									"line_numbers": false,
-									"output_tag": 1,
-									"result_base_dir": "",
-									"result_file_regex": "^([A-Za-z\\\\/<].*):$",
-									"result_line_regex": "^ +([0-9]+):",
-									"scroll_past_end": true,
-									"syntax": "Packages/Default/Find Results.hidden-tmLanguage",
+									"syntax": "Packages/XML/XML.tmLanguage",
 									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 2.0,
 								"zoom_level": 1.0
 							},
-							"type": "text"
-						},
-						{
-							"buffer": 6,
-							"file": "/Users/robedwards/Sites/ore.com/app/assets/javascripts/application.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 766,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										656,
-										656
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 7,
-							"file": "/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application/core.scss",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 23386,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										23386,
-										23386
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 18978.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 8,
-							"file": "/Users/robedwards/Sites/ore.com/app/views/support/library.html.erb",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1489,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										513,
-										515
-									],
-									[
-										525,
-										527
-									],
-									[
-										752,
-										754
-									],
-									[
-										769,
-										771
-									],
-									[
-										1028,
-										1030
-									],
-									[
-										1054,
-										1056
-									],
-									[
-										1276,
-										1278
-									],
-									[
-										1294,
-										1296
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 9,
-							"file": "/Users/robedwards/Sites/ore.com/app/assets/stylesheets/application/_media_queries.scss",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 4209,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										3614,
-										3557
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 1583.0,
-								"zoom_level": 1.0
-							},
+							"stack_index": 0,
 							"type": "text"
 						}
 					]
@@ -1317,7 +1600,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 23.0
+				"height": 25.0
 			},
 			"input":
 			{
@@ -1346,11 +1629,19 @@
 				]
 			},
 			"menu_visible": true,
-			"position": "420 176 1650 1086 0 0 2560 1418 ",
+			"output.exec":
+			{
+				"height": 114.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"position": "1 89 2558 1329 0 0 2560 1418 ",
 			"project": "",
 			"replace":
 			{
-				"height": 66.0
+				"height": 46.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1359,120 +1650,516 @@
 				"selected_items":
 				[
 					[
-						"media",
-						"app/assets/stylesheets/application/_media_queries.scss"
+						"core.scs",
+						"app/assets/stylesheets/core.scss"
 					],
 					[
-						"core.scss",
-						"app/assets/stylesheets/application/core.scss"
+						"core.sc",
+						"app/assets/stylesheets/core.scss"
+					],
+					[
+						"cores",
+						"app/assets/stylesheets/core.scss"
+					],
+					[
+						"magnific",
+						"app/assets/stylesheets/_magnific.scss"
 					],
 					[
 						"applica",
 						"app/views/layouts/application.html.erb"
 					],
 					[
-						"respos",
-						"app/assets/stylesheets/admin/bootstrap_responsive.scss"
+						"about",
+						"app/views/base/about_us.html.erb"
 					],
 					[
-						"core.scs",
+						"collect",
+						"templates/collection.liquid"
+					],
+					[
+						"collectiongri",
+						"snippets/collection-grid-item.liquid"
+					],
+					[
+						"prod",
+						"templates/product.liquid"
+					],
+					[
+						".css",
+						"assets/style.css.liquid"
+					],
+					[
+						"see",
+						"db/seeds.rb"
+					],
+					[
+						"relat",
+						"snippets/related-products.liquid"
+					],
+					[
+						"css",
+						"assets/style.css.liquid"
+					],
+					[
+						"core.scss",
 						"app/assets/stylesheets/application/core.scss"
-					],
-					[
-						"consult",
-						"app/views/shared/_consultation_form.html.erb"
-					],
-					[
-						"core.js",
-						"app/assets/javascripts/application/core.js"
-					],
-					[
-						"home",
-						"app/assets/javascripts/application/homepageCanvas.js"
-					],
-					[
-						"baseindex",
-						"app/views/base/index.html.erb"
-					],
-					[
-						"application",
-						"app/views/layouts/application.html.erb"
-					],
-					[
-						"whofor",
-						"app/controllers/who_for_controller.rb"
 					],
 					[
 						"routes",
 						"config/routes.rb"
 					],
 					[
-						"applcai",
-						"app/views/layouts/application.html.erb"
+						"core.js",
+						"app/assets/javascripts/core.js"
 					],
 					[
-						"applicait",
-						"config/application.rb"
-					],
-					[
-						"layou",
-						"app/views/layouts/application.html.erb"
-					],
-					[
-						"contact",
-						"app/views/base/contact_us.html.erb"
-					],
-					[
-						"controllersbase",
-						"app/controllers/base_controller.rb"
-					],
-					[
-						"solutionsind",
-						"app/views/solutions/index.html.erb"
-					],
-					[
-						"applicat",
-						"app/views/layouts/application.html.erb"
-					],
-					[
-						"application_",
-						"app/helpers/application_helper.rb"
-					],
-					[
-						"core.",
-						"app/assets/javascripts/application/core.js"
-					],
-					[
-						"core.s",
-						"app/assets/javascripts/application/core.js"
+						"404",
+						"public/404.html"
 					],
 					[
 						"reset",
-						"app/assets/stylesheets/application/_reset.scss"
-					],
-					[
-						"cor",
-						"app/assets/stylesheets/application/core.scss"
+						"app/assets/stylesheets/_reset.scss"
 					],
 					[
 						"route",
 						"config/routes.rb"
 					],
 					[
+						"baseindex",
+						"app/views/base/index.html.erb"
+					],
+					[
+						"appli",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"core",
+						"app/assets/javascripts/application/core.js"
+					],
+					[
+						"appl",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"css.",
+						"assets/style.css.liquid"
+					],
+					[
+						"core.",
+						"app/assets/javascripts/application/core.js"
+					],
+					[
+						"applca",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"cores.",
+						"app/assets/stylesheets/core.scss"
+					],
+					[
+						"product",
+						"config/environments/production.rb"
+					],
+					[
+						"envi",
+						"config/environments/development.rb"
+					],
+					[
+						"rout",
+						"config/routes.rb"
+					],
+					[
+						"gem",
+						"Gemfile"
+					],
+					[
+						"rou",
+						"config/routes.rb"
+					],
+					[
+						"index",
+						"index.php"
+					],
+					[
+						"mailer",
+						"app/mailers/contact_us.rb"
+					],
+					[
+						".scss",
+						"css/styles.scss"
+					],
+					[
+						"related",
+						"snippets/related-products.liquid"
+					],
+					[
+						".js",
+						"assets/core.js"
+					],
+					[
+						"product-gri",
+						"snippets/product-grid-item.liquid"
+					],
+					[
+						"rese",
+						"css/_reset.scss"
+					],
+					[
+						"magni",
+						"public/client/css/_magnific.scss"
+					],
+					[
+						"contact",
+						"app/views/base/contact.html.erb"
+					],
+					[
+						"knowledge",
+						"app/views/knowledge/deconstructing_the_team.html.erb"
+					],
+					[
+						"appviewin",
+						"app/views/base/index.html.erb"
+					],
+					[
+						"core.j",
+						"app/assets/javascripts/application/core.js"
+					],
+					[
+						"advan",
+						"app/views/why_us/advantages.html.erb"
+					],
+					[
+						"layoutsap",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"careercore.scs",
+						"public/careers/css/core.scss"
+					],
+					[
+						"careerscor",
+						"public/careers/css/core.css"
+					],
+					[
+						"environ",
+						"config/environment.rb"
+					],
+					[
+						"careeer",
+						"public/careers/css/core.scss"
+					],
+					[
+						"environem",
+						"config/environment.rb"
+					],
+					[
+						"mag",
+						"app/assets/stylesheets/application/_magnific.scss"
+					],
+					[
+						"co",
+						"app/assets/javascripts/application/core.js"
+					],
+					[
+						"services",
+						"app/views/services/index.html.erb"
+					],
+					[
+						"applicat",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"magnif",
+						"app/assets/stylesheets/application/_magnific.scss"
+					],
+					[
+						"develo",
+						"config/environments/development.rb"
+					],
+					[
+						"devel",
+						"log/development.log"
+					],
+					[
+						"applicationhel",
+						"app/helpers/application_helper.rb"
+					],
+					[
+						"application",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"applicaitonhelp",
+						"app/helpers/application_helper.rb"
+					],
+					[
+						"base",
+						"app/controllers/base_controller.rb"
+					],
+					[
+						"gemf",
+						"Gemfile"
+					],
+					[
+						"experie",
+						"app/views/why_us/experience.html.erb"
+					],
+					[
+						"project",
+						"app/views/our_services/project_management.html.erb"
+					],
+					[
+						"client",
+						"application/client/views/client_template.php"
+					],
+					[
+						"bloom",
+						"app/views/portfolio/bloomfield_terrace.html.erb"
+					],
+					[
+						"design",
+						"app/views/our_services/design_services.html.erb"
+					],
+					[
+						"costplann",
+						"app/views/our_services/cost_planning.html.erb"
+					],
+					[
+						"not_found",
+						"application/client/views/main/not_found.php"
+					],
+					[
+						"index.php",
+						"public/index.php"
+					],
+					[
+						"client_templa",
+						"application/client/views/client_template.php"
+					],
+					[
+						"res",
+						"css/_reset.scss"
+					],
+					[
+						"head",
+						"partials/header.php"
+					],
+					[
+						"common.s",
+						"css/_common.scss"
+					],
+					[
+						"layoutshead",
+						"app/views/layouts/_header.html.erb"
+					],
+					[
+						"databas",
+						"config/database.yml.example"
+					],
+					[
+						"unic",
+						"config/unicorn.rb"
+					],
+					[
+						"homepag",
+						"app/assets/javascripts/application/homepageCanvas.js"
+					],
+					[
+						"datatable",
+						"app/assets/javascripts/admin/dataTables/config.js"
+					],
+					[
+						"faqs",
+						"app/views/admin/faqs/_form.html.erb"
+					],
+					[
+						"brea",
+						"snippets/breadcrumb.liquid"
+					],
+					[
+						"produc",
+						"templates/product.liquid"
+					],
+					[
+						"cooki",
+						"app/views/base/cookie_policy.html.erb"
+					],
+					[
+						"orion",
+						"app/views/portfolio/orion_house.html.erb"
+					],
+					[
+						"lay",
+						"layout/theme.liquid"
+					],
+					[
+						"cor",
+						"assets/core.js"
+					],
+					[
+						"footer",
+						"includes/include_footer.php"
+					],
+					[
+						"admissionsregist",
+						"admissions/registration.php"
+					],
+					[
+						"product_view",
+						"app/views/base/product_view.html.erb"
+					],
+					[
+						"contac",
+						"application/client/views/main/contact_us.php"
+					],
+					[
+						"templa",
+						"application/client/views/template.php"
+					],
+					[
+						"template",
+						"application/client/views/template.php"
+					],
+					[
+						"over",
+						"public/client/css/override.css"
+					],
+					[
+						"theme",
+						"layout/theme.liquid"
+					],
+					[
+						"layo",
+						"layout/theme.liquid"
+					],
+					[
+						"extracurriculartrip",
+						"extra_curricular/trips.php"
+					],
+					[
+						"admissi",
+						"admissions/index.php"
+					],
+					[
+						"scss",
+						"app/assets/stylesheets/application/application.scss"
+					],
+					[
+						"rotues",
+						"config/routes.rb"
+					],
+					[
+						"devleopmen",
+						"config/environments/development.rb"
+					],
+					[
+						"developme",
+						"config/environments/development.rb"
+					],
+					[
+						"baseindx",
+						"app/views/base/index.html.erb"
+					],
+					[
+						"basecontro",
+						"app/controllers/base_controller.rb"
+					],
+					[
+						"rotue",
+						"config/routes.rb"
+					],
+					[
+						"jointo",
+						"app/views/shared/_join_today.html.erb"
+					],
+					[
+						"cor.",
+						"public/client/css/core.css"
+					],
+					[
+						"searchindex",
+						"app/views/search/index.html.erb"
+					],
+					[
+						".en",
+						".env"
+					],
+					[
+						"seed",
+						"db/seeds.rb"
+					],
+					[
+						"header",
+						"includes/include_header.php"
+					],
+					[
+						"faq",
+						"app/views/support/faq.html.erb"
+					],
+					[
+						"index.html",
+						"app/views/index/index.html.erb"
+					],
+					[
+						"moz",
+						"app/assets/javascripts/application/modernizr.js"
+					],
+					[
+						"erms",
+						"app/views/base/terms_and_conditions.html.erb"
+					],
+					[
+						"errorsnot",
+						"app/views/errors/not_found.html.erb"
+					],
+					[
+						"applicatio",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"errors",
+						"app/controllers/errors_controller.rb"
+					],
+					[
+						"thank",
+						"app/views/base/thank_you.html.erb"
+					],
+					[
+						"solutions",
+						"app/views/solutions/index.html.erb"
+					],
+					[
+						"moderniz",
+						"app/assets/javascripts/application/modernizr.js"
+					],
+					[
+						"terms",
+						"app/views/base/terms_and_conditions.html.erb"
+					],
+					[
+						"",
+						"app/assets/stylesheets/application/_magnific.scss"
+					],
+					[
+						"applicationhelp",
+						"app/helpers/application_helper.rb"
+					],
+					[
+						"applicaitoncontro",
+						"app/controllers/application_controller.rb"
+					],
+					[
 						"layout",
 						"app/views/layouts/application.html.erb"
 					],
 					[
-						"index",
-						"app/views/about_us/index.html.erb"
+						"core.cs",
+						"public/client/css/core.css"
 					],
 					[
-						"overri",
-						"public/client/css/override.css"
-					],
-					[
-						"core",
-						"app/assets/stylesheets/application/core.scss"
+						"grid.scs",
+						"app/assets/stylesheets/admin/bootstrap/_grid.scss"
 					]
 				],
 				"width": 0.0
@@ -1496,16 +2183,1321 @@
 			"settings":
 			{
 			},
-			"show_minimap": true,
+			"show_minimap": false,
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 284.0,
+			"side_bar_width": 288.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 63,
+			"window_id": 565,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "@import \"reset\";\n\n// Mixins\n\n@mixin clearfix {\n  zoom: 1;\n  &:before,\n  &:after { content: \"\"; display: table; }\n  &:after { clear: both; }\n}\n\n @mixin rotate($degrees) {\n    -webkit-transform: rotate($degrees);\n    -ms-transform: rotate($degrees);\n    transform: rotate($degrees);\n}\n\n// Fonts\n$browser-context: 18; // Body size ( mobile )\n@function em($pixels, $context: $browser-context) {\n  @return #{$pixels/$context}em\n}\n// Usage: font-size: em(16);\n\n// Fonts\n\n// font-family: 'NHaasGroteskDSW01-25Th'; Thin = 200\n// font-family: 'NHaasGroteskDSW01-26ThI'; italic\n// font-family: 'NeueHaasGroteskDisp W01'; Regular = 500\n// font-family: 'NHaasGroteskDSW01-56It'; italic\n// font-family: 'NHaasGroteskDSW01-65Md'; Thick = 600\n\n$haas: 'Neue Haas Grotesk W01 Disp', 'Helvetica Neue', Helvetica, Arial, sans-serif;\n\n// Colors\n\n$yellow: #fcec04;\n\n* { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }\n\nhtml, body { min-height: 100%; -moz-osx-font-smoothing: grayscale }\nbody { \n  background: image-url('cross.svg') no-repeat center -600px;\n  background-size: 3500px; margin: 0; font: 500 1.125em/1.66 $haas; margin: 0 6%; overflow-x: hidden; \n  background-color: $yellow;\n}\n.cross { display: none; }\nmain { max-width: 1000px; margin: 0 auto; }\nh1,h2,h3,h4,h5 { font-weight: 600; line-height: 1.3em; text-transform: uppercase; margin-bottom: em(15) }\nh2 { font-size: em(100); margin-bottom: 0.1em; }\nfigure { margin-bottom: 15px; }\nfigure>img { max-width: 100%; min-width:50%; }\nul, p, table { margin: 0 0 em(30); }\na { color: $yellow; text-decoration: none; ;-webkit-transition: color 0.3s; transition: color 0.3s; text-decoration: underline; }\na:hover { color: #fff; }\nbutton { -webkit-transition:0.2s;transition:0.2s }\n.hidden { display: none; }\n.btn { margin-bottom: em(50);}\n.btn a, input[type=\"submit\"] {\n  background: none;\n  color: $yellow;\n  border: 1px solid $yellow;  \n  -webkit-transition:0.2s;transition:0.2s;\n  padding: em(14) em(20);\n  text-decoration: none;\n  text-align: center;\n  -webkit-appearance: none;\n  -webkit-border-radius: 0;\n  &:hover, &:active, &:focus {\n    background: $yellow;\n    color: #000;\n  }\n}\n.btn.alt a, .alt input[type=\"submit\"] {\n  color: #000;\n  border-color: #000;\n  &:hover, &:active, &:focus {\n    background: #000;\n    color: $yellow;\n  }\n}\ntextarea,\ninput[type=\"text\"],\ninput[type=\"tel\"],\ninput[type=\"url\"],\ninput[type=\"file\"],\ninput[type=\"email\"],\ninput[type=\"password\"] {\n  display: inline-block;\n  padding: em(14);\n  margin-bottom:em(10);\n  color: #fff;\n  width: 100%;\n  border: 2px solid #fff;\n  vertical-align: middle;\n  background: #000;\n  -webkit-border-radius: 2px;\n  -moz-border-radius: 2px;\n  border-radius: 2px;\n  &:focus {\n    outline: none;\n    box-shadow: none;\n  }\n}\n\ntextarea {\n  height: 12em;\n}\n\n.select {\n  width: 280px;\n  position: relative;\n  overflow: hidden;\n  margin-bottom:em(10);\n  -webkit-border-radius: 2px;\n  -moz-border-radius: 2px;\n  border-radius: 2px;\n  border: 2px solid #fff;\n  background: image-url('icon_select_arrows.svg') no-repeat calc(100% - 20px) 50%;\n  -webkit-background-size: 7%;\n  background-size: 7%;\n  cursor: pointer;\n  select {\n    width: 310px;\n    background: transparent;\n    padding: 0.75em;\n    border: 0;\n    border-radius: 0;\n    cursor: pointer;\n    -webkit-appearance: none;\n    color: #fff;\n    option:active, option:focus {\n      background: #fff;\n      color: #000;\n    }\n  }\n  &:before {\n    content: \"\";\n    display: block;\n    width: 2px;\n    background: #fff;\n    position: absolute;\n    right: 60px;\n    height: 100%;\n  }\n}\n\n\n// Header\n\n#header {\n  background: $yellow;\n  display: block;\n  position: fixed;\n  width: 100%;\n  padding: em(20) 6%;\n  left: 0;\n  top: 0;\n}\n\nhtml.scrolling {\n  #header {\n    z-index: 500;\n  }\n}\n\n.main-nav {\n  @include clearfix;\n  ul {\n    list-style: none;\n  }\n  li {\n    float: left;\n    width: 22%;\n  }\n  li:hover, li:active {\n    background: rgba(0,0,0,0.2);\n  }\n  li a {\n    background: $yellow;\n    display: block; \n    border: 1px solid #000;\n    color: #000;\n    padding: em(10) 0;\n    text-decoration: none;\n    margin-top: -1px;\n    margin-left: -1px;\n    text-align: center;\n    text-transform: uppercase;\n    font-weight: 600;\n    text-decoration: none;\n  }\n}\n\n.logo {\n  float: left;\n  width: 138px;\n  line-height: 1em;\n  font-size: 1em;\n  margin-right: 8%;\n  font-weight: 200; \n  svg {\n    width: 100%;\n    fill: #000;\n    // stroke: $yellow;\n    // stroke-width: 2;\n    margin-bottom: 1.5em;\n  }\n  span {\n    font-size: 63px;\n    // text-shadow: hoff voff blur #000\n  }\n  a {\n    text-decoration: none;\n    color: #000;\n  }\n}\n\n.page_title {\n  color: $yellow;\n  text-align: center;\n  margin-top: em(90);\n  margin-bottom: em(140);\n  >div {@include rotate(-45deg); }\n  h1 {\n    font-size: em(122);\n    font-weight: 600;\n    line-height: 0.85em;\n    margin: 0;\n  }\n  h2 {\n    text-indent:10px;\n    font-size: em(25);\n    font-weight: 200;\n  }\n}\n\n@media screen and (min-width:0px) {\n  .page_title {\n    color: #000;\n  }\n}\n\n#intro,\n#speakers,\n#sponsors,\n#location,\n#schedule,\n#contact {\n  main {\n    padding-top: 250px;\n  }\n}\n\n#intro main {\n  padding-top: 0;\n  color: $yellow;\n  .btn {\n    margin-top: em(40);\n    font-size: em(24);\n  }\n}\n\n#contact_us {\n  margin: 20px 5% 40px;\n  position: relative;\n  a {\n    border: none;\n    padding: 0;\n  }\n  h2 {\n    font-size: 2em;\n    color: $yellow;\n  }\n  .mfp-close {\n    color: $yellow;\n    font-size: 2.5em;\n    opacity: 1;\n    font-family: $haas;\n    font-weight: 200;\n    height: 40px;\n    width: 40px;\n    line-height: 20px;\n    border: 3px solid $yellow;\n    &:hover {\n      background: $yellow;\n      color: #000;\n    }\n  }\n  label {\n    font-weight: 600;\n    line-height: 3em;\n    text-transform: uppercase;\n  }\n  fieldset>div {\n    @include clearfix;\n  }\n  input[type=\"submit\"] {\n    width: auto;\n    padding: 0.75em 2em;\n  }\n  textarea {\n    margin-bottom: em(20);\n  }\n}\n\n.close {\n  overflow: visible;\n  cursor: pointer;\n  background: transparent;\n  border: 0;\n  display: block;\n  outline: none;\n  padding: 0;\n  -webkit-appearance: none;\n  -webkit-box-shadow: none;\n  box-shadow: none;  \n  color: $yellow;\n  font-size: 2.5em;\n  opacity: 1;\n  font-family: $haas;\n  font-weight: 200;\n  height: 40px;\n  width: 40px;\n  line-height: 20px;\n  border: 3px solid $yellow;\n}\n\n.contact_info {\n  padding: 0.75em 0;\n  border-top: 1px solid #333;\n  border-bottom: 1px solid #333;\n  text-transform: uppercase;\n  font-size: 1.33em;\n  line-height: 1.33em;\n  font-weight: 600;\n  margin-bottom: 0.5em;\n  @include clearfix;\n  a, span { display: inline-block; color: #fff; }\n  span {\n    float: none;\n    margin-right: 1%;\n  }\n  a {\n    text-decoration: none;\n    float: none;\n  }\n}\n\n#footer_bar {\n  position: relative;\n  text-align: center;\n  margin: em(40) 0;\n  >p {\n   display: none;\n  }\n}\n\n.kyan_logo {\n  text-decoration: none;\n  text-align: center;\n  display: inline-block;\n  svg {\n    fill: $yellow;\n  }\n  svg:hover {\n    fill: #fff;\n  }\n}\n\n// Speakers\n\n#speakers h2 {\n  margin-bottom: 0.4em;\n  color: $yellow;\n}\n\n#speakers .role-call {\n  @include clearfix;\n  list-style: none;\n  width: 100%;\n  margin-left: 0 0 0 -28px;\n  position: relative;\n  li:first-child {\n    margin-left: 0;\n  }\n  li {\n    background: #000;\n    margin-left: percentage(28px/836px);\n    width: percentage(188px/836px);\n    min-height: 284px;\n    float: left;\n    margin-bottom: 28px;\n  }\n  figure {\n    cursor:pointer;\n    position: relative;\n    &:hover {\n      figcaption {\n        font-size: em(13.5);\n        position: absolute;\n        display: block;\n      }\n    }\n  }\n  figcaption {\n    width: 100%;\n    height: 100%;\n    background: rgba(0,0,0,0.5);\n    color: $yellow;\n    margin: 0;\n    position: absolute;\n    top:0;\n    display: none;\n    padding: 15px;\n  }\n  li>h4, li>h5 {\n    padding: 0 15px;\n    color: $yellow;\n    font-size: 0.75em;\n    font-weight: 600;\n    margin-bottom: 0.5em;\n  }\n  li>h5 {\n    font-weight: 500;\n    margin-bottom: 1.35em;\n    text-transform: none;\n  }\n  li:nth-child(4n+1) {\n    margin-left: 0;\n    clear: left;\n  }\n  li:nth-child(1), li:nth-child(2), li:nth-child(5), li:nth-child(6) {\n    .speaker_details {\n      right: 0;\n      top:0;\n      left: auto;\n    }\n  }\n}\n\n.speaker_details {\n  background: #000;\n  color: $yellow;\n  padding: 1em;\n  position: absolute;\n  top: 0;\n  left: 0;\n  z-index: 200;\n  width: percentage(404px/836px);\n  &.right {\n    right: 0;\n  }\n  &.left {\n    left: 0;\n  } \n  >h3 {\n    font-size: em(27);\n    width: 80%\n  }\n  h4 {\n    font-weight: 500;\n    font-size: em(22.5);\n  }\n  p {\n    font-size: em(13.5);\n  }\n  .close {\n    position: absolute;\n    top: 0px;\n    right:0px;\n    background: $yellow;\n    color: #000;\n    font-weight: 500;\n    font-size: 3em;\n    width: 60px;\n    height: 60px;\n  }\n  .links p {\n    margin-bottom: 0.5em;\n  }\n}\n\n.speaker_nav {\n  .btn {\n    display: inline-block;\n    margin-right: 2%;\n    text-transform: uppercase;\n  }\n}\n\n// Sponsors\n\n#sponsors main {\n  max-width: none;\n  margin-right: 8%\n}\n\n#sponsor_list {\n  text-align: center;\n  ul {\n    list-style: none;\n  }\n  li {\n    display: inline-block;\n    margin-right: 10%;\n    svg {\n      height: 170px;\n    }\n  }\n  li:last-child {\n    margin-right: 0;\n  }\n\n  @media screen and (max-width:1024px) {  \n    .sponsor_blue_ballroom {\n      svg {\n        width: 400px;\n      }\n    }\n    .sponsor_kyan, .sponsor_moo {\n      svg { width: 100px; }\n    }\n    svg {\n      fill: #000;\n    }\n  }\n}\n\n// Schedule\n\n#schedule_nav {\n  @include clearfix;\n  p {\n    width: 47.5%;\n    float: left;\n    margin-bottom: 2em;\n  }\n  .btn a {\n    font-size: em(40);\n    font-weight: 700;\n    border-width: 2px;\n    text-transform: uppercase;\n    display: block;\n    width: 100%;\n    padding: em(8) 0;\n  }\n  >p:first-child {\n    margin-right: 5%\n  }\n  .active a {\n    background: #000;\n    color: $yellow;\n  }\n}\n\n#design_track, #dev_track {\n  list-style: none;\n  h4 {\n    font-size: em(36);\n    font-weight: 300;\n    margin-bottom: em(10.5);\n  }\n  .title {\n    border-top: none;\n    padding: 0;\n  }\n  li {\n    border-top: 1px solid #000;\n    padding: em(22.5) 0;\n  }\n  h3 {\n    font-size: em(27);\n    font-weight: 500;\n    text-transform: none;\n  }\n  h3, p {\n    margin: 0;\n  }\n  .time {\n    text-align: center;\n    display: block;\n    float: left;\n    font-size: em(16);\n    font-weight: 700;\n    line-height: em(48);\n    width: 100px;\n    padding-bottom: em(22.5);\n  }\n  .break .time {\n    border-left: 10px solid #000;\n    width: 90px;\n  }\n  li div {\n    padding-left: 115px;\n    width: 100%;\n  }\n}\n\n// Location \n\n#location_bg {\n  >img {\n    display: none;\n    width: 100%;\n  }\n  #map {\n    height:508px;padding:0;width:100%;margin:0 0 60px;\n    display: block;\n  }\n}\n\n@media screen and (max-width:1024px) {\n  #location .btn a {\n    border-color: #000;\n    color: #000;\n    &:hover {\n      background: #000;\n      color: $yellow;\n    }\n  }\n}\n\n// Magnific popup\n\n@import \"magnific\";\n\n.mfp-content {\n  color: #fff;\n}\n\n.mfp-fade.mfp-bg {\n  opacity: 0;\n  -webkit-transition: all 0.15s ease-out;\n  -moz-transition: all 0.15s ease-out;\n  transition: all 0.15s ease-out;\n}\n/* overlay animate in */\n.mfp-fade.mfp-bg.mfp-ready {\n  opacity: 1;\n}\n/* overlay animate out */\n.mfp-fade.mfp-bg.mfp-removing {\n  opacity: 0;\n}\n\n/* content at start */\n.mfp-fade.mfp-wrap .mfp-content {\n  opacity: 0;\n\n  -webkit-transition: all 0.15s ease-out;\n  -moz-transition: all 0.15s ease-out;\n  transition: all 0.15s ease-out;\n}\n/* content animate it */\n.mfp-fade.mfp-wrap.mfp-ready .mfp-content {\n  opacity: 1;\n}\n/* content animate out */\n.mfp-fade.mfp-wrap.mfp-removing .mfp-content {\n  opacity: 0;\n}\n\n\n@media screen and (min-width:321px) {\n  .logo img {\n    width: 128px;\n  }\n}\n\n\n@media screen and (min-width:425px) {\n  .contact_info a {\n    float: right;\n  }\n}\n\n@media screen and (min-width:510px) {\n  #contact_us {\n    .mfp-close {\n      color: $yellow;\n      font-size: 3.5em;\n      opacity: 1;\n      font-family: $haas;\n      font-weight: 200;\n      height: 60px;\n      width: 60px;\n      line-height: 45px;\n      border: 3px solid $yellow;\n    }\n    h2 {\n      font-size: 3em;\n    }\n  }\n  .contact_info {\n    font-size: 1.75em;\n  }\n}\n\n\n@media screen and (min-width:768px) {\n  .page_title {\n    margin-top: em(400);\n    margin-bottom: em(170);\n    >div {\n      -webkit-transform: translate(100px, -70px) rotate(-45deg);\n      -ms-transform: translate(100px, -70px) rotate(-45deg);\n      transform: translate(100px, -70px) rotate(-45deg);\n    }\n    h1 {\n      font-size: em(215);\n    }\n    h2 {\n     text-indent:30px;\n      font-size: em(48);\n    }\n  }\n}\n\n@media only screen \nand (min-device-width:768px) \nand (max-device-width:1024px) \nand (orientation:landscape) {\n  body {\n    background-position: 50% -300px; \n  }\n  .page_title {\n    margin-top: em(200);\n  }\n}\n\n// Desktop\n\n@media screen and (min-width:1024px), (min-device-width:768px) and (max-device-width : 1024px)\nand (orientation:landscape) {\n\n// Start BREAKPOINT\n\n$browser-context: 24;\nbody { font-size: 1.3em; padding: 0; margin: 0 6%; background: $yellow; }\nmain { padding: 0 1.5%; }\nh2 { margin-bottom: em(15) }\n.cross {\n  display: block;\n  position: relative;\n  top: -1800px;\n  width: 100%;\n  -webkit-transform: translate(100%, 0%);\n  -ms-transform: translate(100%, 0%);\n  transform: translate(100%, 0%);\n  img {\n    position:absolute;\n    left:-50%;\n    -webkit-transform: translate(-700px, 0%);\n    -ms-transform: translate(-700px, 0%);\n    transform: translate(-700px, 0%);\n    width: 5000px;\n  }\n}\n\nh2 {\n  font-size: em(100);\n}\n.btn a {\n  font-size: 1em;\n}\ntextarea {\n  height: 9em;\n}\n#header {\n  z-index:500;\n  top:20px;\n  left: 0;\n  width: auto;\n  padding: 0;\n  background: none;\n  .main-nav, ul li:first-child a, ul li:last-child a, li a, .active a, .logo a {\n    -webkit-transition: all 500ms ease 500ms;\n    transition: all 500ms ease 500ms;\n  }\n  .logo {\n    margin-left: 65px;\n    float: none;\n    margin-bottom: 40px;\n  }\n}\n\n.main-nav {\n  padding-top: 30px;\n  ul {\n    margin: 0;\n  }\n  li {\n    float: none;\n    width: auto;\n  }\n  ul li:first-child a {\n    border-top: 1px solid #000;\n  }\n  li a {\n    background: none;\n    width: 170px;\n    border-right: none;\n    border-left: none;\n    display: block;\n    margin-top: -1px;\n    color: #000;\n    font-size: em(18);\n    margin-left: 50px;\n    padding: em(14) 0;\n  }\n\n  .active a {\n    width: 220px;\n    background: #000;\n    margin-left: 0;\n    padding-left: 50px;\n    color: $yellow;\n    &:hover {\n      color: $yellow;\n    }\n  }\n}\n\n\n#speakers main {\n  max-width: 836px;\n  width: 100%;\n  h2 {\n    text-align: right;\n  }\n}\n\n.speakers_active {\n  .main-nav {\n    ul li:first-child a {\n      border-color: $yellow;\n    }\n    li a {\n      color: $yellow;\n      border-color: $yellow;\n    }\n    li:hover {\n      background: rgba(252,236,4,0.2);\n    }\n    .active a {\n      background: $yellow;\n      color: #000;\n      &:hover {\n        color: #000;\n      }\n    }\n  }\n  .logo, .logo a {\n    color: $yellow;\n  }\n  svg {\n    fill: $yellow;\n  }\n}\n\n#footer_bar {\n  svg {\n    z-index: 500;\n    position: fixed;\n    height: 60px;\n    width: 60px;\n    bottom: 30px;\n    right: 30px;\n    fill: #000;\n  } \n}\n.kyan_logo {\n  top: 5px;\n  right: 4.5%;\n  position: absolute;\n}\n.page_title {\n  position: absolute;\n  width: 100%;\n  top: 50%;\n  -webkit-transform: translate(0%, -50%);\n  -ms-transform: translate(0%, -50%);\n  transform: translate(0%, -50%);\n  margin: 0;\n  h1 {\n    font-size: em(260);\n  }\n  h2 {\n   text-indent:30px;\n    font-size: em(54);\n  }\n  >div {\n    -webkit-transform: translate(-230px, 90px) rotate(-45deg);\n    -ms-transform: translate(-230px, 90px) rotate(-45deg);\n    transform: translate(-230px, 90px) rotate(-45deg);\n  }\n}\n.logo img {\n  width: 140px;\n}\n#intro,\n#speakers,\n#sponsors,\n#location,\n#schedule,\n#contact {\n  z-index: 100;\n  width: 100%;;\n  height: 600px;\n  position: absolute;\n  main {\n    padding: 0;\n  }\n  main>h2 {\n    color: #000;\n    margin-bottom: 0.25em;\n  }\n}\n#intro main {\n  width: 20%;\n  position: absolute;\n  right:  5%;\n  top: 50%;\n  -webkit-transform: translate(0%, -50%);\n  -ms-transform: translate(0%, -50%);\n  transform: translate(0%, -50%);\n\n  -webkit-transition: opacity 1s ease-in-out;\n  -ms-transition: opacity 1s ease-in-out;\n   opacity: 1;\n   .btn {\n    font-size: em(24);\n   }\n}\n#intro .btn {\n  margin-bottom: 0;\n}\n.contact_info {\n  margin-bottom: 1.5em;\n}\n#contact_us {\n  margin: 0 auto;\n  width: 60%;\n  input, textarea, .select {\n    float: left;\n    width: 68%;\n    margin-left: 2%;\n    margin-bottom: em(20);\n  }\n  .select {\n    width: 300px;\n    select {\n      width: 340px;\n    }\n  }\n  label {\n    float: left;\n    width: 30%;\n  }\n  input[type=\"submit\"] {\n    margin-left: 32%;\n  }\n  .mfp-close {\n    color: $yellow;\n    font-size: 4.5em;\n    height: 80px;\n    width: 80px;\n  }\n}\n.mfp-container {\n  padding: 0 0;\n}\n\n#intro {\n  height: 100%;\n  width: 100%;\n  left: 1100px;\n  top:250px;\n  main h2 {\n    margin-top: 20%;\n  }\n}\n\n// Speakers\n\n#speakers {\n  position: absolute;\n  top:250px;\n  left: 2800px;\n  main { \n    margin-top: 2%;\n    float: right;\n  }\n  .role-call {\n    clear: right;\n    float: right;\n  }\n}\n\n.speakers_active {\n  #header .main-nav {\n    // padding-right: 20px;\n    background: #000;\n  }\n  #intro main {\n    opacity: 0;\n  }\n}\n\n// Sponsors\n\n#sponsors {\n  left: 0;\n  top:1500px;\n  main {\n    margin-left: 22%;\n    margin-top: 2%;\n    p {\n      width: 50%;\n    }\n  }\n}\n\n#sponsor_list {\n  z-index:500;\n  float: right;\n  text-align: left;\n  li {\n    display: block;\n  }\n  .sponsor_blue_ballroom {\n    margin-bottom: em(60);\n  }\n  .sponsor_kyan {\n    margin-left: 0%;\n  }\n  .sponsor_moo {\n    margin-left: -40%;\n  }\n  svg {\n    fill: $yellow;\n  }\n}\n\n// Location\n\n.location_active {\n  #header .main-nav {\n    // padding-right: 20px;\n    background: $yellow;\n  }\n}\n\n#location_bg {\n  position: absolute;\n  top:1600px;\n  z-index: 0;\n  left: 2350px;\n  >img {\n    display: block;\n    width: 100%;\n  }\n}\n\n#location {\n  top:1600px;\n  left: 2300px;\n  main {\n    z-index:500;\n    float: right;\n    text-align: right;\n    margin-top: 2%;\n    padding-right: 4%;\n    h2 {\n      color: $yellow;\n    }\n    p {\n      float: right;\n      width: 40%;\n      color: $yellow;\n    }\n    .btn {\n      clear: right;\n    }\n  }\n}\n\n#schedule {\n  top:3000px;\n  left: 0;\n  height: 1000px;\n  main {\n    min-height: 1500px;\n    margin-right: 5%;\n    margin-top: 2%;\n    float: right;\n  }\n}\n\n// End BREAKPOINT\n\n}\n\n// Widescreen tweak\n@media screen and (min-width:1400px) {\n  body { \n    font-size: 1.5em;\n  }\n  #contact_us fieldset > div {\n     margin-bottom: 0.75em;\n  }\n}\n\n// Max height tweak\n@media screen and (max-height:800px) and (min-width:1024px) {\n  $browser-context: 22;\n  body { \n    font-size: 1.1em;\n  }\n  #footer_bar {\n    font-size: em(19);\n  }\n  .page_title {\n    h1 {\n      font-size: em(260);\n    }\n    h2 {\n      font-size: em(54);\n    }\n  }\n  #contact_us .mfp-close {\n    height: 60px;\n    width: 60px;\n  }\n}",
+					"file": "/Users/robedwards/Sites/webexpoguildford/app/assets/stylesheets/core.scss",
+					"file_size": 18873,
+					"file_write_time": 130374783150000000,
+					"settings":
+					{
+						"buffer_size": 18874,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/robedwards/Sites/webexpoguildford/app/assets/javascripts/core.js",
+					"settings":
+					{
+						"buffer_size": 9502,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/robedwards/Sites/webexpoguildford/app/views/base/index.html.erb",
+					"settings":
+					{
+						"buffer_size": 31722,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/robedwards/Sites/webexpoguildford/app/views/layouts/application.html.erb",
+					"settings":
+					{
+						"buffer_size": 6375,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/robedwards/Sites/webexpoguildford/README.rdoc",
+					"settings":
+					{
+						"buffer_size": 478,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 93.0,
+				"selected_items":
+				[
+					[
+						"sublima",
+						"Sublimall: Upload"
+					],
+					[
+						"sublimal",
+						"Sublimall: Retrieve"
+					],
+					[
+						"subli",
+						"Sublimall: Upload"
+					],
+					[
+						"subl",
+						"Sublimall: Upload"
+					],
+					[
+						"sublim",
+						"Sublimall: Retrieve"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"jsh",
+						"JSHint"
+					],
+					[
+						"pack in",
+						"Package Control: Install Package"
+					],
+					[
+						"pac re",
+						"Package Control: Remove Package"
+					],
+					[
+						"pack list",
+						"Package Control: List Packages"
+					],
+					[
+						"js",
+						"JSHint"
+					],
+					[
+						"jshin",
+						"JSHint"
+					],
+					[
+						"paclkage",
+						"Package Control: Remove Package"
+					],
+					[
+						"jshint",
+						"JSHint"
+					],
+					[
+						"js ",
+						"JSHint"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"lit packa",
+						"Package Control: List Packages"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"INSTALL",
+						"Package Control: Install Package"
+					],
+					[
+						"list pac",
+						"Package Control: List Packages"
+					],
+					[
+						"isntall",
+						"Package Control: Install Package"
+					],
+					[
+						"pacak",
+						"Package Control: List Packages"
+					],
+					[
+						"remove p",
+						"Package Control: Remove Package"
+					],
+					[
+						"remove pa",
+						"Package Control: Remove Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"list pa",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 435.0
+			},
+			"console":
+			{
+				"height": 131.0,
+				"history":
+				[
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/robedwards/Sites/webexpoguildford/tmp/letter_opener/1390321198_e63af9d/rich.html",
+				"/Users/robedwards/Sites/webexpoguildford/config/initializers/secret_token.rb",
+				"/Users/robedwards/Sites/webexpoguildford/app/views/base/thank_you.html.erb",
+				"/Users/robedwards/Sites/webexpoguildford/app/assets/stylesheets/_magnific.scss",
+				"/Users/robedwards/Sites/webexpoguildford/app/mailers/contact_us.rb",
+				"/Users/robedwards/Sites/webexpoguildford/app/assets/javascripts/magnific.js",
+				"/Users/robedwards/Sites/webexpoguildford/index.php",
+				"/Users/robedwards/Sites/webexpoguildford/js/application.js",
+				"/Users/robedwards/Sites/webexpoguildford/tmp/cache/assets/development/sprockets/c15880929bcf38ea2493751d48995621",
+				"/Users/robedwards/Sites/webexpoguildford/app/assets/stylesheets/core.scss",
+				"/Users/robedwards/Sites/webexpoguildford/app/assets/javascripts/core.js",
+				"/Users/robedwards/Sites/webexpoguildford/tmp/cache/assets/development/sass/e525fedc30186e42853d91fd1414c2973ff3cd3d/_magnific.scssc",
+				"/Users/robedwards/Sites/webexpoguildford/app/views/base/index.html.erb",
+				"/Users/robedwards/Sites/webexpoguildford/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/robedwards/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/Users/robedwards/Sites/webexpoguildford/app/assets/javascripts/easing.js",
+				"/Users/robedwards/Sites/webexpoguildford/config/initializers/inflections.rb",
+				"/Users/robedwards/Sites/webexpoguildford/test/controllers/base_controller_test.rb",
+				"/Users/robedwards/Sites/webexpoguildford/app/controllers/application_controller.rb",
+				"/Users/robedwards/Sites/webexpoguildford/config/initializers/filter_parameter_logging.rb",
+				"/Users/robedwards/Sites/webexpoguildford/app/assets/javascripts/application.js",
+				"/Users/robedwards/Sites/webexpoguildford/app/assets/javascripts/scrollTo.js",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/views/base/about_us.html.erb",
+				"/Users/robedwards/Sites/rvonm.co.uk/public/assets/application-b2bccdc65c6ea3eb1098662831defd50.css",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/views/knowledge/a_practical_approach_to_completion.html.erb",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/views/knowledge/high_maintenance.html.erb",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/helpers/knowledge_helper.rb",
+				"/Users/robedwards/Sites/rvonm.co.uk/config/initializers/wrap_parameters.rb",
+				"/Users/robedwards/Sites/illumii/illumii-5168540/templates/customers/account.liquid",
+				"/Users/robedwards/Sites/illumii/illumii-5168540/templates/customers/register.liquid",
+				"/Users/robedwards/Sites/illumii/illumii-5168540/templates/customers/addresses.liquid",
+				"/Users/robedwards/Sites/illumii/illumii-5168540/templates/customers/order.liquid",
+				"/Users/robedwards/Sites/illumii/illumii-5168540/snippets/collection-grid-item.liquid",
+				"/Users/robedwards/Sites/illumii/illumii-5168540/snippets/product-grid-item.liquid",
+				"/Users/robedwards/Sites/illumii/illumii-5168540/assets/style.css.liquid",
+				"/Users/robedwards/Sites/illumii/illumii-5168540/templates/product.liquid",
+				"/Users/robedwards/Sites/illumii/illumii-5168540/snippets/collection-listing.liquid",
+				"/Users/robedwards/Sites/illumii/illumii-5168540/assets/core.js",
+				"/Users/robedwards/Sites/illumii/illumii-5168540/templates/collection.liquid",
+				"/Users/robedwards/Sites/illumii/illumii-5168540/config/settings_data.json",
+				"/Users/robedwards/Sites/illumii/illumii-5168540/config/settings.html",
+				"/Users/robedwards/Sites/marketing.blueskyeducation.co.uk/app/uploaders/redactor_rails_document_uploader.rb",
+				"/Users/robedwards/Sites/marketing.blueskyeducation.co.uk/app/uploaders/real_story_document_uploader.rb",
+				"/Users/robedwards/Sites/marketing.blueskyeducation.co.uk/README.md",
+				"/Users/robedwards/Sites/marketing.blueskyeducation.co.uk/config/routes.rb",
+				"/Users/robedwards/Sites/marketing.blueskyeducation.co.uk/app/assets/javascripts/application/core.js",
+				"/Users/robedwards/Sites/marketing.blueskyeducation.co.uk/app/views/base/about.html.erb",
+				"/Users/robedwards/Sites/marketing.blueskyeducation.co.uk/app/views/base/our_partners.html.erb",
+				"/Users/robedwards/Sites/marketing.blueskyeducation.co.uk/app/views/benefits/index.html.erb",
+				"/Users/robedwards/Sites/marketing.blueskyeducation.co.uk/app/views/benefits/individuals.html.erb",
+				"/Users/robedwards/Sites/marketing.blueskyeducation.co.uk/app/views/benefits/school_leaders.html.erb",
+				"/Users/robedwards/Sites/marketing.blueskyeducation.co.uk/app/views/benefits/middle_leaders.html.erb",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/assets/javascripts/application/core.js",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/views/base/contact.html.erb",
+				"/Users/robedwards/Sites/rvonm.co.uk/lib/canonical_redirect.rb",
+				"/Users/robedwards/Sites/webexpoguildford/.env",
+				"/Users/robedwards/Sites/webexpoguildford/app/assets/images/cross.svg",
+				"/Users/robedwards/Sites/webexpoguildford/README.rdoc",
+				"/Users/robedwards/Sites/webexpoguildford/config/routes.rb",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/views/knowledge/do_you_need_a_project_manager.html.erb",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/helpers/application_helper.rb",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/controllers/services_controller.rb",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/controllers/knowledge_controller.rb",
+				"/Users/robedwards/Sites/rvonm.co.uk/config/routes.rb",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/views/base/index.html.erb",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/views/knowledge/deconstructing_the_team.html.erb",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/views/partials/_meta.html.erb",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/controllers/base_controller.rb",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/views/base/terms_of_use.html.erb",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/assets/stylesheets/application/core.scss",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/views/knowledge/index.html.erb",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/views/services/index.html.erb",
+				"/Users/robedwards/Sites/rvonm.co.uk/README.md",
+				"/Users/robedwards/Sites/rvonm.co.uk/config/deploy/production.rb",
+				"/Users/robedwards/Sites/rvonm.co.uk/config/vhosts/production.vhost.conf.erb",
+				"/Users/robedwards/Sites/rvonm.co.uk/tmp/cache/assets/production/sass/d4be23e6b2197351c78a2daa380454fb28c6828c/_reset.scssc",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/views/base/cookies.html.erb",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/views/base/privacy_policy.html.erb",
+				"/Users/robedwards/Sites/workplaceconcepts.co.uk/app/controllers/base_controller.rb",
+				"/Users/robedwards/Sites/workplaceconcepts.co.uk/app/views/layouts/application.html.erb",
+				"/Users/robedwards/Sites/workplaceconcepts.co.uk/app/assets/stylesheets/admin/redactor_iframe.scss",
+				"/Users/robedwards/Sites/workplaceconcepts.co.uk/app/assets/stylesheets/admin/application.scss",
+				"/Users/robedwards/Sites/workplaceconcepts.co.uk/app/assets/stylesheets/admin/bootstrap.scss",
+				"/Users/robedwards/Sites/workplaceconcepts.co.uk/config/database.yml.sample",
+				"/Users/robedwards/Sites/workplaceconcepts.co.uk/.env",
+				"/Users/robedwards/Sites/workplaceconcepts.co.uk/config/initializers/mime_types.rb",
+				"/Users/robedwards/Sites/workplaceconcepts.co.uk/tmp/cache/assets/development/sass/04b654ee507b96207856324d5ffbb7d2fe3314d7/redactor-custom.scssc",
+				"/Users/robedwards/Sites/workplaceconcepts.co.uk/app/assets/javascripts/application/core.js",
+				"/Users/robedwards/Sites/surreylawsociety.org.uk/includes/include_about_subnav.php",
+				"/Users/robedwards/Sites/surreylawsociety.org.uk/includes/include_about_sidebar.php",
+				"/Users/robedwards/Sites/surreylawsociety.org.uk/admin/functions/Swift-4.1.5/lib/classes/Swift/ByteStream/ArrayByteStream.php",
+				"/Users/robedwards/Sites/surreylawsociety.org.uk/accessibility.php",
+				"/Users/robedwards/Sites/workplaceconcepts.co.uk/app/views/layouts/_footer.html.erb",
+				"/Users/robedwards/Sites/workplaceconcepts.co.uk/config/initializers/filter_parameter_logging.rb",
+				"/Users/robedwards/Sites/workplaceconcepts.co.uk/app/assets/javascripts/admin.js",
+				"/Users/robedwards/Sites/workplaceconcepts.co.uk/app/assets/javascripts/cost-planning.js",
+				"/Users/robedwards/Sites/workplaceconcepts.co.uk/app/assets/javascripts/application/jquery.magnific-popup.min.js",
+				"/Users/robedwards/Sites/workplaceconcepts.co.uk/app/helpers/application_helper.rb",
+				"/Users/robedwards/Sites/workplaceconcepts.co.uk/log/.keep",
+				"/Users/robedwards/Sites/workplaceconcepts.co.uk/config/application.rb",
+				"/Users/robedwards/Sites/workplaceconcepts.co.uk/app/controllers/application_controller.rb",
+				"/Users/robedwards/Sites/workplaceconcepts.co.uk/app/controllers/our_services_controller.rb",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/views/knowledge/the_fundamentals_of_project_delivery.html.erb",
+				"/Users/robedwards/Sites/rvonm.co.uk/tmp/cache/assets/production/sprockets/f7cbd26ba1d28d48de824f0e94586655",
+				"/Users/robedwards/Sites/webexpoguildford/config/environments/development.rb",
+				"/Users/robedwards/Sites/webexpoguildford/Procfile",
+				"/Users/robedwards/Sites/webexpoguildford/config/database.yml",
+				"/Users/robedwards/Sites/webexpoguildford/config/boot.rb",
+				"/Users/robedwards/Sites/webexpoguildford/config/application.rb",
+				"/Users/robedwards/Sites/webexpoguildford/config.ru",
+				"/Users/robedwards/Sites/webexpoguildford/tmp/letter_opener/1390319690_1217d6e/rich.html",
+				"/Users/robedwards/Sites/webexpoguildford/app/views/contact_us/contact_us.html.erb",
+				"/Users/robedwards/Sites/webexpoguildford/config/unicorn.rb",
+				"/Users/robedwards/Sites/webexpoguildford/Gemfile",
+				"/Users/robedwards/Sites/webexpoguildford/app/controllers/base_controller.rb",
+				"/Users/robedwards/Sites/webexpoguildford/config/environment.rb",
+				"/Users/robedwards/Sites/webexpoguildford/config/initializers/backtrace_silencers.rb",
+				"/Users/robedwards/Sites/webexpoguildford/config/initializers/mime_types.rb",
+				"/Users/robedwards/Sites/webexpoguildford/vendor/assets/javascripts/.keep",
+				"/Users/robedwards/Sites/webexpoguildford/Gemfile.lock",
+				"/Users/robedwards/Sites/webexpoguildford/css/_reset.scss",
+				"/Users/robedwards/Sites/webexpoguildford/app/assets/stylesheets/_reset.scss",
+				"/Users/robedwards/Sites/webexpoguildford/.gitignore",
+				"/Users/robedwards/Sites/rokeby-2009/includes/include_nav.php",
+				"/Users/robedwards/Sites/rokeby-2009/index.php",
+				"/Users/robedwards/Sites/rvonm.co.uk/app/mailers/.gitkeep"
+			],
+			"find":
+			{
+				"height": 52.0
+			},
+			"find_in_files":
+			{
+				"height": 95.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"');\n",
+					"#jeader {",
+					"footer_Bar",
+					"last_year",
+					"images/",
+					"marker",
+					"option",
+					"setoption",
+					"layer",
+					"domListen",
+					"Start",
+					"location",
+					"offset",
+					"map",
+					"#map",
+					"map",
+					"sponsors",
+					"main {",
+					"height",
+					".",
+					"sponsors",
+					"fill=\"#FFED00\"",
+					"fill=\"#FFF02A\" ",
+					"fill:",
+					"#location",
+					"#speakers",
+					"start",
+					": ",
+					"#location",
+					"intro",
+					"main-nav",
+					"Start",
+					".cross {",
+					"Start",
+					".main-nav",
+					"main-nav",
+					"STart",
+					"role-call",
+					"#location ",
+					"speakers",
+					"speakers {",
+					"main {",
+					"margin-top: 4%;",
+					"margin-top: 4",
+					"margin-top:",
+					"margin-top;",
+					"#schedule",
+					"speaker_details",
+					"btn alt\"",
+					"_nav",
+					"speaker",
+					"speaker_nav",
+					"24",
+					".close {",
+					"mfp-close",
+					"20px",
+					"header {",
+					"main-nav",
+					"color",
+					"color 500ms ease 500ms;",
+					"border",
+					"all",
+					"location_active",
+					"5",
+					"last_year",
+					"main-nav",
+					"500",
+					"transition",
+					"2(n)",
+					"svg {",
+					"border-bottom:",
+					"svg",
+					"50ms",
+					"delay",
+					"transition",
+					"speakers_active",
+					"location_active",
+					"background-color",
+					"0",
+					"1s",
+					"out",
+					"transition",
+					"header",
+					"on Hicks",
+					"jon_hicks",
+					"Peter Cooper",
+					"robinwhittleton",
+					"speakerDeta",
+					"();\n",
+					"h2",
+					".on",
+					"showPanels",
+					"#speakers",
+					"#intro",
+					"display: none;",
+					"speakers",
+					"main-nav",
+					"location",
+					"#header",
+					"svg",
+					"#header {",
+					"200 200",
+					"location_active",
+					"_active",
+					"_acive",
+					"#speakers",
+					"#sponsors",
+					"#location",
+					"<h3>Break</h3>\n          <p>Proof in the prototype</p>",
+					"on",
+					"margin-top: 5%",
+					".btn {",
+					"div",
+					".btn",
+					"design",
+					"#loca",
+					"location",
+					"role-call",
+					"uppercase",
+					"role-call",
+					"thrott",
+					"thro",
+					"1px solid",
+					"_active",
+					"sliding",
+					"subMenuItems",
+					"info",
+					"role-call"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"footer_bar",
+					"margin-top: 4%",
+					"200",
+					" ",
+					"$black",
+					"#introduction_contact",
+					"",
+					"_",
+					"$grey",
+					"#CCC",
+					"helvetica",
+					"gill_sans",
+					"E+PLC100",
+					"E+PLC400",
+					"who_for_business_schools_path",
+					"\" %></h1>",
+					"<h1><%= page_heading \"",
+					"\" %></h1>",
+					"<h1><%= page_heading \"",
+					"href=\"#arrange_consultation\" class=\"inlineFormBox\">",
+					"font-weight: 600",
+					"font-weight: 600;",
+					"$source_sans",
+					"<%= link_to 'CDX & FX Brokers', who_for_path %>",
+					"margin-bottom: 50px;"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"follow_symlinks": true,
+					"path": "/Users/robedwards/Sites/webexpoguildford"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/robedwards/Sites/webexpoguildford/app/assets/stylesheets/core.scss",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 18874,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3994,
+										3994
+									]
+								],
+								"settings":
+								{
+									"history_list_is_closing": true,
+									"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1948.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/robedwards/Sites/webexpoguildford/app/assets/javascripts/core.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 9502,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2541,
+										2541
+									]
+								],
+								"settings":
+								{
+									"history_list_is_closing": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 916.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/robedwards/Sites/webexpoguildford/app/views/base/index.html.erb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 31722,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1300,
+										1304
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 74.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/Users/robedwards/Sites/webexpoguildford/app/views/layouts/application.html.erb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6375,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5794,
+										5794
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1015.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/robedwards/Sites/webexpoguildford/app/assets/stylesheets/core.scss",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 18874,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										13570,
+										13570
+									]
+								],
+								"settings":
+								{
+									"history_list_is_closing": true,
+									"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 12451.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/Users/robedwards/Sites/webexpoguildford/README.rdoc",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 478,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										478,
+										478
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 25.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.487266416226,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 114.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"position": "2 69 2558 1349 0 0 2560 1418 ",
+			"project": "",
+			"replace":
+			{
+				"height": 96.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"core.scs",
+						"app/assets/stylesheets/core.scss"
+					],
+					[
+						"core.js",
+						"~/Sites/webexpoguildford/app/assets/javascripts/core.js"
+					],
+					[
+						"core.sc",
+						"app/assets/stylesheets/core.scss"
+					],
+					[
+						"cores",
+						"app/assets/stylesheets/core.scss"
+					],
+					[
+						"magnific",
+						"app/assets/stylesheets/_magnific.scss"
+					],
+					[
+						"applica",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"about",
+						"app/views/base/about_us.html.erb"
+					],
+					[
+						"collect",
+						"templates/collection.liquid"
+					],
+					[
+						"collectiongri",
+						"snippets/collection-grid-item.liquid"
+					],
+					[
+						"prod",
+						"templates/product.liquid"
+					],
+					[
+						".css",
+						"assets/style.css.liquid"
+					],
+					[
+						"see",
+						"db/seeds.rb"
+					],
+					[
+						"relat",
+						"snippets/related-products.liquid"
+					],
+					[
+						"css",
+						"assets/style.css.liquid"
+					],
+					[
+						"core.scss",
+						"app/assets/stylesheets/application/core.scss"
+					],
+					[
+						"routes",
+						"config/routes.rb"
+					],
+					[
+						"404",
+						"public/404.html"
+					],
+					[
+						"reset",
+						"app/assets/stylesheets/_reset.scss"
+					],
+					[
+						"route",
+						"config/routes.rb"
+					],
+					[
+						"baseindex",
+						"app/views/base/index.html.erb"
+					],
+					[
+						"appli",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"core",
+						"app/assets/javascripts/application/core.js"
+					],
+					[
+						"appl",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"css.",
+						"assets/style.css.liquid"
+					],
+					[
+						"core.",
+						"app/assets/javascripts/application/core.js"
+					],
+					[
+						"applca",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"cores.",
+						"app/assets/stylesheets/core.scss"
+					],
+					[
+						"product",
+						"config/environments/production.rb"
+					],
+					[
+						"envi",
+						"config/environments/development.rb"
+					],
+					[
+						"rout",
+						"config/routes.rb"
+					],
+					[
+						"gem",
+						"Gemfile"
+					],
+					[
+						"rou",
+						"config/routes.rb"
+					],
+					[
+						"index",
+						"index.php"
+					],
+					[
+						"mailer",
+						"app/mailers/contact_us.rb"
+					],
+					[
+						".scss",
+						"css/styles.scss"
+					],
+					[
+						"related",
+						"snippets/related-products.liquid"
+					],
+					[
+						".js",
+						"assets/core.js"
+					],
+					[
+						"product-gri",
+						"snippets/product-grid-item.liquid"
+					],
+					[
+						"rese",
+						"css/_reset.scss"
+					],
+					[
+						"magni",
+						"public/client/css/_magnific.scss"
+					],
+					[
+						"contact",
+						"app/views/base/contact.html.erb"
+					],
+					[
+						"knowledge",
+						"app/views/knowledge/deconstructing_the_team.html.erb"
+					],
+					[
+						"appviewin",
+						"app/views/base/index.html.erb"
+					],
+					[
+						"core.j",
+						"app/assets/javascripts/application/core.js"
+					],
+					[
+						"advan",
+						"app/views/why_us/advantages.html.erb"
+					],
+					[
+						"layoutsap",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"careercore.scs",
+						"public/careers/css/core.scss"
+					],
+					[
+						"careerscor",
+						"public/careers/css/core.css"
+					],
+					[
+						"environ",
+						"config/environment.rb"
+					],
+					[
+						"careeer",
+						"public/careers/css/core.scss"
+					],
+					[
+						"environem",
+						"config/environment.rb"
+					],
+					[
+						"mag",
+						"app/assets/stylesheets/application/_magnific.scss"
+					],
+					[
+						"co",
+						"app/assets/javascripts/application/core.js"
+					],
+					[
+						"services",
+						"app/views/services/index.html.erb"
+					],
+					[
+						"applicat",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"magnif",
+						"app/assets/stylesheets/application/_magnific.scss"
+					],
+					[
+						"develo",
+						"config/environments/development.rb"
+					],
+					[
+						"devel",
+						"log/development.log"
+					],
+					[
+						"applicationhel",
+						"app/helpers/application_helper.rb"
+					],
+					[
+						"application",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"applicaitonhelp",
+						"app/helpers/application_helper.rb"
+					],
+					[
+						"base",
+						"app/controllers/base_controller.rb"
+					],
+					[
+						"gemf",
+						"Gemfile"
+					],
+					[
+						"experie",
+						"app/views/why_us/experience.html.erb"
+					],
+					[
+						"project",
+						"app/views/our_services/project_management.html.erb"
+					],
+					[
+						"client",
+						"application/client/views/client_template.php"
+					],
+					[
+						"bloom",
+						"app/views/portfolio/bloomfield_terrace.html.erb"
+					],
+					[
+						"design",
+						"app/views/our_services/design_services.html.erb"
+					],
+					[
+						"costplann",
+						"app/views/our_services/cost_planning.html.erb"
+					],
+					[
+						"not_found",
+						"application/client/views/main/not_found.php"
+					],
+					[
+						"index.php",
+						"public/index.php"
+					],
+					[
+						"client_templa",
+						"application/client/views/client_template.php"
+					],
+					[
+						"res",
+						"css/_reset.scss"
+					],
+					[
+						"head",
+						"partials/header.php"
+					],
+					[
+						"common.s",
+						"css/_common.scss"
+					],
+					[
+						"layoutshead",
+						"app/views/layouts/_header.html.erb"
+					],
+					[
+						"databas",
+						"config/database.yml.example"
+					],
+					[
+						"unic",
+						"config/unicorn.rb"
+					],
+					[
+						"homepag",
+						"app/assets/javascripts/application/homepageCanvas.js"
+					],
+					[
+						"datatable",
+						"app/assets/javascripts/admin/dataTables/config.js"
+					],
+					[
+						"faqs",
+						"app/views/admin/faqs/_form.html.erb"
+					],
+					[
+						"brea",
+						"snippets/breadcrumb.liquid"
+					],
+					[
+						"produc",
+						"templates/product.liquid"
+					],
+					[
+						"cooki",
+						"app/views/base/cookie_policy.html.erb"
+					],
+					[
+						"orion",
+						"app/views/portfolio/orion_house.html.erb"
+					],
+					[
+						"lay",
+						"layout/theme.liquid"
+					],
+					[
+						"cor",
+						"assets/core.js"
+					],
+					[
+						"footer",
+						"includes/include_footer.php"
+					],
+					[
+						"admissionsregist",
+						"admissions/registration.php"
+					],
+					[
+						"product_view",
+						"app/views/base/product_view.html.erb"
+					],
+					[
+						"contac",
+						"application/client/views/main/contact_us.php"
+					],
+					[
+						"templa",
+						"application/client/views/template.php"
+					],
+					[
+						"template",
+						"application/client/views/template.php"
+					],
+					[
+						"over",
+						"public/client/css/override.css"
+					],
+					[
+						"theme",
+						"layout/theme.liquid"
+					],
+					[
+						"layo",
+						"layout/theme.liquid"
+					],
+					[
+						"extracurriculartrip",
+						"extra_curricular/trips.php"
+					],
+					[
+						"admissi",
+						"admissions/index.php"
+					],
+					[
+						"scss",
+						"app/assets/stylesheets/application/application.scss"
+					],
+					[
+						"rotues",
+						"config/routes.rb"
+					],
+					[
+						"devleopmen",
+						"config/environments/development.rb"
+					],
+					[
+						"developme",
+						"config/environments/development.rb"
+					],
+					[
+						"baseindx",
+						"app/views/base/index.html.erb"
+					],
+					[
+						"basecontro",
+						"app/controllers/base_controller.rb"
+					],
+					[
+						"rotue",
+						"config/routes.rb"
+					],
+					[
+						"jointo",
+						"app/views/shared/_join_today.html.erb"
+					],
+					[
+						"cor.",
+						"public/client/css/core.css"
+					],
+					[
+						"searchindex",
+						"app/views/search/index.html.erb"
+					],
+					[
+						".en",
+						".env"
+					],
+					[
+						"seed",
+						"db/seeds.rb"
+					],
+					[
+						"header",
+						"includes/include_header.php"
+					],
+					[
+						"faq",
+						"app/views/support/faq.html.erb"
+					],
+					[
+						"index.html",
+						"app/views/index/index.html.erb"
+					],
+					[
+						"moz",
+						"app/assets/javascripts/application/modernizr.js"
+					],
+					[
+						"erms",
+						"app/views/base/terms_and_conditions.html.erb"
+					],
+					[
+						"errorsnot",
+						"app/views/errors/not_found.html.erb"
+					],
+					[
+						"applicatio",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"errors",
+						"app/controllers/errors_controller.rb"
+					],
+					[
+						"thank",
+						"app/views/base/thank_you.html.erb"
+					],
+					[
+						"solutions",
+						"app/views/solutions/index.html.erb"
+					],
+					[
+						"moderniz",
+						"app/assets/javascripts/application/modernizr.js"
+					],
+					[
+						"terms",
+						"app/views/base/terms_and_conditions.html.erb"
+					],
+					[
+						"",
+						"app/assets/stylesheets/application/_magnific.scss"
+					],
+					[
+						"applicationhelp",
+						"app/helpers/application_helper.rb"
+					],
+					[
+						"applicaitoncontro",
+						"app/controllers/application_controller.rb"
+					],
+					[
+						"layout",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"core.cs",
+						"public/client/css/core.css"
+					],
+					[
+						"grid.scs",
+						"app/assets/stylesheets/admin/bootstrap/_grid.scss"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 288.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 514,
 			"workspace_name": ""
 		}
 	],
